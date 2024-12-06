@@ -1,0 +1,141 @@
+= Article 13
+
+Définitions
+
+Aux fins de la présente directive, on entend par:
+
+. 1) «entreprise d'assurance»: une entreprise d'assurance directe vie ou non-vie ayant obtenu un agrément conformément à l'article 14;
+
+. 2) «entreprise captive d'assurance»: une entreprise d'assurance qui est détenue soit par une entreprise financière, autre qu'une entreprise d'assurance ou de réassurance ou qu'un groupe d'entreprises d'assurance ou de réassurance, au sens de l'article 212, paragraphe 1, point c), soit par une entreprise non financière, et qui a pour objet la fourniture d'une couverture d'assurance portant exclusivement sur les risques de l'entreprise ou des entreprises auxquelles elle appartient, ou bien les risques d'une ou plusieurs autres entreprises du groupe dont elle fait partie;
+
+. 3) «entreprise d'assurance d'un pays tiers»: une entreprise qui, si son siège social était situé dans la Communauté, serait tenue d'obtenir un agrément en tant qu'entreprise d'assurance, conformément à l'article 14;
+
+. 4) «entreprise de réassurance»: une entreprise ayant reçu l'agrément nécessaire, conformément à l'article 14, pour exercer des activités de réassurance;
+
+. 5) «entreprise captive de réassurance»: une entreprise de réassurance qui est détenue soit par une entreprise financière, autre qu'une entreprise d'assurance ou de réassurance ou qu'un groupe d'entreprises d'assurance ou de réassurance, au sens de l'article 212, paragraphe 1, point c), soit par une entreprise non financière, et qui a pour objet la fourniture d'une couverture de réassurance portant exclusivement sur les risques de l'entreprise ou des entreprises auxquelles elle appartient, ou bien les risques d'une ou plusieurs autres entreprises du groupe dont elle fait partie;
+
+. 6) «entreprise de réassurance d'un pays tiers»: une entreprise qui, si son siège social était situé dans la Communauté, serait tenue d'obtenir un agrément en tant qu'entreprise de réassurance, conformément à l'article 14;
+
+. 7) «réassurance»: l'une des deux activités suivantes:a)l'activité qui consiste à accepter des risques cédés par une entreprise d'assurance ou entreprise d'assurance d'un pays tiers ou par une autre entreprise de réassurance ou entreprise de réassurance d'un pays tiers; oub)s'agissant de l'association de souscripteurs dénommée «Lloyd's», l'activité consistant pour une entreprise d'assurance ou de réassurance autre que la Lloyd's à accepter les risques cédés par tout membre de la Lloyd's;
+
+. a) l'activité qui consiste à accepter des risques cédés par une entreprise d'assurance ou entreprise d'assurance d'un pays tiers ou par une autre entreprise de réassurance ou entreprise de réassurance d'un pays tiers; ou
+
+. b) s'agissant de l'association de souscripteurs dénommée «Lloyd's», l'activité consistant pour une entreprise d'assurance ou de réassurance autre que la Lloyd's à accepter les risques cédés par tout membre de la Lloyd's;
+
+. 8) «État membre d'origine»:a)en matière d'assurance non-vie, l'État membre dans lequel est situé le siège social de l'entreprise d'assurance qui couvre le risque;b)en matière d'assurance vie, l'État membre dans lequel est situé le siège social de l'entreprise d'assurance qui prend l'engagement; ouc)en matière de réassurance, l'État membre dans lequel est situé le siège social de l'entreprise de réassurance;
+
+. a) en matière d'assurance non-vie, l'État membre dans lequel est situé le siège social de l'entreprise d'assurance qui couvre le risque;
+
+. b) en matière d'assurance vie, l'État membre dans lequel est situé le siège social de l'entreprise d'assurance qui prend l'engagement; ou
+
+. c) en matière de réassurance, l'État membre dans lequel est situé le siège social de l'entreprise de réassurance;
+
+. 9) «État membre d'accueil»: l'État membre, autre que l'État membre d'origine, dans lequel une entreprise d'assurance ou de réassurance a une succursale ou fournit des services; pour l'assurance vie et pour l'assurance non-vie, on entend par l'État membre de fourniture des services, respectivement, l'État membre de l'engagement ou l'État membre où le risque est situé, lorsque ledit engagement ou risque est couvert par une entreprise d'assurance ou une succursale située dans un autre État membre;
+
+. 10) «autorité de contrôle»: l'autorité nationale ou les autorités nationales habilitées, en vertu d'une loi ou d'une réglementation, à contrôler les entreprises d'assurance ou de réassurance;
+
+. 11) «succursale»: toute agence ou succursale d'une entreprise d'assurance ou de réassurance qui est située sur le territoire d'un État membre autre que l'État membre d'origine;
+
+. 12) «établissement» d'une entreprise: son siège social ou une de ses succursales;
+
+. 13) «État membre où le risque est situé»: l'un des États membres suivants:a)l'État membre où se trouvent les biens, lorsque l'assurance est relative soit à des immeubles, soit à des immeubles et à leur contenu, dans la mesure où celui-ci est couvert par la même police d'assurance;b)l'État membre d'immatriculation, lorsque l'assurance est relative à des véhicules de toute nature;c)l'État membre où le preneur a souscrit la police, s'il s'agit d'un contrat d'une durée inférieure ou égale à quatre mois, relatif à des risques encourus au cours d'un voyage ou de vacances, quelle que soit la branche concernée;d)dans tous les cas non expressément couverts par les points a), b) ou c), l'État membre où l'un des éléments suivants est situé:i)la résidence habituelle du preneur; ouii)si le preneur est une personne morale, l'établissement du preneur auquel le contrat se rapporte;
+
+. a) l'État membre où se trouvent les biens, lorsque l'assurance est relative soit à des immeubles, soit à des immeubles et à leur contenu, dans la mesure où celui-ci est couvert par la même police d'assurance;
+
+. b) l'État membre d'immatriculation, lorsque l'assurance est relative à des véhicules de toute nature;
+
+. c) l'État membre où le preneur a souscrit la police, s'il s'agit d'un contrat d'une durée inférieure ou égale à quatre mois, relatif à des risques encourus au cours d'un voyage ou de vacances, quelle que soit la branche concernée;
+
+. d) dans tous les cas non expressément couverts par les points a), b) ou c), l'État membre où l'un des éléments suivants est situé:i)la résidence habituelle du preneur; ouii)si le preneur est une personne morale, l'établissement du preneur auquel le contrat se rapporte;
+
+. i) la résidence habituelle du preneur; ou
+
+. ii) si le preneur est une personne morale, l'établissement du preneur auquel le contrat se rapporte;
+
+. 14) «État membre de l'engagement»: l'État membre où l'un des éléments suivants est situé:a)la résidence habituelle du preneur;b)si le preneur est une personne morale, l'établissement du preneur auquel le contrat se rapporte;
+
+. a) la résidence habituelle du preneur;
+
+. b) si le preneur est une personne morale, l'établissement du preneur auquel le contrat se rapporte;
+
+. 15) «entreprise mère»: une entreprise mère au sens de l'article 1erde la directive 83/349/CEE;
+
+. 16) «entreprise filiale»: toute entreprise filiale au sens de l'article 1erde la directive 83/349/CEE, y compris les filiales de cette entreprise filiale;
+
+. 17) «liens étroits»: une situation dans laquelle deux personnes physiques ou morales ou plus sont liées par un lien de contrôle ou une participation, ou une situation dans laquelle deux personnes physiques ou morales ou plus sont liées durablement à une même personne par un lien de contrôle;
+
+. 18) «contrôle»: le lien qui existe entre une entreprise mère et une entreprise filiale, tel que décrit à l'article 1erde la directive 83/349/CEE, ou une relation de même nature entre toute personne physique ou morale et une entreprise;
+
+. 19) «transaction intragroupe»: toute transaction par laquelle une entreprise d'assurance ou de réassurance recourt directement ou indirectement à d'autres entreprises du même groupe ou à toute personne physique ou morale liée aux entreprises de ce groupe par des liens étroits, pour l'exécution d'une obligation, contractuelle ou non, à titre onéreux ou non;
+
+. 20) «participation»: le fait de détenir, directement ou par le biais d'un lien de contrôle, au moins 20 % des droits de vote ou du capital d'une entreprise;
+
+. 21) «participation qualifiée»: le fait de détenir dans une entreprise, directement ou indirectement, une participation qui représente au moins 10 % du capital ou des droits de vote, ou qui permet d'exercer une influence notable sur la gestion de cette entreprise;
+
+. 22) «marché réglementé»: l'un des marchés suivants:a)dans le cas d'un marché situé dans un État membre, un marché réglementé tel que défini à l'article 4, paragraphe 1, point 14), de la directive 2004/39/CE; oub)dans le cas d'un marché situé dans un pays tiers, un marché financier qui remplit les conditions suivantes:i)il est reconnu par l'État membre d'origine de l'entreprise d'assurance et satisfait à des exigences comparables à celles prévues par la directive 2004/39/CE; etii)les instruments financiers qui y sont négociés sont d'une qualité comparable à celle des instruments négociés sur le marché ou les marchés réglementés de l'État membre d'origine;
+
+. a) dans le cas d'un marché situé dans un État membre, un marché réglementé tel que défini à l'article 4, paragraphe 1, point 14), de la directive 2004/39/CE; ou
+
+. b) dans le cas d'un marché situé dans un pays tiers, un marché financier qui remplit les conditions suivantes:i)il est reconnu par l'État membre d'origine de l'entreprise d'assurance et satisfait à des exigences comparables à celles prévues par la directive 2004/39/CE; etii)les instruments financiers qui y sont négociés sont d'une qualité comparable à celle des instruments négociés sur le marché ou les marchés réglementés de l'État membre d'origine;
+
+. i) il est reconnu par l'État membre d'origine de l'entreprise d'assurance et satisfait à des exigences comparables à celles prévues par la directive 2004/39/CE; et
+
+. ii) les instruments financiers qui y sont négociés sont d'une qualité comparable à celle des instruments négociés sur le marché ou les marchés réglementés de l'État membre d'origine;
+
+. 23) «bureau national»: un bureau national d'assurance au sens de l'article 1er, point 3, de la directive 72/166/CEE;
+
+. 24) «fonds national de garantie»: l'organisme visé à l'article 1er, paragraphe 4, de la directive 84/5/CEE;
+
+. 25) «entreprise financière»: l'une des entités suivantes:a)un établissement de crédit, un établissement financier ou une entreprise de services auxiliaires bancaires au sens de l'article 4, points 1) 5) et 21), de la directive 2006/48/CE respectivement;b)une entreprise d'assurance ou de réassurance ou une société holding d'assurance au sens de l'article 212, paragraphe 1, point f);c)une entreprise d'investissement ou un établissement financier au sens de l'article 4, paragraphe 1, point 1), de la directive 2004/39/CE;d)une compagnie financière holding mixte au sens de l'article 2, point 15), de la directive 2002/87/CE;
+
+. a) un établissement de crédit, un établissement financier ou une entreprise de services auxiliaires bancaires au sens de l'article 4, points 1) 5) et 21), de la directive 2006/48/CE respectivement;
+
+. b) une entreprise d'assurance ou de réassurance ou une société holding d'assurance au sens de l'article 212, paragraphe 1, point f);
+
+. c) une entreprise d'investissement ou un établissement financier au sens de l'article 4, paragraphe 1, point 1), de la directive 2004/39/CE;
+
+. d) une compagnie financière holding mixte au sens de l'article 2, point 15), de la directive 2002/87/CE;
+
+. 26) «véhicule de titrisation» («special purpose vehicle»): toute entreprise, qu'elle soit dotée de la personnalité juridique ou non, autre qu'une entreprise d'assurance ou de réassurance existante, qui prend en charge les risques transférés par des entreprises d'assurance ou de réassurance et qui finance en totalité son exposition à ces risques par l'émission d'une dette ou tout autre mécanisme de financement, où les droits au remboursement de ceux ayant fait un versement dans le cadre de cette dette ou de cet autre mécanisme de financement sont subordonnés aux obligations de réassurance d'une telle entreprise;
+
+. 27) «grands risques»:a)les risques classés sous les branches 4, 5, 6, 7, 11 et 12 de l'annexe I, partie A;b)les risques classés sous les branches 14 et 15 de l'annexe I, partie A lorsque le preneur exerce à titre professionnel une activité industrielle, commerciale ou libérale et que les risques sont relatifs à cette activité;c)les risques classés sous les branches 3, 8, 9, 10, 13 et 16 de l'annexe I, partie A, pour autant que le preneur dépasse les limites chiffrées d'au moins deux des critères suivants:i)un total de bilan de 6 200 000 EUR;ii)un montant net du chiffre d'affaires, au sens de la quatrième directive 78/660/CEE du Conseil du 25 juillet 1978 fondée sur l'article 54, paragraphe 3, point g), du traité et concernant les comptes annuels de certaines formes de sociétés(30), de 12 800 000 EUR;iii)un nombre de 250 employés en moyenne au cours de l'exercice.Si le preneur fait partie d'un ensemble d'entreprises pour lequel des comptes consolidés sont établis conformément à la directive 83/349/CEE, les critères énoncés au premier alinéa, point c), sont appliqués sur la base des comptes consolidés.Les États membres ont la faculté d'ajouter à la catégorie visée au premier alinéa, point c), les risques assurés par des associations professionnelles, des coentreprises ou des associations momentanées;
+
+. a) les risques classés sous les branches 4, 5, 6, 7, 11 et 12 de l'annexe I, partie A;
+
+. b) les risques classés sous les branches 14 et 15 de l'annexe I, partie A lorsque le preneur exerce à titre professionnel une activité industrielle, commerciale ou libérale et que les risques sont relatifs à cette activité;
+
+. c) les risques classés sous les branches 3, 8, 9, 10, 13 et 16 de l'annexe I, partie A, pour autant que le preneur dépasse les limites chiffrées d'au moins deux des critères suivants:i)un total de bilan de 6 200 000 EUR;ii)un montant net du chiffre d'affaires, au sens de la quatrième directive 78/660/CEE du Conseil du 25 juillet 1978 fondée sur l'article 54, paragraphe 3, point g), du traité et concernant les comptes annuels de certaines formes de sociétés(30), de 12 800 000 EUR;iii)un nombre de 250 employés en moyenne au cours de l'exercice.
+
+. i) un total de bilan de 6 200 000 EUR;
+
+. ii) un montant net du chiffre d'affaires, au sens de la quatrième directive 78/660/CEE du Conseil du 25 juillet 1978 fondée sur l'article 54, paragraphe 3, point g), du traité et concernant les comptes annuels de certaines formes de sociétés(30), de 12 800 000 EUR;
+
+. iii) un nombre de 250 employés en moyenne au cours de l'exercice.
+
+. 28) «sous-traitance»: un accord, quelle que soit sa forme, conclu entre une entreprise d'assurance ou de réassurance et un prestataire de services, soumis ou non à un contrôle, en vertu duquel ce prestataire de services exécute, soit directement, soit en recourant lui-même à la sous-traitance, une procédure, un service ou une activité, qui serait autrement exécuté par l'entreprise d'assurance ou de réassurance elle-même;
+
+. 29) «fonction», dans un système de gouvernance: une capacité interne d'accomplir des tâches concrètes; un système de gouvernance comprend la fonction de gestion des risques, la fonction de vérification de la conformité, la fonction d'audit interne et la fonction actuarielle;
+
+. 30) «risque de souscription»: le risque de perte ou de changement défavorable de la valeur des engagements d'assurance, en raison d'hypothèses inadéquates en matière de tarification et de provisionnement;
+
+. 31) «risque de marché»: le risque de perte, ou de changement défavorable de la situation financière, résultant, directement ou indirectement, de fluctuations affectant le niveau et la volatilité de la valeur de marché des actifs, des passifs et des instruments financiers;
+
+. 32) «risque de crédit»: le risque de perte, ou de changement défavorable de la situation financière, résultant de fluctuations affectant la qualité de crédit d'émetteurs de valeurs mobilières, de contreparties ou de tout débiteur, auquel les entreprises d'assurance et de réassurance sont exposées sous forme de risque de contrepartie, de risque lié à la marge ou de concentration du risque de marché;
+
+. 33) «risque opérationnel»: le risque de perte résultant de procédures internes, de membres du personnel ou de systèmes inadéquats ou défaillants, ou d'événements extérieurs;
+
+. 34) «risque de liquidité»: le risque, pour les entreprises d'assurance et de réassurance, de ne pas pouvoir réaliser leurs investissements et autres actifs en vue d'honorer leurs engagements financiers au moment où ceux-ci deviennent exigibles;
+
+. 35) «risque de concentration»: toutes les expositions au risque qui sont assorties d'un potentiel de perte suffisamment important pour menacer la solvabilité ou la situation financière des entreprises d'assurance et de réassurance;
+
+. 36) «techniques d'atténuation du risque»: toutes les techniques qui permettent aux entreprises d'assurance et de réassurance de transférer tout ou partie de leurs risques à une autre partie;
+
+. 37) «effets de diversification»: la réduction de l'exposition au risque qu'entraîne le fait, pour les entreprises et groupes d'assurance et de réassurance, de diversifier leurs activités, dès lors que le résultat défavorable d'un risque peut être compensé par le résultat plus favorable d'un autre risque, lorsque ces risques ne sont pas parfaitement corrélés;
+
+. 38) «distribution de probabilité prévisionnelle»: une fonction mathématique qui affecte à un ensemble exhaustif d'événements futurs mutuellement exclusifs une probabilité de réalisation;
+
+. 39) «mesure de risque»: une fonction mathématique qui affecte un montant monétaire à une distribution de probabilité prévisionnelle donnée et qui augmente de façon monotone avec le niveau d'exposition au risque sous-tendant cette distribution de probabilité prévisionnelle.
+
+CHAPITRE II
+
+Accès aux activités

@@ -1,0 +1,31 @@
+= Article 233
+
+Seconde méthode (méthode de remplacement): méthode fondée sur la déduction et l'agrégation
+
+1.   La solvabilité du groupe de l'entreprise d'assurance ou de réassurance participante est égale à la différence entre:
+
+. a) les fonds propres éligibles du groupe sur une base agrégée, tels que définis au paragraphe 2, et
+
+. b) la somme de la valeur des entreprises d'assurance ou de réassurance liées dans l'entreprise d'assurance ou de réassurance participante et du capital de solvabilité requis du groupe sur une base agrégée tel que défini au paragraphe 3.
+
+2.   Les fonds propres éligibles du groupe sur une base agrégée correspondent à la somme:
+
+. a) des fonds propres éligibles à la couverture du capital de solvabilité requis de l'entreprise d'assurance ou de réassurance participante; et
+
+. b) de la part proportionnelle de l'entreprise d'assurance ou de réassurance participante dans les fonds propres éligibles à la couverture du capital de solvabilité requis des entreprises d'assurance ou de réassurance liées.
+
+3.   Le capital de solvabilité requis du groupe sur une base agrégée correspond à la somme:
+
+. a) du capital de solvabilité requis de l'entreprise d'assurance ou de réassurance participante; et
+
+. b) de la part proportionnelle du capital de solvabilité requis des entreprises d'assurance ou de réassurance liées.
+
+4.   Lorsque la participation dans les entreprises d'assurance ou de réassurance liées correspond, intégralement ou partiellement, à une propriété indirecte, la valeur dans l'entreprise d'assurance ou de réassurance participante des entreprises d'assurance ou de réassurance liées intègre la valeur de cette propriété indirecte, compte tenu des intérêts successifs pertinents, et les éléments visés au paragraphe 2, point b), et au paragraphe 3, point b), comprennent les parts proportionnelles correspondantes, respectivement, des fonds propres éligibles pour couvrir le capital de solvabilité requis des entreprises d'assurance ou de réassurance liées et du capital de solvabilité requis des entreprises d'assurance ou de réassurance liées.
+
+5.   Dans le cas où une entreprise d'assurance ou de réassurance et ses entreprises liées, ou l'ensemble des entreprises liées d'une société holding d'assurance, demandent l'autorisation de calculer le capital de solvabilité requis des entreprises d'assurance ou de réassurance du groupe sur la base d'un modèle interne, l'article 231 s'appliquemutatis mutandis.
+
+6.   Pour déterminer si le capital de solvabilité requis du groupe sur une base agrégée, calculé conformément au paragraphe 3, reflète de manière adéquate le profil de risque du groupe, les autorités de contrôle concernées accordent une attention particulière aux risques spécifiques existant au niveau du groupe qui, du fait qu'ils sont difficilement quantifiables, ne seraient pas suffisamment pris en compte.
+
+Lorsque le profil de risque du groupe s'écarte significativement des hypothèses qui sous-tendent le capital de solvabilité requis du groupe sur une base agrégée, une exigence de capital supplémentaire s'ajoutant au capital de solvabilité requis du groupe sur une base agrégée peut être imposée.
+
+L'article 37, paragraphes 1 à 5, ainsi que les mesures d'exécution arrêtées en vertu de l'article 37, paragraphe 6, s'appliquentmutatis mutandis.

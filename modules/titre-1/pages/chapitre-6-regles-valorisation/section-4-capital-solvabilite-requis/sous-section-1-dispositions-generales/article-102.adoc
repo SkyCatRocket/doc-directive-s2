@@ -1,0 +1,17 @@
+= Article 102
+
+Fréquence du calcul
+
+1.   Les entreprises d'assurance et de réassurance calculent leur capital de solvabilité requis au moins une fois par an et notifient le résultat de ce calcul aux autorités de contrôle.
+
+Les entreprises d'assurance et de réassurance détiennent des fonds propres éligibles qui couvrent le dernier capital de solvabilité requis notifié.
+
+Les entreprises d'assurance et de réassurance surveillent en permanence le montant de leurs fonds propres éligibles et leur capital de solvabilité requis.
+
+Si le profil de risque d'une entreprise d'assurance ou de réassurance s'écarte significativement des hypothèses qui sous-tendent le dernier capital de solvabilité requis notifié, cette entreprise recalcule sans délai son capital de solvabilité requis et le notifie aux autorités de contrôle.
+
+2.   Lorsque des éléments semblent indiquer que le profil de risque d'une entreprise d'assurance ou de réassurance a changé significativement depuis la date de la dernière notification du capital de solvabilité requis, les autorités de contrôle peuvent exiger de cette entreprise qu'elle recalcule le capital de solvabilité requis.
+
+Sous-section 2
+
+Capital de solvabilité requis - formule standard

@@ -1,0 +1,6 @@
+= Section 2 - Prestation
+
+== xref:chapitre-8-etablissement-prestation-services/section-2-prestation-services/sous-section-1-dispositions-generales/intro.adoc[Sous section - 1]
+
+== xref:chapitre-8-etablissement-prestation-services/section-2-prestation-services/sous-section-2-responsabilite-civile/intro.adoc[Sous section - 2]
+

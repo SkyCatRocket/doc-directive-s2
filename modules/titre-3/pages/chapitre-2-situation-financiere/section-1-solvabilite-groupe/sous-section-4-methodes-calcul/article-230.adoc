@@ -1,0 +1,25 @@
+= Article 230
+
+Première méthode (méthode par défaut): Méthode fondée sur la consolidation comptable
+
+1.   Le calcul de la solvabilité du groupe de l'entreprise d'assurance ou de réassurance participante est effectué sur la base des comptes consolidés.
+
+La solvabilité du groupe de l'entreprise d'assurance ou de réassurance participante est égale à la différence entre:
+
+. a) les fonds propres éligibles en couverture du capital de solvabilité requis, calculés sur la base de données consolidées; et
+
+. b) le capital de solvabilité requis au niveau du groupe, calculé sur la base de données consolidées.
+
+Les règles énoncées au titre I, chapitre VI, section 3, sous-sections 1, 2 et 3, et au titre I, chapitre VI, section 4, sous-sections 1, 2 et 3, s'appliquent au calcul des fonds propres éligibles en couverture du capital de solvabilité requis et du capital de solvabilité requis au niveau du groupe sur la base de données consolidées.
+
+2.   Le capital de solvabilité requis au niveau du groupe sur la base de données consolidées (capital de solvabilité requis du groupe sur une base consolidée) est calculé sur la base de la formule standard ou d'un modèle interne approuvé, d'une manière compatible avec les principes généraux énoncés, respectivement, au titre I, chapitre VI, section 4, sous-sections 1 et 2, et au titre I, chapitre VI, section 4, sous-sections 1 et 3.
+
+Le capital de solvabilité requis du groupe sur une base consolidée est au moins égal à la somme:
+
+. a) du minimum de capital requis, visé à l'article 129, de l'entreprise d'assurance ou de réassurance participante; et
+
+. b) de la part proportionnelle du minimum de capital requis des entreprises d'assurance et de réassurance liées.
+
+Ce minimum doit être couvert par les fonds propres de base éligibles fixés par l'article 98, paragraphe 4.
+
+Afin de déterminer si ces fonds propres éligibles permettent d'assurer la couverture du minimum de capital de solvabilité requis du groupe sur une base consolidée, les principes énoncés aux articles 221 à 229 s'appliquentmutatis mutandis. L'article 139, paragraphes 1 et 2, s'appliquemutatis mutandis.

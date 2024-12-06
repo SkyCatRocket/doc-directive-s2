@@ -1,0 +1,11 @@
+= Article 103
+
+Structure de la formule standard
+
+Le capital de solvabilité requis calculé selon la formule standard est la somme des éléments suivants:
+
+. a) le capital de solvabilité requis de base, prévu à l'article 104;
+
+. b) l'exigence de capital pour risque opérationnel, prévue à l'article 107;
+
+. c) l'ajustement visant à tenir compte de la capacité d'absorption de pertes des provisions techniques et des impôts différés, prévu à l'article 108.

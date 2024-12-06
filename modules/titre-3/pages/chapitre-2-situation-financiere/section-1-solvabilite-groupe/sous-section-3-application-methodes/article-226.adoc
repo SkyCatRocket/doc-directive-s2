@@ -1,0 +1,11 @@
+= Article 226
+
+Sociétés holding d'assurance intermédiaires
+
+1.   Pour le calcul de la solvabilité du groupe d'une entreprise d'assurance ou de réassurance qui détient, par l'intermédiaire d'une société holding d'assurance, une participation dans une entreprise d'assurance ou de réassurance liée ou dans une entreprise d'assurance ou de réassurance d'un pays tiers, la situation de cette société holding d'assurance est prise en compte.
+
+Aux seules fins de ce calcul, la société holding d'assurance intermédiaire est traitée comme une entreprise d'assurance ou de réassurance soumise aux règles édictées au titre I, chapitre VI, section 4, sous-sections 1, 2 et 3, en ce qui concerne le capital de solvabilité requis, et aux mêmes conditions que celles énoncées au titre I, chapitre VI, section 3, sous-sections 1, 2 et 3, en ce qui concerne les fonds propres éligibles en couverture du capital de solvabilité requis.
+
+2.   Dans les cas où une société holding d'assurance intermédiaire détient des créances subordonnées ou d'autres fonds propres éligibles soumis aux limites prévues par l'article 98, ils sont considérés comme des fonds propres éligibles à concurrence des montants résultant de l'application des limites prévues à l'article 98 à l'encours total des fonds propres éligibles au niveau du groupe rapporté au capital de solvabilité requis au niveau du groupe.
+
+Les fonds propres éligibles d'une société holding d'assurance intermédiaire qui nécessiteraient l'approbation préalable de l'autorité de contrôle conformément à l'article 90, s'ils étaient détenus par une entreprise d'assurance ou de réassurance, ne peuvent être pris en compte dans le calcul de la solvabilité du groupe que dans la mesure où ils ont été dûment approuvés par le contrôleur du groupe.

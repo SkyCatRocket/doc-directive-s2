@@ -1,0 +1,9 @@
+= Article 81
+
+Créances découlant des contrats de réassurance et des véhicules de titrisation
+
+Lorsqu'elles calculent les créances découlant des contrats de réassurance et des véhicules de titrisation, les entreprises d'assurance et de réassurance se conforment aux articles 76 à 80.
+
+Lorsqu'elles calculent les créances découlant des contrats de réassurance et des véhicules de titrisation, les entreprises d'assurance et de réassurance tiennent compte de la différence temporelle qui existe entre les recouvrements et les paiements directs.
+
+Le résultat de ce calcul est ajusté afin de tenir compte des pertes probables pour défaut de la contrepartie. Cet ajustement est fondé sur une évaluation de la probabilité de défaut de la contrepartie et de la perte moyenne en résultant (perte en cas de défaut).

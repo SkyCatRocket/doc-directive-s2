@@ -1,0 +1,43 @@
+= Article 247
+
+Contrôleur du groupe
+
+1.   Un contrôleur unique, responsable de la coordination et de l'exercice du contrôle du groupe (dénommé «contrôleur du groupe»), est désigné parmi les autorités de contrôle des États membres concernées.
+
+2.   Lorsque la même autorité de contrôle est compétente pour toutes les entreprises d'assurance et de réassurance d'un groupe, la tâche de contrôleur du groupe est exercée par cette autorité de contrôle.
+
+Dans tous les autres cas et sous réserve du paragraphe 3, la tâche de contrôleur du groupe est exercée:
+
+. a) dans le cas où le groupe est dirigé par une entreprise d'assurance ou de réassurance, par l'autorité de contrôle qui a agréé cette entreprise;
+
+. b) dans le cas où le groupe n'est pas dirigé par une entreprise d'assurance ou de réassurance, par l'autorité de contrôle suivante:i)lorsque l'entreprise d'assurance ou de réassurance a pour entreprise mère une société holding d'assurance, par l'autorité de contrôle qui a agréé cette entreprise d'assurance ou de réassurance;ii)lorsque plusieurs entreprises d'assurance ou de réassurance dont le siège social est situé dans la Communauté ont pour entreprise mère la même société holding d'assurance et que l'une de ces entreprises a été agréée dans l'État membre dans lequel la société holding d'assurance a son siège social, par l'autorité de contrôle de l'entreprise d'assurance ou de réassurance agréée dans ledit État membre;iii)lorsque le groupe est dirigé par plusieurs sociétés holding d'assurance ayant leur siège social dans différents États membres et qu'il y a une entreprise d'assurance ou de réassurance dans chacun de ces États membres, par l'autorité de contrôle de l'entreprise d'assurance ou de réassurance au total du bilan le plus élevé;iv)lorsque plusieurs entreprises d'assurance ou de réassurance dont le siège social est situé dans la Communauté ont pour entreprise mère la même société holding d'assurance et qu'aucune de ces entreprises n'a été agréée dans l'État membre dans lequel la société holding d'assurance a son siège social, par l'autorité de contrôle qui a agréé l'entreprise d'assurance ou de réassurance au total du bilan le plus élevé; ouv)lorsque le groupe n'a pas d'entreprise mère, ou dans des circonstances qui ne sont pas visées aux points i) à iv), par l'autorité de contrôle qui a agréé l'entreprise d'assurance ou de réassurance au total du bilan le plus élevé.
+
+. i) lorsque l'entreprise d'assurance ou de réassurance a pour entreprise mère une société holding d'assurance, par l'autorité de contrôle qui a agréé cette entreprise d'assurance ou de réassurance;
+
+. ii) lorsque plusieurs entreprises d'assurance ou de réassurance dont le siège social est situé dans la Communauté ont pour entreprise mère la même société holding d'assurance et que l'une de ces entreprises a été agréée dans l'État membre dans lequel la société holding d'assurance a son siège social, par l'autorité de contrôle de l'entreprise d'assurance ou de réassurance agréée dans ledit État membre;
+
+. iii) lorsque le groupe est dirigé par plusieurs sociétés holding d'assurance ayant leur siège social dans différents États membres et qu'il y a une entreprise d'assurance ou de réassurance dans chacun de ces États membres, par l'autorité de contrôle de l'entreprise d'assurance ou de réassurance au total du bilan le plus élevé;
+
+. iv) lorsque plusieurs entreprises d'assurance ou de réassurance dont le siège social est situé dans la Communauté ont pour entreprise mère la même société holding d'assurance et qu'aucune de ces entreprises n'a été agréée dans l'État membre dans lequel la société holding d'assurance a son siège social, par l'autorité de contrôle qui a agréé l'entreprise d'assurance ou de réassurance au total du bilan le plus élevé; ou
+
+. v) lorsque le groupe n'a pas d'entreprise mère, ou dans des circonstances qui ne sont pas visées aux points i) à iv), par l'autorité de contrôle qui a agréé l'entreprise d'assurance ou de réassurance au total du bilan le plus élevé.
+
+3.   Dans des cas particuliers, les autorités de contrôle concernées peuvent, à la demande de l'une d'entre elles, prendre la décision conjointe de déroger aux critères mentionnés au paragraphe 2 lorsqu'il apparaît inapproprié de les appliquer compte tenu de la structure du groupe et de l'importance relative des activités des entreprises d'assurance et de réassurance dans les différents pays, et désigner une autre autorité de contrôle comme contrôleur du groupe.
+
+À cette fin, toute autorité de contrôle concernée peut exiger l'ouverture d'une discussion quant au point de savoir si les critères visés au paragraphe 2 sont appropriés. Ce type de discussion a lieu au maximum une fois par an.
+
+Les autorités de contrôle concernées font tout ce qui est en leur pouvoir pour parvenir à une décision conjointe sur le choix du contrôleur du groupe au plus tard trois mois après la demande d'ouverture de la discussion. Avant de prendre leur décision, les autorités de contrôle concernées donnent au groupe la possibilité d'exprimer son avis.
+
+4.   Pendant le délai de trois mois visé au paragraphe 3, troisième alinéa, toute autorité de contrôle concernée peut demander que le CECAPP soit consulté. Lorsque le CECAPP est consulté, ce délai est prolongé de deux mois.
+
+5.   Lorsque le CECAPP a été consulté, les autorités de contrôle concernées tiennent dûment compte de son avis avant de prendre leur décision conjointe. La décision conjointe est dûment motivée et elle comporte une explication de toute divergence significative par rapport à tout avis émis par le CECAPP.
+
+6.   Si aucune décision conjointe dérogeant aux critères énoncés au paragraphe 2 n'a été prise, la tâche du contrôleur du groupe est exercée par l'autorité de contrôle définie conformément au paragraphe 2.
+
+7.   Le CECAPP informe le Parlement européen, le Conseil et la Commission au moins une fois par an des difficultés majeures relatives à l'application des paragraphes 2, 3 et 6.
+
+Si des difficultés importantes apparaissent lors de l'application des critères énoncés aux paragraphes 2 et 3, la Commission arrête des mesures d'exécution précisant ces critères.
+
+Ces mesures, qui visent à modifier des éléments non essentiels de la présente directive en la complétant, sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l'article 301, paragraphe 3.
+
+8.   Lorsqu'un État membre compte plus d'une autorité chargée du contrôle prudentiel des entreprises d'assurance et de réassurance, il prend les mesures nécessaires pour assurer une coordination entre ces autorités.

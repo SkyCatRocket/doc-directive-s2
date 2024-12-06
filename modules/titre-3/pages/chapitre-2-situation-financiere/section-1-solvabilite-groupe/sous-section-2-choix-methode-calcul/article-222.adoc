@@ -1,0 +1,33 @@
+= Article 222
+
+Élimination du double emploi des fonds propres éligibles
+
+1.   Le double emploi des fonds propres éligibles en couverture du capital de solvabilité requis des différentes entreprises d'assurance ou de réassurance prises en compte dans le calcul est interdit.
+
+À cet effet, lors du calcul de la solvabilité du groupe, si les méthodes décrites à la sous-section 4 ne le prévoient pas, les montants suivants sont exclus:
+
+. a) la valeur de tout actif de l'entreprise d'assurance ou de réassurance participante qui correspond au financement de fonds propres éligibles couvrant le capital de solvabilité requis d'une de ses entreprises d'assurance ou de réassurance liées;
+
+. b) la valeur de tout actif d'une entreprise d'assurance ou de réassurance liée de l'entreprise d'assurance ou de réassurance participante qui correspond au financement de fonds propres éligibles couvrant le capital de solvabilité requis de cette entreprise d'assurance ou de réassurance participante;
+
+. c) la valeur de tout actif d'une entreprise d'assurance ou de réassurance liée de l'entreprise d'assurance ou de réassurance participante qui correspond au financement de fonds propres éligibles couvrant le capital de solvabilité requis de toute autre entreprise d'assurance ou de réassurance liée de cette entreprise d'assurance ou de réassurance participante.
+
+2.   Sans préjudice du paragraphe 1, les éléments suivants ne peuvent être pris en compte dans le calcul que dans la mesure où ils sont éligibles à la couverture du capital de solvabilité requis de l'entreprise liée concernée:
+
+. a) les fonds excédentaires relevant de l'article 91, paragraphe 2, d'une entreprise d'assurance vie ou de réassurance liée de l'entreprise d'assurance ou de réassurance participante pour laquelle la solvabilité du groupe est calculée;
+
+. b) les fractions souscrites mais non versées du capital d'une entreprise d'assurance ou de réassurance liée de l'entreprise d'assurance ou de réassurance participante pour laquelle la solvabilité du groupe est calculée.
+
+Toutefois, les éléments suivants doivent dans tous les cas être exclus du calcul:
+
+. i) les fractions souscrites mais non versées du capital qui représentent une obligation potentielle incombant à l'entreprise participante;
+
+. ii) les fractions souscrites mais non versées du capital de l'entreprise d'assurance ou de réassurance participante qui représentent une obligation potentielle incombant à une entreprise d'assurance ou de réassurance liée;
+
+. iii) les fractions souscrites mais non versées du capital d'une entreprise d'assurance ou de réassurance liée qui représentent une obligation potentielle incombant à une autre entreprise d'assurance ou de réassurance liée de la même entreprise d'assurance ou de réassurance participante.
+
+3.   Lorsque les autorités de contrôle considèrent que certains fonds propres éligibles pour couvrir le capital de solvabilité requis d'une entreprise d'assurance ou de réassurance liée, autres que ceux visés au paragraphe 2, ne peuvent être effectivement rendus disponibles pour couvrir le capital de solvabilité requis de l'entreprise d'assurance ou de réassurance participante pour laquelle la solvabilité du groupe est calculée, ces fonds propres ne peuvent être inclus dans le calcul que dans la mesure où ils sont éligibles pour couvrir le capital de solvabilité requis de l'entreprise liée.
+
+4.   La somme des fonds propres visés aux paragraphes 2 et 3 ne peut pas dépasser le capital de solvabilité requis de l'entreprise d'assurance ou de réassurance liée.
+
+5.   Les fonds propres éligibles d'une entreprise d'assurance ou de réassurance liée de l'entreprise d'assurance ou de réassurance participante pour laquelle la solvabilité du groupe est calculée, lorsqu'ils sont soumis à l'approbation préalable de l'autorité de contrôle conformément à l'article 90, ne peuvent être inclus dans le calcul que dans la mesure où ils ont été dûment approuvés par l'autorité de contrôle en charge du contrôle de cette entreprise liée.

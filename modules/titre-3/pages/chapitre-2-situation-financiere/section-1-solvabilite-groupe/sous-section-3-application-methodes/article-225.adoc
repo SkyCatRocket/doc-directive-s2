@@ -1,0 +1,7 @@
+= Article 225
+
+Entreprises d'assurance et de réassurance liées
+
+Lorsque l'entreprise d'assurance ou de réassurance possède plusieurs entreprises d'assurance ou de réassurance liées, il est tenu compte de chacune d'elles dans le calcul de la solvabilité du groupe.
+
+Les États membres peuvent prévoir que, lorsque l'entreprise d'assurance ou de réassurance liée a son siège social dans un État membre différent de celui de l'entreprise d'assurance ou de réassurance pour laquelle le calcul de la solvabilité du groupe est effectué, le calcul tient compte, en ce qui concerne cette entreprise liée, du capital de solvabilité requis et des fonds propres éligibles pour le couvrir, tels que définis dans cet autre État membre.

@@ -1,0 +1,9 @@
+= Article 106
+
+Calcul du sous-module «risque sur actions»: mécanisme d'ajustement symétrique
+
+1.   Le sous-module «risque sur actions» calculé selon la formule standard comprend un mécanisme d'ajustement symétrique de l'exigence de capital pour actions qui sert à couvrir le risque découlant des variations de niveau du cours des actions.
+
+2.   L'ajustement symétrique de l'exigence standard de capital pour actions, calibrée conformément à l'article 104, paragraphe 4, qui couvre le risque découlant des variations de niveau du cours des actions est fonction du niveau actuel d'un indice approprié du cours des actions et de la moyenne pondérée de cet indice. La moyenne pondérée est calculée sur une période appropriée, qui est la même pour toutes les entreprises d'assurance et de réassurance.
+
+3.   L'ajustement symétrique de l'exigence standard de capital pour actions qui couvre le risque découlant des variations de niveau du cours des actions ne peut pas entraîner l'application d'une exigence de capital pour actions qui soit supérieure, ou inférieure, de plus de dix points de pourcentage à l'exigence standard de capital pour actions.

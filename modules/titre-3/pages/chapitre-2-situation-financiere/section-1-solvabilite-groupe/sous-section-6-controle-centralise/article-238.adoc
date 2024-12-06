@@ -1,0 +1,21 @@
+= Article 238
+
+Filiales d'une entreprise d'assurance ou de réassurance: calcul du capital de solvabilité requis
+
+1.   Sans préjudice de l'article 231, le capital de solvabilité requis d'une filiale est calculé conformément aux paragraphes 2, 4 et 5 du présent article.
+
+2.   Lorsque le capital de solvabilité requis d'une filiale est calculé sur la base d'un modèle interne approuvé au niveau du groupe conformément à l'article 231 et que l'autorité de contrôle ayant agréé cette filiale considère que son profil de risque s'écarte significativement de ce modèle, elle peut, dans les cas visés à l'article 37 et aussi longtemps que cette entreprise ne répond pas de manière satisfaisante aux préoccupations de l'autorité de contrôle, proposer d'établir une exigence de capital supplémentaire s'ajoutant au capital de solvabilité requis de cette filiale résultant de l'application de ce modèle ou, dans des circonstances exceptionnelles où l'exigence de capital supplémentaire ne serait pas appropriée, exiger de l'entreprise qu'elle calcule son capital de solvabilité requis sur la base de la formule standard. L'autorité de contrôle discute de sa proposition au sein du collège des contrôleurs et en communique les raisons à la filiale et au collège des contrôleurs.
+
+3.   Lorsque le capital de solvabilité requis d'une filiale est calculé sur la base de la formule standard et que l'autorité de contrôle ayant agréé cette filiale considère que son profil de risque s'écarte significativement des hypothèses qui sous-tendent cette formule, elle peut, dans des circonstances exceptionnelles et aussi longtemps que l'entreprise ne répond pas de manière satisfaisante aux préoccupations de l'autorité de contrôle, proposer que l'entreprise remplace un sous-ensemble de paramètres utilisés dans le calcul selon la formule standard par des paramètres spécifiques à cette entreprise lors du calcul des modules «risque de souscription en vie», «risque de souscription en non-vie», et «risque de souscription en santé», comme indiqué à l'article 110, ou, dans les cas visés à l'article 37, de lui imposer une exigence de capital supplémentaire s'ajoutant au capital de solvabilité requis de cette filiale.
+
+L'autorité de contrôle discute de sa proposition au sein du collège des contrôleurs et en communique les raisons à la filiale et au collège des contrôleurs.
+
+4.   Le collège des contrôleurs fait tout ce qui est en son pouvoir pour parvenir à un accord sur la proposition de l'autorité de contrôle ayant agréé la filiale ou sur d'autres mesures éventuelles.
+
+5.   Lorsque l'autorité de contrôle et le contrôleur du groupe sont en désaccord, la question est transmise, dans un délai d'un mois à compter de la proposition de l'autorité de contrôle, pour avis au CECAPP, qui se prononce dans un délai de deux mois à compter de cette transmission.
+
+L'autorité de contrôle ayant agréé la filiale tient dûment compte de cet avis avant d'arrêter une décision définitive.
+
+La décision est dûment motivée et elle tient compte des avis, y compris des réserves, exprimés par les autres autorités de contrôle au sein du collège des contrôleurs, ainsi que de l'avis du CECAPP.
+
+La décision est transmise à la filiale et au collège des contrôleurs.

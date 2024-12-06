@@ -1,0 +1,14 @@
+= SCR-BSCR
+
+
+* xref:health:scr.adoc[SCR sante]
+
+* xref:default:scr.adoc[SCR defaut]
+
+* xref:life:scr.adoc[SCR vie]
+
+* xref:non-life:scr.adoc[SCR non vie]
+
+* xref:market:scr.adoc[SCR marché]
+
+* xref:intangible-assets:scr.adoc[SCR intagible]

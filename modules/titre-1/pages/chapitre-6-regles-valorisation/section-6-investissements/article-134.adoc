@@ -1,0 +1,9 @@
+= Article 134
+
+Localisation des actifs et interdiction du nantissement d'actifs
+
+1.   Pour ce qui concerne les risques d'assurance situés dans la Communauté, les États membres n'exigent pas que les actifs détenus pour couvrir les provisions techniques afférentes à ces risques soient situés dans la Communauté ou dans un État membre déterminé.
+
+En outre, pour ce qui concerne les créances détenues, au titre de contrats de réassurance, sur des entreprises agréées conformément à la présente directive ou ayant leur siège social dans un pays tiers dont le régime de solvabilité est réputé équivalent conformément à l'article 172, les États membres n'exigent pas que les actifs représentatifs de ces créances soient situés dans la Communauté.
+
+2.   Les États membres ne conservent ni n'introduisent, aux fins de l'établissement des provisions techniques, de système de provisionnement brut qui exige le nantissement d'actifs en couverture des provisions pour primes non acquises et pour sinistres à payer, lorsque le réassureur est une entreprise d'assurance ou de réassurance agréée conformément à la présente directive.

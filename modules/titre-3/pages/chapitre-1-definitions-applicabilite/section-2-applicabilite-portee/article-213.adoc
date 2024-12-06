@@ -1,0 +1,19 @@
+= Article 213
+
+Applicabilité du contrôle de groupe
+
+1.   Les États membres prévoient le contrôle, au niveau du groupe, des entreprises d'assurance et de réassurance qui font partie d'un groupe, conformément au présent titre.
+
+Les dispositions de la présente directive qui établissent les règles relatives au contrôle des entreprises d'assurance et de réassurance considérées individuellement continuent de s'appliquer à ces entreprises, sauf dispositions contraires du présent titre.
+
+2.   Les États membres veillent à ce que le contrôle au niveau du groupe soit appliqué:
+
+. a) aux entreprises d'assurance ou de réassurance qui sont une entreprise participante dans au moins une entreprise d'assurance, une entreprise de réassurance, une entreprise d'assurance d'un pays tiers ou une entreprise de réassurance d'un pays tiers, conformément aux articles 218 à 258;
+
+. b) aux entreprises d'assurance ou de réassurance dont l'entreprise mère est une société holding d'assurance ayant son siège social dans la Communauté, conformément aux articles 218 à 258;
+
+. c) aux entreprises d'assurance ou de réassurance dont l'entreprise mère est une société holding d'assurance ayant son siège social en dehors de la Communauté ou une entreprise d'assurance ou de réassurance d'un pays tiers, conformément aux articles 260 à 263;
+
+. d) aux entreprises d'assurance ou de réassurance dont l'entreprise mère est une société holding mixte d'assurance, conformément à l'article 265.
+
+3.   Dans les cas visés au paragraphe 2, points a) et b), lorsque l'entreprise d'assurance ou de réassurance participante ou la société holding d'assurance ayant son siège social dans la Communauté est une entreprise liée d'une entité réglementée ou d'une compagnie financière holding mixte soumise à une surveillance complémentaire conformément à l'article 5, paragraphe 2, de la directive 2002/87/CE, le contrôleur du groupe peut, après consultation des autres autorités de contrôle concernées, décider de ne pas effectuer au niveau de cette entreprise d'assurance ou de réassurance participante ou de cette société holding d'assurance le contrôle de la concentration de risques visé à l'article 244 de la présente directive ou le contrôle des transactions intragroupe visé à l'article 245 de la présente directive ou les deux.

@@ -1,0 +1,13 @@
+= Article 125
+
+Normes en matière de documentation
+
+Les entreprises d'assurance et de réassurance établissent une documentation décrivant les détails de la conception et du fonctionnement de leur modèle interne.
+
+Cette documentation démontre qu'il est satisfait aux articles 120 à 124.
+
+Elle fournit une description détaillée de la théorie, des hypothèses et des fondements mathématiques et empiriques qui sous-tendent le modèle interne.
+
+Elle fait mention de toutes circonstances dans lesquelles le modèle interne ne fonctionne pas efficacement.
+
+Les entreprises d'assurance et de réassurance assurent le suivi documentaire de toute modification majeure apportée à leur modèle interne, conformément à l'article 115.

@@ -1,0 +1,5 @@
+= Article 126
+
+Modèles et données externes
+
+L'utilisation d'un modèle ou de données provenant d'un tiers n'est considérée comme un motif d'exemption d'aucune des exigences applicables au modèle interne conformément aux articles 120 à 125.

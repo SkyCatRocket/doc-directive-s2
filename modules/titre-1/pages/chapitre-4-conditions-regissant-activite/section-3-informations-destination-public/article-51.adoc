@@ -1,0 +1,35 @@
+= Article 51
+
+Rapport sur la solvabilité et la situation financière: contenu
+
+1.   Les États membres exigent des entreprises d'assurance et de réassurance qu'elles publient annuellement, en tenant compte des informations requises à l'article 35, paragraphe 3, et des principes énoncés à l'article 35, paragraphe 4, un rapport sur leur solvabilité et leur situation financière.
+
+Ce rapport contient les informations suivantes, soit in extenso, soit par référence à des informations équivalentes, tant dans leur nature que dans leur portée, publiées en vertu d'autres exigences législatives ou réglementaires:
+
+. a) une description de l'activité et des résultats de l'entreprise;
+
+. b) une description du système de gouvernance et une appréciation de son adéquation au profil de risque de l'entreprise;
+
+. c) une description, effectuée séparément pour chaque catégorie de risque, de l'exposition au risque, des concentrations de risque, de l'atténuation du risque et de la sensibilité au risque;
+
+. d) une description, effectuée séparément pour les actifs, les provisions techniques et les autres passifs, des bases et méthodes utilisées aux fins de leur évaluation, assortie d'une explication de toute différence majeure existant dans les bases et méthodes utilisées aux fins de leur évaluation dans les états financiers;
+
+. e) une description de la façon dont le capital est géré, comprenant au moins les éléments suivants:i)la structure et le montant des capital, et leur qualité;ii)les montants du capital de solvabilité requis et du minimum de capital requis;iii)l'option exposée à l'article 304 qui est utilisée pour le calcul du capital de solvabilité requis;iv)des informations permettant de bien comprendre les principales différences existant entre les hypothèses sous-jacentes de la formule standard et celles de tout modèle interne utilisé par l'entreprise pour calculer son capital de solvabilité requis;v)en cas de manquement à l'exigence de minimum de capital requis ou de manquement grave à l'exigence de capital de solvabilité requis, survenu durant la période examinée, le montant de l'écart constaté, même si le problème a été résolu par la suite, assorti d'une explication relative à son origine et à ses conséquences, ainsi qu'à toute mesure corrective qui aurait été prise.
+
+. i) la structure et le montant des capital, et leur qualité;
+
+. ii) les montants du capital de solvabilité requis et du minimum de capital requis;
+
+. iii) l'option exposée à l'article 304 qui est utilisée pour le calcul du capital de solvabilité requis;
+
+. iv) des informations permettant de bien comprendre les principales différences existant entre les hypothèses sous-jacentes de la formule standard et celles de tout modèle interne utilisé par l'entreprise pour calculer son capital de solvabilité requis;
+
+. v) en cas de manquement à l'exigence de minimum de capital requis ou de manquement grave à l'exigence de capital de solvabilité requis, survenu durant la période examinée, le montant de l'écart constaté, même si le problème a été résolu par la suite, assorti d'une explication relative à son origine et à ses conséquences, ainsi qu'à toute mesure corrective qui aurait été prise.
+
+2.   La description visée au paragraphe 1, point e) i), comprend une analyse de tout changement important survenu par rapport à la précédente période examinée et une explication de toute différence importante observée, dans les états financiers, dans la valeur des éléments considérés, ainsi qu'une brève description de la transférabilité du capital.
+
+La publication du capital de solvabilité requis visée au paragraphe 1, point e) ii), indique séparément le montant calculé conformément aux dispositions du chapitre VI, section 4, sous-sections 2 et 3, et le montant de toute exigence de capital supplémentaire imposée conformément à l'article 37, ou l'effet des paramètres spécifiques que l'entreprise d'assurance ou de réassurance est tenue d'utiliser en vertu de l'article 110, tout ceci étant assorti d'une information concise quant à sa justification par l'autorité de contrôle concernée.
+
+Cependant, et sans préjudice d'autres exigences législatives ou réglementaires de publication d'informations, les États membres peuvent prévoir que, même si l'ensemble du capital de solvabilité requis visé au paragraphe 1, point e) ii), est publié, l'exigence de capital supplémentaire ou l'effet des paramètres spécifiques que l'entreprise d'assurance ou de réassurance est tenue d'utiliser en vertu de l'article 110 n'ont pas à faire l'objet d'une divulgation séparée pendant une période transitoire se terminant au plus tard le 31 octobre 2017.
+
+La publication du capital de solvabilité requis est assortie, le cas échéant, d'une indication selon laquelle son montant définitif reste subordonné à une évaluation relevant du contrôle.

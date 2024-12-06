@@ -1,0 +1,27 @@
+= Article 112
+
+Dispositions générales régissant l'approbation des modèles internes intégraux et partiels
+
+1.   Les États membres veillent à ce que les entreprises d'assurance et de réassurance puissent calculer leur capital de solvabilité requis à l'aide d'un modèle interne intégral ou partiel approuvé par les autorités de contrôle.
+
+2.   Les entreprises d'assurance et de réassurance peuvent utiliser des modèles internes partiels pour calculer un ou plusieurs des éléments suivants:
+
+. a) un ou plusieurs des modules ou sous-modules de risque du capital de solvabilité requis de base prévus aux articles 104 et 105;
+
+. b) l'exigence de capital pour risque opérationnel définie à l'article 107;
+
+. c) l'ajustement prévu à l'article 108.
+
+Une modélisation partielle peut, en outre, être appliquée à l'ensemble de l'activité de l'entreprise d'assurance ou de réassurance concernée, ou seulement à une ou plusieurs de ses unités opérationnelles majeures.
+
+3.   À toute demande d'approbation, les entreprises d'assurance et de réassurance joignent au minimum la documentation prouvant que le modèle interne satisfait aux exigences énoncées aux articles 120 à 125.
+
+Lorsque la demande d'approbation concerne un modèle interne partiel, les exigences énoncées aux articles 120 à 125 sont adaptées afin de tenir compte du champ d'application limité du modèle.
+
+4.   Les autorités de contrôle prennent une décision sur toute demande d'approbation dans un délai de six mois suivant la réception de la demande complète.
+
+5.   Les autorités de contrôle ne donnent leur approbation que si elles ont l'assurance que les systèmes d'identification, de mesure, de contrôle, de gestion et de déclaration des risques de l'entreprise d'assurance ou de réassurance sont adéquats et, en particulier, que le modèle interne satisfait aux exigences visées au paragraphe 3.
+
+6.   Toute décision de rejet d'une demande d'approbation d'un modèle interne prise par les autorités de contrôle est motivée.
+
+7.   Après approbation de leur modèle interne par les autorités de contrôle, les entreprises d'assurance et de réassurance peuvent être tenues, par décision motivée, de communiquer aux autorités de contrôle une estimation de leur capital de solvabilité requis calculé en application de la formule standard, conformément à la sous-section 2.

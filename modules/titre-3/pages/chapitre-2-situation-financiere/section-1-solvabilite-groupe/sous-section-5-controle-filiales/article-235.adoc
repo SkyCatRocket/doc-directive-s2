@@ -1,0 +1,11 @@
+= Article 235
+
+Solvabilité du groupe d'une société holding d'assurance
+
+Lorsque des entreprises d'assurance et de réassurance sont les filiales d'une société holding d'assurance, le contrôleur du groupe veille à ce que la solvabilité du groupe soit calculée au niveau de la société holding d'assurance conformément aux dispositions de l'article 220, paragraphe 2, à l'article 233.
+
+Aux fins de ce calcul, l'entreprise mère est traitée comme une entreprise d'assurance ou de réassurance soumise aux règles fixées au titre I, chapitre VI, section 4, sous-sections 1, 2 et 3, en ce qui concerne le capital de solvabilité requis, et aux mêmes conditions que celles prévues au titre I, chapitre VI, section 3, sous-sections 1, 2 et 3, en ce qui concerne les fonds propres éligibles à la couverture du capital de solvabilité requis.
+
+Sous-section 6
+
+Contrôle de la solvabilité des groupes à gestion centralisée des risques

@@ -1,0 +1,26 @@
+name: documentation-directive-s2
+title: Documentation Directive S2
+version: 1.0
+start_page: intro.adoc
+
+asciidoc:
+  attributes:
+    stem: latexmath
+    idprefix: ''
+    idseparator: '-'
+    source-language: asciidoc@
+    table-caption: false
+
+ui:
+  bundle:
+    url: style.css // ptetre utile pour la générationd de l'html
+
+nav:
+- modules/ROOT/nav.adoc
+- modules/chapitre-1/nav.adoc
+- modules/chapitre-2/nav.adoc
+- modules/chapitre-3/nav.adoc
+- modules/chapitre-4/nav.adoc
+- modules/chapitre-5/nav.adoc
+- modules/chapitre-6/nav.adoc
+

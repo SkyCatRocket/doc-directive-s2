@@ -1,0 +1,13 @@
+= Article 120
+
+Test relatif à l'utilisation du modèle
+
+Les entreprises d'assurance et de réassurance démontrent qu'elles utilisent largement leur modèle interne et que celui-ci joue un rôle important dans leur système de gouvernance visé aux articles 41 à 50, en particulier:
+
+. a) dans leur système de gestion des risques prévu à l'article 44 et dans leurs processus décisionnels;
+
+. b) dans leurs processus d'évaluation et d'allocation du capital économique et du capital de solvabilité, y compris l'évaluation visée à l'article 45.
+
+Les entreprises d'assurance et de réassurance démontrent en outre que la fréquence à laquelle le capital de solvabilité requis est calculé à l'aide du modèle interne est cohérente avec la fréquence à laquelle leur modèle interne est utilisé aux autres fins visées au premier alinéa.
+
+Il incombe à l'organe d'administration, de gestion ou de contrôle de garantir l'adéquation permanente de la conception et du fonctionnement du modèle interne et de veiller à ce que le modèle interne continue à refléter de manière adéquate le profil de risque de l'entreprise d'assurance ou de réassurance concernée.

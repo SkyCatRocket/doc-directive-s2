@@ -1,0 +1,31 @@
+= Article 37
+
+Exigence de capital supplémentaire
+
+1.   À la suite du processus de contrôle prudentiel, les autorités de contrôle peuvent, dans des circonstances exceptionnelles et par décision motivée, imposer une exigence de capital supplémentaire à une entreprise d'assurance ou de réassurance. Cette possibilité n'existe que dans les cas suivants:
+
+. a) les autorités de contrôle concluent que le profil de risque de l'entreprise d'assurance ou de réassurance s'écarte significativement des hypothèses qui sous-tendent le capital de solvabilité requis, calculé à l'aide de la formule standard conformément au chapitre VI, section 4, sous-section 2, et:i)l'exigence de recourir à un modèle interne en vertu de l'article 119 est inappropriée ou s'est révélée inefficace; ouii)un modèle interne partiel ou intégral est développé conformément à l'article 119;
+
+. i) l'exigence de recourir à un modèle interne en vertu de l'article 119 est inappropriée ou s'est révélée inefficace; ou
+
+. ii) un modèle interne partiel ou intégral est développé conformément à l'article 119;
+
+. b) les autorités de contrôle concluent que le profil de risque de l'entreprise d'assurance ou de réassurance s'écarte significativement des hypothèses qui sous-tendent le capital de solvabilité requis, calculé à l'aide d'un modèle interne ou d'un modèle interne partiel conformément au chapitre VI, section 4, sous-section 3, parce que certains risques quantifiables sont insuffisamment pris en compte et que le modèle n'a pas été adapté dans un délai approprié de manière à mieux refléter le profil de risque; ou
+
+. c) les autorités de contrôle concluent que le système de gouvernance de l'entreprise d'assurance ou de réassurance s'écarte significativement des normes prévues au chapitre VI, section 2, que l'entreprise d'assurance ou de réassurance n'est de ce fait pas en mesure de déceler, de mesurer, de contrôler, de gérer et de déclarer de manière adéquate les risques auxquels elle est ou pourrait être exposée et que l'application d'autres mesures n'est, en soi, guère susceptible de remédier suffisamment aux carences constatées dans un délai approprié.
+
+2.   Dans les circonstances visées au paragraphe 1, points a) et b), l'exigence de capital supplémentaire est calculée de façon à garantir que l'entreprise se conforme à l'article 101, paragraphe 3.
+
+Dans les circonstances énoncées au paragraphe 1, point c), l'exigence de capital supplémentaire est proportionnée aux risques importants découlant des carences qui ont incité l'autorité de contrôle à prendre la décision de l'imposer.
+
+3.   Dans les cas visés au paragraphe 1, points b) et c), les autorités de contrôle veillent à ce que l'entreprise d'assurance ou de réassurance mette tout en œuvre pour remédier aux carences qui ont conduit à lui imposer une exigence de capital supplémentaire.
+
+4.   Les autorités de contrôle revoient l'exigence de capital supplémentaire visée au paragraphe 1 au moins une fois par an et la suppriment une fois que l'entreprise a remédié aux carences qui ont conduit à la lui imposer.
+
+5.   Le capital de solvabilité requis, majoré de l'exigence de capital supplémentaire imposée, remplace le capital de solvabilité requis qui se révèle inadéquat.
+
+Nonobstant le premier alinéa, le capital de solvabilité requis n'inclut pas l'exigence de capital supplémentaire imposée conformément au paragraphe 1, point c), aux fins du calcul de la marge de risque visée à l'article 77, paragraphe 5.
+
+6.   La Commission arrête des mesures d'exécution précisant les circonstances dans lesquelles une exigence de capital supplémentaire peut être imposée et les méthodologies de calcul de celle-ci.
+
+Ces mesures, qui visent à modifier des éléments non essentiels de la présente directive en la complétant, sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l'article 301, paragraphe 3.

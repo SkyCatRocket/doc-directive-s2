@@ -1,0 +1,15 @@
+= Article 98
+
+Éligibilité et limites applicables aux niveaux 1, 2 et 3
+
+1.   Pour ce qui concerne la conformité au capital de solvabilité requis, les montants éligibles des éléments de niveau 2 et de niveau 3 sont soumis à des limites quantitatives. Ces limites sont telles qu'elles garantissent, au moins, que les conditions suivantes sont réunies:
+
+. a) la part des éléments de niveau 1 compris dans les fonds propres éligibles représente plus du tiers du montant total des fonds propres éligibles;
+
+. b) le montant éligible des éléments de niveau 3 représente moins du tiers du montant total des fonds propres éligibles.
+
+2.   Pour ce qui concerne la conformité au minimum de capital requis, le montant des éléments de fonds propres de base éligibles pour couvrir le minimum de capital requis qui sont classés au niveau 2 est soumis à des limites quantitatives. Ces limites sont telles qu'elles garantissent, au moins, que la part des éléments de niveau 1 compris dans les fonds propres de base éligibles représente plus de la moitié du montant total des fonds propres de base éligibles.
+
+3.   Le montant des fonds propres éligible pour couvrir le capital de solvabilité requis prévu à l'article 100 est égal à la somme du montant des éléments de niveau 1, du montant éligible des éléments de niveau 2 et du montant éligible des éléments de niveau 3.
+
+4.   Le montant des fonds propres de base éligible pour couvrir le minimum de capital requis prévu à l'article 128 est égal à la somme du montant des éléments de niveau 1 et du montant éligible des éléments de fonds propres de base classés au niveau 2.

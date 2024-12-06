@@ -1,0 +1,25 @@
+= Article 77
+
+Calcul des provisions techniques
+
+1.   La valeur des provisions techniques est égale à la somme de la meilleure estimation et de la marge de risque respectivement décrites aux paragraphes 2 et 3.
+
+2.   La meilleure estimation correspond à la moyenne pondérée par leur probabilité des flux de trésorerie futurs, compte tenu de la valeur temporelle de l'argent (valeur actuelle attendue des flux de trésorerie futurs), estimée sur la base de la courbe des taux sans risque pertinents.
+
+Le calcul de la meilleure estimation est fondé sur des informations actualisées et crédibles et des hypothèses réalistes et il fait appel à des méthodes actuarielles et statistiques adéquates, applicables et pertinentes.
+
+La projection en matière de flux de trésorerie utilisée dans le calcul de la meilleure estimation tient compte de toutes les entrées et sorties de trésorerie nécessaires pour faire face aux engagements d'assurance et de réassurance pendant toute la durée de ceux-ci.
+
+La meilleure estimation est calculée brute, sans déduction des créances découlant des contrats de réassurance et des véhicules de titrisation. Ces montants sont calculés séparément, conformément à l'article 81.
+
+3.   La marge de risque est calculée de manière à garantir que la valeur des provisions techniques est équivalente au montant que les entreprises d'assurance et de réassurance demanderaient pour reprendre et honorer les engagements d'assurance et de réassurance.
+
+4.   Les entreprises d'assurance et de réassurance procèdent à une évaluation séparée de la meilleure estimation et de la marge de risque.
+
+Cependant, lorsque de futurs flux de trésorerie liés aux engagements d'assurance ou de réassurance peuvent être, de manière fiable, répliqués au moyen d'instruments financiers pour lesquels il existe une valeur de marché fiable observable, la valeur des provisions techniques liées à ces futurs flux de trésorerie est déterminée à l'aide de la valeur de marché de ces instruments financiers. Dans ce cas, il n'est pas nécessaire de procéder à un calcul séparé de la meilleure estimation et de la marge de risque.
+
+5.   Lorsqu'elles procèdent à une évaluation séparée de la meilleure estimation et de la marge de risque, les entreprises d'assurance et de réassurance calculent la marge de risque en déterminant le coût que représente la mobilisation d'un montant de fonds propres éligibles égal au capital de solvabilité requis nécessaire pour faire face aux engagements d'assurance et de réassurance pendant toute la durée de ceux-ci.
+
+Le taux utilisé pour déterminer le coût que représente la mobilisation de ce montant de fonds propres éligibles (taux du coût du capital) est le même pour toutes les entreprises d'assurance et de réassurance et il est révisé périodiquement.
+
+Le taux du coût du capital utilisé est égal au taux supplémentaire, s'ajoutant au taux d'intérêt sans risque pertinent, que supporterait une entreprise d'assurance ou de réassurance détenant un montant de fonds propres éligibles, conformément à la section 3, égal au capital de solvabilité requis qui est nécessaire pour faire face aux engagements d'assurance et de réassurance pendant toute la durée de ceux-ci.

@@ -1,0 +1,63 @@
+= Article 105
+
+Calcul du capital de solvabilité requis de base
+
+1.   Le capital de solvabilité requis de base est calculé conformément aux paragraphes 2 à 6.
+
+2.   Le module «risque de souscription en non-vie» reflète le risque découlant des engagements d'assurance non-vie, compte tenu des périls couverts et des procédés appliqués dans l'exercice de cette activité.
+
+Il tient compte de l'incertitude pesant sur les résultats des entreprises d'assurance et de réassurance dans le cadre de leurs engagements d'assurance et de réassurance existants, ainsi que du nouveau portefeuille dont la souscription est attendue dans les douze mois à venir.
+
+Il est calculé, conformément au point 2 de l'annexe IV, sous la forme d'une combinaison des exigences de capital applicables aux sous-modules suivants au moins:
+
+. a) le risque de perte, ou de changement défavorable de la valeur des engagements d'assurance, résultant de fluctuations affectant la date de survenance, la fréquence et la gravité des événements assurés, ainsi que la date et le montant des règlements de sinistres (risque de primes et de réserve en non-vie);
+
+. b) le risque de perte, ou de changement défavorable de la valeur des engagements d'assurance, résultant de l'incertitude importante, liée aux événements extrêmes ou exceptionnels, qui pèse sur les hypothèses retenues en matière de prix et de provisionnement (risque de catastrophe en non-vie).
+
+3.   Le module «risque de souscription en vie» reflète le risque découlant des engagements d'assurance vie, compte tenu des périls couverts et des procédés appliqués dans l'exercice de cette activité.
+
+Il est calculé, conformément au point 3 de l'annexe IV, comme résultant de la combinaison des exigences de capital applicables aux sous-modules suivants au moins:
+
+. a) le risque de perte, ou de changement défavorable de la valeur des engagements d'assurance, résultant de fluctuations affectant le niveau, l'évolution tendancielle ou la volatilité des taux de mortalité, lorsqu'une augmentation de ces taux entraîne une augmentation de la valeur des engagements d'assurance (risque de mortalité);
+
+. b) le risque de perte, ou de changement défavorable de la valeur des engagements d'assurance, résultant de fluctuations affectant le niveau, l'évolution tendancielle ou la volatilité des taux de mortalité, lorsqu'une baisse de ces taux entraîne une augmentation de la valeur des engagements d'assurance (risque de longévité);
+
+. c) le risque de perte, ou de changement défavorable de la valeur des engagements d'assurance, résultant de fluctuations affectant le niveau, l'évolution tendancielle ou la volatilité des taux d'invalidité, de maladie et de morbidité (risque d'invalidité – de morbidité);
+
+. d) le risque de perte, ou de changement défavorable de la valeur des engagements d'assurance, résultant de fluctuations affectant le niveau, l'évolution tendancielle ou la volatilité des dépenses encourues pour la gestion des contrats d'assurance ou de réassurance (risque de dépenses en vie);
+
+. e) le risque de perte, ou de changement défavorable de la valeur des engagements d'assurance, résultant de fluctuations affectant le niveau, l'évolution tendancielle ou la volatilité des taux de révision applicables aux rentes, sous l'effet d'un changement de l'environnement juridique ou de l'état de santé de la personne assurée (risque de révision);
+
+. f) le risque de perte, ou de changement défavorable de la valeur des engagements d'assurance, résultant de fluctuations affectant le niveau ou la volatilité des taux de cessation, d'échéance, de renouvellement et de rachat des polices (risque de cessation);
+
+. g) le risque de perte, ou de changement défavorable de la valeur des engagements d'assurance, résultant de l'incertitude importante, liée aux événements extrêmes ou irréguliers, qui pèse sur les hypothèses retenues en matière de prix et de provisionnement (risque de catastrophe en vie).
+
+4.   Le module «risque de souscription en santé» reflète le risque découlant de la souscription d'engagements d'assurance santé, qu'il s'exerce ou non sur une base technique similaire à celle de l'assurance vie, compte tenu des périls couverts et des procédés appliqués dans l'exercice de cette activité.
+
+Il couvre les risques suivants au moins:
+
+. a) le risque de perte, ou de changement défavorable de la valeur des engagements d'assurance, résultant de fluctuations affectant le niveau, l'évolution tendancielle ou la volatilité des dépenses encourues pour la gestion des contrats d'assurance ou de réassurance;
+
+. b) le risque de perte, ou de changement défavorable de la valeur des engagements d'assurance, résultant de fluctuations affectant la date de survenance, la fréquence et la gravité des événements assurés, ainsi que la date et le montant des règlements de sinistres au moment du provisionnement;
+
+. c) le risque de perte, ou de changement défavorable de la valeur des engagements d'assurance, résultant de l'incertitude importante, liée aux épidémies majeures et à l'accumulation inhabituelle de risques qui se produit dans ces circonstances extrêmes, qui pèse sur les hypothèses retenues en matière de prix et de provisionnement.
+
+5.   Le module «risque de marché» reflète le risque lié au niveau ou à la volatilité de la valeur de marché des instruments financiers ayant un impact sur la valeur des actifs et des passifs de l'entreprise concernée. Il reflète de manière adéquate toute inadéquation structurelle entre les actifs et les passifs, en particulier au regard de leur duration.
+
+Il est calculé, conformément au point 4 de l'annexe IV, comme résultant de la combinaison des exigences de capital applicables aux sous-modules suivants au moins:
+
+. a) la sensibilité de la valeur des actifs, des passifs et des instruments financiers aux changements affectant la courbe des taux d'intérêt ou la volatilité des taux d'intérêt (risque de taux d'intérêt);
+
+. b) la sensibilité de la valeur des actifs, des passifs et des instruments financiers aux changements affectant le niveau ou la volatilité de la valeur de marché des actions (risque sur actions);
+
+. c) la sensibilité de la valeur des actifs, des passifs et des instruments financiers aux changements affectant le niveau ou la volatilité de la valeur de marché des actifs immobiliers (risque sur actifs immobiliers);
+
+. d) la sensibilité de la valeur des actifs, des passifs et des instruments financiers aux changements affectant le niveau ou la volatilité des marges («spreads») de crédit par rapport à la courbe des taux d'intérêt sans risque (risque lié à la marge);
+
+. e) la sensibilité de la valeur des actifs, des passifs et des instruments financiers aux changements affectant le niveau ou la volatilité des taux de change (risque de change);
+
+. f) les risques supplémentaires supportés par l'entreprise d'assurance ou de réassurance du fait soit d'un manque de diversification de son portefeuille d'actifs, soit d'un exposition importante au risque de défaut d'un seul émetteur de valeurs mobilières ou d'un groupe d'émetteurs liés (concentrations du risque de marché).
+
+6.   Le module «risque de contrepartie» reflète les pertes possibles que pourrait entraîner le défaut inattendu, ou la détérioration de la qualité de crédit, des contreparties et débiteurs de l'entreprise d'assurance ou de réassurance durant les douze mois à venir. Le module «risque de contrepartie» couvre les contrats d'atténuation des risques, tels que les accords de réassurance, les titrisations et les instruments dérivés, et les paiements à recevoir des intermédiaires ainsi que tout autre risque de crédit ne relevant pas du sous-module «risque lié à la marge». Il prend en compte, de manière appropriée, les garanties ou autres sûretés détenues par l'entreprise d'assurance ou de réassurance ou pour son compte, et les risques qui y sont liés.
+
+Pour chaque contrepartie, le module «risque de contrepartie» tient compte de l'exposition globale au risque de contrepartie encourue par l'entreprise d'assurance ou de réassurance concernée à l'égard de cette contrepartie, indépendamment de la forme juridique de ses obligations contractuelles envers cette entreprise.

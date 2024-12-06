@@ -1,0 +1,15 @@
+= Article 210
+
+Réassurance finite
+
+1.   Les États membres veillent à ce que les entreprises d'assurance et de réassurance qui concluent des contrats de réassurance finite ou qui exercent des activités de réassurance finite soient en mesure de déceler, de mesurer, de surveiller, de gérer, de contrôler et de signaler de manière appropriée les risques découlant de ces contrats ou activités.
+
+2.   Afin de garantir l'adoption d'une approche harmonisée pour les activités de réassurance finite, la Commission peut arrêter des mesures d'exécution précisant les dispositions du paragraphe 1 en ce qui concerne la surveillance, la gestion et le contrôle des risques découlant des activités de réassurance finite.
+
+Ces mesures, qui visent à modifier des éléments non essentiels de la présente directive, y compris en la complétant, sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l'article 301, paragraphe 3.
+
+3.   Aux fins des paragraphes 1 et 2, on entend par réassurance finite toute réassurance en vertu de laquelle la perte maximale potentielle, exprimée comme le risque économique maximal transféré, découlant d'un transfert significatif à la fois du risque de souscription et du risque de timing, excède la prime sur toute la durée du contrat, pour un montant limité mais important, conjointement avec l'une au moins des caractéristiques suivantes:
+
+. a) la prise en considération explicite et matérielle de la valeur temporelle de l'argent;
+
+. b) des dispositions contractuelles visant à lisser dans le temps un partage des effets économiques entre les deux parties en vue d'atteindre un niveau cible de transfert de risque.

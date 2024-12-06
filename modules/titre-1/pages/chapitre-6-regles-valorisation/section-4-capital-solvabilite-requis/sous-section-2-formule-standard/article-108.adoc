@@ -1,0 +1,9 @@
+= Article 108
+
+Ajustement visant à tenir compte de la capacité d'absorption de pertes des provisions techniques et des impôts différés
+
+L'ajustement visant à tenir compte de la capacité d'absorption des pertes des provisions techniques et des impôts différés, visé à l'article 103, point c), reflète la compensation potentielle de pertes non anticipées par une baisse simultanée soit des provisions techniques soit des impôts différés, ou une combinaison des deux.
+
+Cet ajustement tient compte de l'effet d'atténuation des risques inhérent aux prestations discrétionnaires futures des contrats d'assurance, dans la mesure où les entreprises d'assurance et de réassurance peuvent démontrer avoir la possibilité de réduire ces prestations pour couvrir des pertes non anticipées au moment où celles-ci surviennent. L'effet d'atténuation des risques inhérent aux prestations discrétionnaires futures n'excède pas la somme des provisions techniques et des impôts différés afférents auxdites prestations discrétionnaires futures.
+
+Aux fins du deuxième alinéa, la valeur des prestations discrétionnaires futures dans des circonstances défavorables est comparée à la valeur de telles prestations selon les hypothèses sous-tendant le calcul de la meilleure estimation.

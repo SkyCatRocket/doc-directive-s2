@@ -1,0 +1,15 @@
+= Article 223
+
+Élimination de la création intragroupe de capital
+
+1.   Dans le calcul de la solvabilité du groupe, il n'est tenu compte d'aucun élément de fonds propres éligibles en couverture du capital de solvabilité requis qui proviendrait d'un financement réciproque entre l'entreprise d'assurance ou de réassurance participante et:
+
+. a) une entreprise liée;
+
+. b) une entreprise participante;
+
+. c) une autre entreprise liée de l'une quelconque de ses entreprises participantes.
+
+2.   Dans le calcul de la solvabilité du groupe, il n'est tenu compte d'aucun élément de fonds propres éligibles à la couverture du capital de solvabilité requis d'une entreprise d'assurance ou de réassurance liée de l'entreprise d'assurance ou de réassurance participante pour laquelle la solvabilité du groupe est calculée lorsque l'élément en question provient d'un financement réciproque avec une autre entreprise liée de cette entreprise d'assurance ou de réassurance participante.
+
+3.   Le financement réciproque est réputé exister au moins lorsqu'une entreprise d'assurance ou de réassurance, ou l'une quelconque de ses entreprises liées, détient des parts dans une autre entreprise qui, directement ou indirectement, détient des fonds propres éligibles en couverture du capital de solvabilité requis de la première entreprise, ou lorsqu'elle accorde des prêts à cette autre entreprise.

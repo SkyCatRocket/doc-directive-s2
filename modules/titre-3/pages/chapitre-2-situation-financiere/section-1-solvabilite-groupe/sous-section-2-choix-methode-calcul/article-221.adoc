@@ -1,0 +1,23 @@
+= Article 221
+
+Inclusion de la part proportionnelle
+
+1.   Le calcul de la solvabilité du groupe tient compte de la part proportionnelle détenue par l'entreprise participante dans ses entreprises liées.
+
+Aux fins du premier alinéa, la part proportionnelle correspond:
+
+. a) lorsque la première méthode est utilisée, aux pourcentages retenus pour l'établissement des comptes consolidés; ou
+
+. b) lorsque la seconde méthode est utilisée, à la fraction du capital souscrit qui est détenue, directement ou indirectement, par l'entreprise participante.
+
+Toutefois, indépendamment de la méthode utilisée, lorsque l'entreprise liée est une entreprise filiale qui ne dispose pas de fonds propres éligibles suffisants pour couvrir son capital de solvabilité requis, la totalité du déficit de solvabilité de la filiale doit être prise en compte.
+
+Lorsque, de l'avis des autorités de contrôle, la responsabilité de l'entreprise mère détenant une part de capital est limitée strictement à cette part de capital, le contrôleur du groupe peut néanmoins permettre qu'il soit tenu compte du déficit de solvabilité de la filiale sur une base proportionnelle.
+
+2.   Le contrôleur du groupe détermine, après consultation des autres autorités de contrôle concernées et du groupe lui-même, la part proportionnelle qui doit être prise en considération dans les cas suivants:
+
+. a) lorsqu'il n'y a pas de lien en capital entre certaines des entreprises appartenant à un groupe;
+
+. b) lorsqu'une autorité de contrôle a établi que le fait de détenir, directement ou indirectement, des droits de vote ou du capital dans une entreprise est assimilable à une participation car elle estime qu'une influence notable est effectivement exercée sur cette entreprise;
+
+. c) lorsqu'une autorité de contrôle a établi qu'une entreprise est l'entreprise mère d'une autre entreprise, car elle estime que la première exerce effectivement une influence dominante sur la seconde.

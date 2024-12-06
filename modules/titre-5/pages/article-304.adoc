@@ -1,0 +1,29 @@
+= Article 304
+
+Sous-module «risque sur actions» fondé sur la durée
+
+1.   Les États membres peuvent autoriser les entreprises d'assurance vie qui:
+
+. a) exercent des activités de fourniture de retraite professionnelle, conformément à l'article 4 de la directive 2003/41/CE, ou
+
+. b) fournissent des prestations de retraite versées en référence à la mise à la retraite, ou à l'approche de la mise à la retraite, si les primes versées au titre de ces prestations bénéficient d'une déduction d'impôt accordée aux preneurs par la législation nationale de l'État membre ayant agréé l'entreprise d'assurance;à condition:i)que tous les actifs et engagements correspondant à ces activités soient cantonnés, gérés et organisés séparément des autres activités des entreprises d'assurance, sans aucune possibilité de transfert;ii)que les activités de l'entreprise visées aux points a) et b), auxquelles s'applique l'approche visée au présent paragraphe, ne soient exercées que dans l'État membre ayant agréé ladite entreprise; etiii)que la durée moyenne des engagements de l'entreprise correspondant à ces activités excède une moyenne de douze ans.à appliquer au calcul du capital de solvabilité requis un sous-module «risque sur actions» qui est calibré en usant d'une mesure de la valeur en risque, sur une période donnée adaptée à la période typique de conservation des placements en actions par l'entreprise concernée, avec un niveau de confiance assurant aux preneurs et aux bénéficiaires un niveau de protection équivalent au niveau prévu à l'article 101, sous réserve que l'approche prévue au présent article ne soit utilisée que pour des actifs et engagements visés au point i). Lors du calcul du capital de solvabilité requis, ces actifs et engagements sont pleinement pris en compte dans l'évaluation des effets de diversification, sans préjudice de la nécessité de préserver les intérêts des preneurs et des bénéficiaires dans d'autres États membres.Sous réserve de l'approbation des autorités de contrôle, l'approche exposée au premier alinéa n'est utilisée que lorsque la position en matière de solvabilité et de liquidité, ainsi que les stratégies, les processus et les procédures de déclaration de l'entreprise concernée au regard de sa gestion des actifs et des engagements, sont de nature à garantir, en permanence, que celle-ci est en mesure de conserver des placements en actions pendant une période adaptée à la période typique de conservation des placements en actions par cette entreprise. L'entreprise doit être en mesure de démontrer à l'autorité de contrôle que cette condition est vérifiée avec le niveau de confiance nécessaire pour assurer aux preneurs et aux bénéficiaires un niveau de protection équivalent au niveau prévu à l'article 101.Les entreprises d'assurance et de réassurance ne reviennent pas à l'approche énoncée à l'article 105, sauf dans des circonstances dûment justifiées et à condition que les autorités de contrôle l'autorisent.
+
+. i) que tous les actifs et engagements correspondant à ces activités soient cantonnés, gérés et organisés séparément des autres activités des entreprises d'assurance, sans aucune possibilité de transfert;
+
+. ii) que les activités de l'entreprise visées aux points a) et b), auxquelles s'applique l'approche visée au présent paragraphe, ne soient exercées que dans l'État membre ayant agréé ladite entreprise; et
+
+. iii) que la durée moyenne des engagements de l'entreprise correspondant à ces activités excède une moyenne de douze ans.
+
+2.   La Commission soumet au comité européen des assurances et des pensions professionnelles et au Parlement européen, au plus tard le 31 octobre 2015, un rapport sur l'application de l'approche décrite au paragraphe 1, ainsi que sur les pratiques des autorités de contrôle arrêtées en vertu du paragraphe 1, accompagné, s'il y a lieu, de propositions adéquates. Ce rapport aborde notamment les effets transfrontaliers du recours à cette approche, afin de prévenir, de la part des entreprises d'assurance et de réassurance, un arbitrage entre règlementations.
+
+TITRE VI
+
+DISPOSITIONS TRANSITOIRES ET FINALES
+
+CHAPITRE I
+
+Dispositions transitoires
+
+Section 1
+
+Assurance

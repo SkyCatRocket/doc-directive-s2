@@ -1,0 +1,6 @@
+= Section 5 - Information
+
+== xref:chapitre-1-contrats-assurance-directe/section-5-information-preneurs-assurance/sous-section-1-assurance-non-vie/intro.adoc[Sous section - 1]
+
+== xref:chapitre-1-contrats-assurance-directe/section-5-information-preneurs-assurance/sous-section-2-assurance-vie/intro.adoc[Sous section - 2]
+

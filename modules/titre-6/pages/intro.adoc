@@ -1,0 +1,6 @@
+= Pages
+
+== xref:chapitre-1-dispositions-transitoires/intro.adoc[Chapitre 1 - Dispositions]
+
+== xref:chapitre-2-dispositions-finales/intro.adoc[Chapitre 2 - Dispositions]
+

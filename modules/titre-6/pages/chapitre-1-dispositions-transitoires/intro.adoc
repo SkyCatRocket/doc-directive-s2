@@ -1,0 +1,8 @@
+= Chapitre 1 - Dispositions
+
+== xref:chapitre-1-dispositions-transitoires/section-1-assurance/intro.adoc[Section 1 - Assurance]
+
+== xref:chapitre-1-dispositions-transitoires/section-2-reassurance/intro.adoc[Section 2 - Reassurance]
+
+== xref:chapitre-1-dispositions-transitoires/section-3-assurance-reassurance/intro.adoc[Section 3 - Assurance]
+

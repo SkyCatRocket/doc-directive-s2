@@ -1,0 +1,10 @@
+= Section 2 - Exclusions
+
+== xref:chapitre-1-objet-champ-application-definitions/section-2-exclusions-champ-application/sous-section-1-dispositions-generales/intro.adoc[Sous section - 1]
+
+== xref:chapitre-1-objet-champ-application-definitions/section-2-exclusions-champ-application/sous-section-2-assurance-non-vie/intro.adoc[Sous section - 2]
+
+== xref:chapitre-1-objet-champ-application-definitions/section-2-exclusions-champ-application/sous-section-3-assurance-vie/intro.adoc[Sous section - 3]
+
+== xref:chapitre-1-objet-champ-application-definitions/section-2-exclusions-champ-application/sous-section-4-reassurance/intro.adoc[Sous section - 4]
+

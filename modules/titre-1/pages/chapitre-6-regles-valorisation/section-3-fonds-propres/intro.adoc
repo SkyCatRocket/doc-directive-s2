@@ -1,0 +1,8 @@
+= Section 3 - Fonds
+
+== xref:chapitre-6-regles-valorisation/section-3-fonds-propres/sous-section-1-determination-fonds-propres/intro.adoc[Sous section - 1]
+
+== xref:chapitre-6-regles-valorisation/section-3-fonds-propres/sous-section-2-classement-fonds-propres/intro.adoc[Sous section - 2]
+
+== xref:chapitre-6-regles-valorisation/section-3-fonds-propres/sous-section-3-eligibilite-fonds-propres/intro.adoc[Sous section - 3]
+

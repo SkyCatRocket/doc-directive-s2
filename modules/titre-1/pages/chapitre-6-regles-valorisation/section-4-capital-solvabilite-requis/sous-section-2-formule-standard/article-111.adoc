@@ -1,0 +1,41 @@
+= Article 111
+
+Mesures d'exécution
+
+1.   Afin de garantir l'application du même traitement à toutes les entreprises d'assurance et de réassurance qui calculent leur capital de solvabilité requis sur la base de la formule standard, ou afin de tenir compte des évolutions du marché, la Commission arrête des mesures d'exécution prévoyant ce qui suit:
+
+. a) une formule standard, conformément aux dispositions de l'article 101 et des articles 103 à 109;
+
+. b) tout sous-module qui est nécessaire ou qui couvre plus précisément les risques relevant des différents modules de risque visés à l'article 104 et toute actualisation ultérieure;
+
+. c) les méthodes, hypothèses et paramètres standard à utiliser pour calculer chacun des modules ou sous-modules de risque du capital de solvabilité requis de base, prévus aux articles 104, 105 et 304, le mécanisme d'ajustement symétrique et la période convenable, exprimée en mois, visés à l'article 106, ainsi que l'approche appropriée pour l'intégration de la méthode visée à l'article 304 dans le calcul du capital de solvabilité requis selon la formule standard;
+
+. d) les paramètres de corrélation, y compris, si nécessaire, ceux énoncés à l'annexe IV, et les procédures d'actualisation de ces paramètres;
+
+. e) lorsque les entreprises d'assurance et de réassurance recourent à des techniques d'atténuation du risque, les méthodes et hypothèses à utiliser pour évaluer l'impact sur leur profil de risque et pour ajuster en conséquence le calcul du capital de solvabilité requis;
+
+. f) les critères qualitatifs auxquels les techniques d'atténuation du risque visées au point e) doivent satisfaire pour garantir que le risque a bien été transféré à un tiers;
+
+. g) les méthodes et paramètres à utiliser pour évaluer l'exigence de capital pour risque opérationnel prévue à l'article 107, y compris le pourcentage visé à l'article 107, paragraphe 3;
+
+. h) les méthodes et ajustements à appliquer pour refléter les possibilités réduites de diversification du risque dont disposent les entreprises d'assurance et de réassurance en matière de fonds cantonnés;
+
+. i) la méthode à utiliser pour calculer l'ajustement visant à tenir compte de la capacité d'absorption de pertes des provisions techniques et des impôts différés, prévu à l'article 108;
+
+. j) le sous-ensemble de paramètres standard qui, dans les modules «risque de souscription en vie», «risque de souscription en non-vie» et «risque de souscription en santé», peut être remplacé par des paramètres propres à l'entreprise, conformément à l'article 104, paragraphe 7;
+
+. k) les méthodes standardisées qu'une entreprise d'assurance ou de réassurance doit utiliser pour calculer les paramètres qui lui sont propres visés au point j) et tout critère qui doit être rempli, en ce qui concerne l'exhaustivité, l'exactitude et le caractère approprié des données utilisées, avant que les autorités de contrôle ne donnent leur accord;
+
+. l) les calculs simplifiés autorisés pour certains sous-modules et modules de risque spécifiques, ainsi que les critères que les entreprises d'assurance et de réassurance, y compris les entreprises captives d'assurance et de réassurance, sont tenues de remplir pour pouvoir utiliser chacune de ces simplifications, conformément à l'article 109;
+
+. m) l'approche à suivre pour les entreprises liées, au sens de l'article 212, en ce qui concerne le calcul du capital de solvabilité requis, notamment du sous-module «risque sur actions» visé à l'article 105, paragraphe 5, en prenant en compte la réduction probable de volatilité de la valeur de ces entreprises liées découlant du caractère stratégique de ces investissements et de l'influence exercée par l'entreprise participante sur ces entreprises liées.
+
+Ces mesures, qui visent à modifier des éléments non essentiels de la présente directive en la complétant, sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l'article 301, paragraphe 3.
+
+2.   La Commission peut arrêter des mesures d'exécution fixant des limites quantitatives et des critères d'éligibilité des actifs en vue de prendre en considération les risques qui ne sont pas couverts de manière adéquate par un sous-module. Ces mesures d'exécution s'appliquent aux actifs couvrant les provisions techniques, à l'exclusion des actifs détenus en représentation des contrats d'assurance vie dans le cadre desquels le risque d'investissement est supporté par les preneurs. Elles sont réexaminées par la Commission à la lumière de l'évolution de la formule standard et des marchés financiers.
+
+Ces mesures, qui visent à modifier des éléments non essentiels de la présente directive en la complétant, sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l'article 301, paragraphe 3.
+
+Sous-section 3
+
+Capital de solvabilité requis - modèles internes intégraux ou partiels

@@ -1,0 +1,6 @@
+= Section 3 - Competences
+
+== xref:chapitre-8-etablissement-prestation-services/section-3-competences-controle-etat-accueil/sous-section-1-assurance/intro.adoc[Sous section - 1]
+
+== xref:chapitre-8-etablissement-prestation-services/section-3-competences-controle-etat-accueil/sous-section-2-reassurance/intro.adoc[Sous section - 2]
+

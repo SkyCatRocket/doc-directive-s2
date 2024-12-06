@@ -1,0 +1,29 @@
+= Article 101
+
+Calcul du capital de solvabilité requis
+
+1.   Le capital de solvabilité requis est calculé conformément aux paragraphes 2 à 5.
+
+2.   Le calcul du capital de solvabilité requis se fonde sur l'hypothèse d'une continuité de l'exploitation de l'entreprise concernée.
+
+3.   Le capital de solvabilité requis est calibré de manière à garantir que tous les risques quantifiables auxquels l'entreprise d'assurance ou de réassurance est exposée soient pris en considération. Il doit couvrir le portefeuille en cours, ainsi que le nouveau portefeuille dont la souscription est attendue dans les douze mois à venir. Pour ce qui concerne le portefeuille en cours, il couvre seulement les pertes non anticipées.
+
+Le capital de solvabilité requis correspond à la valeur en risque (Value-at-Risk) des fonds propres de base de l'entreprise d'assurance ou de réassurance, avec un niveau de confiance de 99,5 % à l'horizon d'un an.
+
+4.   Le capital de solvabilité requis couvre au minimum les risques suivants:
+
+. a) le risque de souscription en non-vie;
+
+. b) le risque de souscription en vie;
+
+. c) le risque de souscription en santé;
+
+. d) le risque de marché;
+
+. e) le risque de crédit;
+
+. f) le risque opérationnel.
+
+Le risque opérationnel visé au premier alinéa, point f), comprend les risques juridiques, mais ne comprend ni les risques découlant des décisions stratégiques, ni les risques de réputation.
+
+5.   Lorsqu'elles calculent leur capital de solvabilité requis, les entreprises d'assurance et de réassurance tiennent compte de l'impact des techniques d'atténuation des risques, sous réserve que le risque de crédit et les autres risques inhérents à l'emploi de ces techniques soient pris en considération de manière adéquate dans le capital de solvabilité requis.

@@ -1,0 +1,15 @@
+= Article 113
+
+Dispositions spécifiques régissant l'approbation des modèles internes partiels
+
+1.   Un modèle interne partiel n'est approuvé par les autorités de contrôle que lorsqu'il satisfait aux exigences énoncées à l'article 112 et aux conditions additionnelles suivantes:
+
+. a) son champ d'application limité est dûment justifié par l'entreprise concernée;
+
+. b) le capital de solvabilité requis qui en résulte reflète mieux le profil de risque de l'entreprise concernée et, en particulier, satisfait aux principes énoncés à la sous-section 1;
+
+. c) sa conception est conforme aux principes énoncés à la sous-section 1, de manière à permettre sa pleine intégration à la formule standard de calcul du capital de solvabilité requis.
+
+2.   Lorsqu'elles évaluent une demande d'utilisation d'un modèle interne partiel ne couvrant que certains sous-modules d'un module de risque donné ou que certaines unités opérationnelles de l'entreprise d'assurance ou de réassurance en ce qui concerne un module de risque donné, ou l'un et l'autre pour partie, les autorités de contrôle peuvent exiger de cette entreprise d'assurance ou de réassurance qu'elle soumette un plan de transition réaliste en vue d'étendre le champ d'application de son modèle.
+
+Le plan de transition expose comment l'entreprise d'assurance ou de réassurance projette d'étendre le champ d'application de son modèle à d'autres sous-modules ou unités opérationnelles, de façon à garantir que le modèle couvre une part prédominante de ses opérations d'assurance en ce qui concerne le module de risque donné.

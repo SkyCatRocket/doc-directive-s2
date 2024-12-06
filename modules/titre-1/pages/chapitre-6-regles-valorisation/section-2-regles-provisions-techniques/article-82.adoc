@@ -1,0 +1,7 @@
+= Article 82
+
+Qualité des données et application d'approximations, y compris par approches au cas par cas, pour les provisions techniques
+
+Les États membres veillent à ce que les entreprises d'assurance et de réassurance mettent en place des processus et procédures internes de nature à garantir le caractère approprié, l'exhaustivité et l'exactitude des données utilisées dans le calcul de leurs provisions techniques.
+
+Lorsque, dans des circonstances particulières, les entreprises d'assurance et de réassurance ne disposent pas de suffisamment de données d'une qualité appropriée pour appliquer une méthode actuarielle fiable à un ensemble ou à un sous-ensemble de leurs engagements d'assurance ou de réassurance, ou de créances découlant de contrats de réassurance et de véhicules de titrisation, des approximations adéquates, y compris par approches au cas par cas, peuvent être utilisées pour le calcul de la meilleure estimation.

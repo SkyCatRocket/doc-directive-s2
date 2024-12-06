@@ -1,0 +1,19 @@
+= Article 93
+
+Caractéristiques et facteurs à utiliser pour classer les fonds propres par niveau
+
+1.   Les éléments de fonds propres sont classés sur trois niveaux. Le classement de ces éléments est fonction de leur caractère de fonds propres de base ou de fonds propres auxiliaires et de la mesure dans laquelle ils présentent les caractéristiques suivantes:
+
+. a) l'élément est disponible, ou peut être appelé sur demande, pour absorber complètement des pertes, que ce soit dans le cadre d'une exploitation continue ou en cas de liquidation (disponibilité permanente);
+
+. b) en cas de liquidation, le montant total de l'élément est disponible pour l'absorption des pertes et le remboursement de l'élément est refusé à son détenteur, jusqu'à ce que tous les autres engagements, y compris les engagements d'assurance et de réassurance vis-à-vis des preneurs et des bénéficiaires des contrats d'assurance et de réassurance, aient été honorés (subordination).
+
+2.   Pour évaluer dans quelle mesure les éléments de fonds propres présentent les caractéristiques définies au paragraphe 1, points a) et b), au moment considéré et à l'avenir, il importe de prendre dûment en considération la durée de l'élément, en particulier s'il a une durée déterminée ou non. Lorsque l'élément de fonds propres a une durée déterminée, sa durée relative, en comparaison de la durée des engagements d'assurance et de réassurance de l'entreprise, est prise en considération (durée suffisante).
+
+Les facteurs suivants sont, en outre, pris en considération, à savoir si l'élément est exempt:
+
+. a) de toute obligation de rembourser ou incitation à rembourser son montant nominal (absence d'incitation à rembourser);
+
+. b) de charges fixes obligatoires (absence de charges financières obligatoires);
+
+. c) de contraintes (absence de contraintes).

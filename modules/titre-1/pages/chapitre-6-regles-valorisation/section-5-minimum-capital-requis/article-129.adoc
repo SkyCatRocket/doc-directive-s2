@@ -1,0 +1,35 @@
+= Article 129
+
+Calcul du minimum de capital requis
+
+1.   Le minimum de capital requis est calculé conformément aux principes suivants:
+
+. a) il est calculé d'une manière claire et simple, et de telle sorte que son calcul puisse faire l'objet d'un audit;
+
+. b) il correspond à un montant de fonds propres de base éligibles en-deçà duquel les preneurs et les bénéficiaires seraient exposés à un niveau de risque inacceptable si l'entreprise d'assurance ou de réassurance était autorisée à poursuivre son activité;
+
+. c) la fonction linéaire, visée au paragraphe 2, utilisée pour calculer le minimum de capital requis est calibrée selon la valeur en risque des fonds propres de base de l'entreprise d'assurance ou de réassurance concernée, avec un niveau de confiance de 85 % à l'horizon d'un an;
+
+. d) il a un seuil plancher absolu:i)de2 200 000 EUR pour les entreprises d'assurance non-vie, y compris les entreprises captives d'assurance, sauf dans le cas où tout ou partie des risques visés dans l'une des branches 10 à 15 de la partie A de l'annexe I sont couverts, auquel cas il ne peut être inférieur à 3 200 000 EUR;ii)de 3 200 000 EUR pour les entreprises d'assurance vie, y compris les entreprises captives d'assurance;iii)de3 200 000 EUR pour les entreprises de réassurance, sauf dans le cas des entreprises captives de réassurance, auquel cas il ne peut être inférieur à 1 000 000 EUR;iv)correspondant à la somme des montants énoncés aux points i) et ii) pour les entreprises d'assurance visées à l'article 73, paragraphe 5.
+
+. i) de2 200 000 EUR pour les entreprises d'assurance non-vie, y compris les entreprises captives d'assurance, sauf dans le cas où tout ou partie des risques visés dans l'une des branches 10 à 15 de la partie A de l'annexe I sont couverts, auquel cas il ne peut être inférieur à 3 200 000 EUR;
+
+. ii) de 3 200 000 EUR pour les entreprises d'assurance vie, y compris les entreprises captives d'assurance;
+
+. iii) de3 200 000 EUR pour les entreprises de réassurance, sauf dans le cas des entreprises captives de réassurance, auquel cas il ne peut être inférieur à 1 000 000 EUR;
+
+. iv) correspondant à la somme des montants énoncés aux points i) et ii) pour les entreprises d'assurance visées à l'article 73, paragraphe 5.
+
+2.   Sous réserve du paragraphe 3, le minimum de capital requis est calculé comme la fonction linéaire d'un ensemble ou d'un sous-ensemble des variables suivantes: provisions techniques de l'entreprise, primes souscrites, capital sous risque, impôts différés et dépenses administratives. Les variables utilisées sont mesurées déduction faite de la réassurance.
+
+3.   Sans préjudice du paragraphe 1, point d), le minimum de capital requis ne descend pas au-dessous de 25 % et ne dépasse pas 45 % du capital de solvabilité requis de l'entreprise, calculé conformément au chapitre VI, section 4, sous-sections 2 ou 3, y compris tout capital supplémentaire imposé conformément à l'article 37.
+
+Les États membres autorisent leurs autorités de contrôle, pendant une période se terminant au plus tard le 31 octobre 2014, à exiger qu'une entreprise d'assurance ou de réassurance applique les pourcentages prévus au premier alinéa exclusivement pour le capital de solvabilité requis de l'entreprise calculé conformément au chapitre VI, section 4, sous-section 2.
+
+4.   Les entreprises d'assurance et de réassurance calculent leur minimum de capital requis au moins une fois par trimestre et notifient le résultat de ce calcul aux autorités de contrôle.
+
+Lorsque l'une des limites visées au paragraphe 3 détermine le minimum de capital requis d'une entreprise, cette dernière fournit à l'autorité de contrôle des informations permettant de bien en comprendre les raisons.
+
+5.   La Commission soumet au Parlement européen et au comité européen des assurances et des pensions professionnelles, institué par la décision 2004/9/CE de la Commission(35), au plus tard le 31 octobre 2017, un rapport sur les règles des États membres et les pratiques des autorités de contrôle arrêtées en vertu des paragraphes 1à 4.
+
+Ce rapport porte en particulier sur l'utilisation et le niveau du plafond et du plancher fixés au paragraphe 3 et sur tout problème rencontré par les autorités de contrôle et par les entreprises dans l'application du présent article.

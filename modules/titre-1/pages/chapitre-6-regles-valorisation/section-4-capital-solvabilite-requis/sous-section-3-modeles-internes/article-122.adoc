@@ -1,0 +1,11 @@
+= Article 122
+
+Normes de calibrage
+
+1.   Les entreprises d'assurance et de réassurance peuvent, à des fins de modélisation interne, se référer à un autre horizon temporel ou utiliser une autre mesure du risque que ceux prévus à l'article 101, paragraphe 3, à condition que les résultats produits par leur modèle interne leur permettent de procéder à un calcul du capital de solvabilité requis garantissant aux preneurs et aux bénéficiaires un niveau de protection équivalent à celui prévu à l'article 101.
+
+2.   Si possible, les entreprises d'assurance et de réassurance déduisent directement leur capital de solvabilité requis de la distribution de probabilité prévisionnelle générée par leur modèle interne, sur la base de la mesure de la valeur en risque prévue à l'article 101, paragraphe 3.
+
+3.   Lorsque les entreprises d'assurance et de réassurance ne peuvent déduire directement leur capital de solvabilité requis de la distribution de probabilité prévisionnelle générée par leur modèle interne, les autorités de contrôle peuvent autoriser l'emploi d'approximations dans le processus de calcul du capital de solvabilité requis, pour autant que ces entreprises soient en mesure de démontrer aux autorités de contrôle que les preneurs bénéficient d'un niveau de protection équivalent à celui prévu à l'article 101.
+
+4.   Les autorités de contrôle peuvent exiger des entreprises d'assurance et de réassurance qu'elles appliquent leur modèle interne à des portefeuilles de référence pertinents, en utilisant des hypothèses fondées sur des données externes plutôt qu'internes, afin de contrôler le calibrage du modèle interne et de vérifier que ses spécifications correspondent bien aux pratiques du marché généralement admises.
