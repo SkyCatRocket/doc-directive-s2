@@ -1,14 +1,10 @@
-= SCR-BSCR
+== SCR-BSCR
 
 
-* xref:health:scr.adoc[SCR sante]
+* xref:titre-1:intro.adoc[Titre 1 - Règles générales concernant l'accès aux activités de l'assurance directe et de la réassurance et leur exercice]
+* xref:titre-1:intro.adoc[Titre 2 - Dispositions particulières relatives à l'assurance et à la réassurance]
+* xref:titre-1:intro.adoc[Titre 3 - Contrôle des entreprises d'assurance et de réassurance faisant partie d'un groupe]
+ xref:titre-1:intro.adoc[Titre 4 - Assainissement et Liquidation des entreprises d'assurance]
+* xref:titre-1:intro.adoc[Titre 5 - Autres dispositions]
+* xref:titre-1:intro.adoc[Titre 6 - Dispositions transitoires et finales]
 
-* xref:default:scr.adoc[SCR defaut]
-
-* xref:life:scr.adoc[SCR vie]
-
-* xref:non-life:scr.adoc[SCR non vie]
-
-* xref:market:scr.adoc[SCR marché]
-
-* xref:intangible-assets:scr.adoc[SCR intagible]

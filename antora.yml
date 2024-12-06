@@ -1,4 +1,4 @@
-name: documentation-directive-s2
+name: doc-directive-s2
 title: Documentation Directive S2
 version: 1.0
 start_page: intro.adoc
@@ -17,10 +17,10 @@ ui:
 
 nav:
 - modules/ROOT/nav.adoc
-- modules/chapitre-1/nav.adoc
-- modules/chapitre-2/nav.adoc
-- modules/chapitre-3/nav.adoc
-- modules/chapitre-4/nav.adoc
-- modules/chapitre-5/nav.adoc
-- modules/chapitre-6/nav.adoc
+- modules/titre-1/nav.adoc
+- modules/titre-2/nav.adoc
+- modules/titre-3/nav.adoc
+- modules/titre-4/nav.adoc
+- modules/titre-5/nav.adoc
+- modules/titre-6/nav.adoc
 
