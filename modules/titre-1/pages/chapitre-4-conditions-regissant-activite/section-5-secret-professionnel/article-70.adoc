@@ -1,6 +1,6 @@
-= Article 70
+== Article 70
 
-Transmission d'informations aux banques centrales et aux autorités monétaires
+=== Transmission d'informations aux banques centrales et aux autorités monétaires
 
 Sans préjudice de la présente section, une autorité de contrôle peut transmettre aux entités suivantes des informations destinées à l'accomplissement de leur mission:
 

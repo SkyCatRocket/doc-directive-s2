@@ -1,6 +1,6 @@
-= Article 45
+== Article 45
 
-Évaluation interne des risques et de la solvabilité
+=== Évaluation interne des risques et de la solvabilité
 
 1.   Dans le cadre de son système de gestion des risques, chaque entreprise d'assurance et de réassurance procède à une évaluation interne des risques et de la solvabilité.
 

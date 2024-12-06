@@ -1,6 +1,6 @@
-= Article 95
+== Article 95
 
-Classement des éléments des fonds propres par niveau
+=== Classement des éléments des fonds propres par niveau
 
 Les États membres veillent à ce que les entreprises d'assurance et de réassurance classent leurs éléments de fonds propres sur la base des critères énoncés à l'article 94.
 

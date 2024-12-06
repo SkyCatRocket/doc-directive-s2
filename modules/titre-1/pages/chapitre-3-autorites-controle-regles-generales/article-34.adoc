@@ -1,6 +1,6 @@
-= Article 34
+== Article 34
 
-Pouvoirs généraux de contrôle
+=== Pouvoirs généraux de contrôle
 
 1.   Les États membres veillent à ce que les autorités de contrôle aient le pouvoir de prendre des mesures préventives et correctives en vue de garantir le respect, par les entreprises d'assurance et de réassurance, des dispositions législatives, réglementaires et administratives auxquelles ces entreprises sont tenues de se conformer dans chaque État membre.
 

@@ -1,6 +1,6 @@
-= Article 150
+== Article 150
 
-Assurance obligatoire de la responsabilité civile résultant de la circulation des véhicules automoteurs
+=== Assurance obligatoire de la responsabilité civile résultant de la circulation des véhicules automoteurs
 
 1.   Lorsqu'une entreprise d'assurance non-vie, par l'intermédiaire d'un établissement situé dans un État membre, couvre un risque classé dans la branche 10 de la partie A de l'annexe I, à l'exclusion de la responsabilité du transporteur, et situé dans un autre État membre, l'État membre d'accueil exige que cette entreprise devienne membre de son bureau national et de son fonds national de garantie et participe à leur financement.
 

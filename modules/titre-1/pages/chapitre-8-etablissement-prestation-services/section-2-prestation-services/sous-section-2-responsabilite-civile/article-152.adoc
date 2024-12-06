@@ -1,6 +1,6 @@
-= Article 152
+== Article 152
 
-Représentation
+=== Représentation
 
 1.   Aux fins visées à l'article 151, l'État membre d'accueil exige de l'entreprise d'assurance non-vie qu'elle désigne un représentant résidant ou établi sur son territoire qui réunit toutes les informations nécessaires en relation avec les dossiers d'indemnisation et dispose de pouvoirs suffisants pour représenter l'entreprise auprès des personnes qui ont subi un préjudice et qui pourraient réclamer une indemnisation, y compris le paiement de celle-ci, et pour la représenter ou, si cela est nécessaire, pour la faire représenter, en ce qui concerne ces demandes d'indemnisation, devant les juridictions et les autorités de cet État membre.
 

@@ -1,6 +1,6 @@
-= Article 43
+== Article 43
 
-Preuve d'honorabilité
+=== Preuve d'honorabilité
 
 1.   Lorsqu'un État membre exige de ses ressortissants une preuve d'honorabilité, la preuve qu'ils n'ont pas été déclarés antérieurement en faillite ou les deux, il accepte comme preuve suffisante, pour les ressortissants des autres États membres, la production d'un extrait du casier judiciaire ou, à défaut, d'un document équivalent délivré par une autorité judiciaire ou administrative compétente de l'État membre d'origine ou de provenance de ces ressortissants étrangers, dont il résulte que ces exigences sont satisfaites.
 

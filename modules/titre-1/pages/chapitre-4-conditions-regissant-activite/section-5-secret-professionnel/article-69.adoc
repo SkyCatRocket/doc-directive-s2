@@ -1,6 +1,6 @@
-= Article 69
+== Article 69
 
-Communication d'informations aux administrations centrales chargées de la législation financière
+=== Communication d'informations aux administrations centrales chargées de la législation financière
 
 Les articles 64 et 67 ne font pas obstacle à ce que les États membres autorisent, en vertu de dispositions législatives, la communication de certaines informations à d'autres départements de leurs administrations centrales chargés de la législation relative au contrôle des établissements de crédit, des établissements financiers, des services d'investissement et des entreprises d'assurance ou de réassurance, ainsi qu'aux inspecteurs mandatés par ces départements.
 

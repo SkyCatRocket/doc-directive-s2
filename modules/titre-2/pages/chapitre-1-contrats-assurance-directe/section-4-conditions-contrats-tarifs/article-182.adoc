@@ -1,6 +1,6 @@
-= Article 182
+== Article 182
 
-Assurance vie
+=== Assurance vie
 
 Les États membres ne peuvent pas exiger l'approbation préalable ou la notification systématique des conditions générales et particulières des polices d'assurance, des tarifs, des bases techniques, utilisées notamment pour le calcul des tarifs et des provisions techniques, et des formulaires et autres imprimés qu'une entreprise d'assurance vie se propose d'utiliser dans ses relations avec les preneurs d'assurance.
 

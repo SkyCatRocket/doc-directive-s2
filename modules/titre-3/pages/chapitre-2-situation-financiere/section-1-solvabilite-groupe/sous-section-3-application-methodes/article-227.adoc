@@ -1,6 +1,6 @@
-= Article 227
+== Article 227
 
-Entreprises d'assurance et de réassurance liées d'un pays tiers
+=== Entreprises d'assurance et de réassurance liées d'un pays tiers
 
 1.   Pour le calcul, conformément à l'article 233, de la solvabilité du groupe d'une entreprise d'assurance ou de réassurance qui est une entreprise participante d'une entreprise d'assurance ou de réassurance d'un pays tiers, cette dernière est traitée, aux seules fins de ce calcul, comme une entreprise d'assurance ou de réassurance liée.
 

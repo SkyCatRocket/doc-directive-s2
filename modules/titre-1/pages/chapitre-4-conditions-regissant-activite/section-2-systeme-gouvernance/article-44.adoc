@@ -1,6 +1,6 @@
-= Article 44
+== Article 44
 
-Gestion des risques
+=== Gestion des risques
 
 1.   Les entreprises d'assurance et de réassurance mettent en place un système de gestion des risques efficace, qui comprenne les stratégies, processus et procédures d'information nécessaires pour déceler, mesurer, contrôler, gérer et déclarer, en permanence, les risques, aux niveaux individuel et agrégé, auxquels elles sont ou pourraient être exposées ainsi que les interdépendances entre ces risques.
 

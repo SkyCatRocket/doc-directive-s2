@@ -1,2 +1,4 @@
-= Section 4 - Conditions
+include::article-181.adoc[]
+
+include::article-182.adoc[]
 

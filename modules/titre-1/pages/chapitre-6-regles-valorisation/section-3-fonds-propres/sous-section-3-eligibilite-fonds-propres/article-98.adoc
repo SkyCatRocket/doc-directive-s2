@@ -1,6 +1,6 @@
-= Article 98
+== Article 98
 
-Éligibilité et limites applicables aux niveaux 1, 2 et 3
+=== Éligibilité et limites applicables aux niveaux 1, 2 et 3
 
 1.   Pour ce qui concerne la conformité au capital de solvabilité requis, les montants éligibles des éléments de niveau 2 et de niveau 3 sont soumis à des limites quantitatives. Ces limites sont telles qu'elles garantissent, au moins, que les conditions suivantes sont réunies:
 

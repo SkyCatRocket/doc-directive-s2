@@ -1,6 +1,6 @@
-= Article 121
+== Article 121
 
-Normes de qualité statistique
+=== Normes de qualité statistique
 
 1.   Le modèle interne et, en particulier, le calcul de la distribution de probabilité prévisionnelle qui le sous-tendent satisfont aux critères fixés aux paragraphes 2 à 9.
 

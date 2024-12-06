@@ -1,6 +1,6 @@
-= Article 41
+== Article 41
 
-Exigences générales en matière de gouvernance
+=== Exigences générales en matière de gouvernance
 
 1.   Les États membres exigent de toutes les entreprises d'assurance et de réassurance qu'elles mettent en place un système de gouvernance efficace, qui garantisse une gestion saine et prudente de l'activité.
 

@@ -1,6 +1,6 @@
-= Article 291
+== Article 291
 
-Protection des tiers acquéreurs
+=== Protection des tiers acquéreurs
 
 Lorsque, par un acte conclu après l'adoption d'une mesure d'assainissement ou l'ouverture d'une procédure de liquidation, l'entreprise d'assurance aliène, à titre onéreux:
 

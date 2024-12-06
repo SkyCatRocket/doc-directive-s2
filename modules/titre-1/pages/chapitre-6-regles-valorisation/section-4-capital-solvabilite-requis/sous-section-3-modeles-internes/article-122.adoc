@@ -1,6 +1,6 @@
-= Article 122
+== Article 122
 
-Normes de calibrage
+=== Normes de calibrage
 
 1.   Les entreprises d'assurance et de réassurance peuvent, à des fins de modélisation interne, se référer à un autre horizon temporel ou utiliser une autre mesure du risque que ceux prévus à l'article 101, paragraphe 3, à condition que les résultats produits par leur modèle interne leur permettent de procéder à un calcul du capital de solvabilité requis garantissant aux preneurs et aux bénéficiaires un niveau de protection équivalent à celui prévu à l'article 101.
 

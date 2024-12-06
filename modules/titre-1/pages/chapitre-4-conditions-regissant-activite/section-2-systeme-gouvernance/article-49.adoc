@@ -1,6 +1,6 @@
-= Article 49
+== Article 49
 
-Sous-traitance
+=== Sous-traitance
 
 1.   Les États membres veillent à ce que les entreprises d'assurance et de réassurance conservent l'entière responsabilité du respect de l'ensemble des obligations qui leur incombent en vertu de la présente directive lorsqu'elles sous-traitent des fonctions ou des activités d'assurance ou de réassurance.
 

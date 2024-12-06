@@ -1,6 +1,6 @@
-= Article 30
+== Article 30
 
-Autorités de contrôle et champ d'application du contrôle
+=== Autorités de contrôle et champ d'application du contrôle
 
 1.   Le contrôle financier des entreprises d'assurance et de réassurance, y compris celui des activités qu'elles exercent par le moyen de succursales ou en libre prestation de services, relève de la compétence exclusive de l'État membre d'origine.
 

@@ -1,2 +1,2 @@
-= Section 4 - Informations
+include::article-159.adoc[]
 

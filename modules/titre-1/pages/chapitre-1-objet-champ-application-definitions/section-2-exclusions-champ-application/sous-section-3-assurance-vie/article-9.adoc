@@ -1,6 +1,6 @@
-= Article 9
+== Article 9
 
-Opérations et activités
+=== Opérations et activités
 
 En ce qui concerne l'assurance vie, la présente directive ne s'applique pas aux opérations et activités suivantes:
 

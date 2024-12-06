@@ -1,5 +1,5 @@
-= Article 204
+== Article 204
 
-Conflit d'intérêts
+=== Conflit d'intérêts
 
 Chaque fois qu'un conflit d'intérêts surgit ou qu'il existe un désaccord quant au règlement du litige, l'assureur de la protection juridique ou, le cas échéant, le bureau de règlement des sinistres doit informer l'assuré du droit visé à l'article 201, paragraphe 1, et de la possibilité de recourir à la procédure visée à l'article 203.

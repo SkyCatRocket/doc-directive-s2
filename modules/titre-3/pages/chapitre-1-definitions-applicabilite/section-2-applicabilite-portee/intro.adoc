@@ -1,2 +1,4 @@
-= Section 2 - Applicabilite
+include::article-213.adoc[]
+
+include::article-214.adoc[]
 

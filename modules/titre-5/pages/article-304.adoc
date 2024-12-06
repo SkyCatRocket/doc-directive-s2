@@ -1,6 +1,6 @@
-= Article 304
+== Article 304
 
-Sous-module «risque sur actions» fondé sur la durée
+=== Sous-module «risque sur actions» fondé sur la durée
 
 1.   Les États membres peuvent autoriser les entreprises d'assurance vie qui:
 

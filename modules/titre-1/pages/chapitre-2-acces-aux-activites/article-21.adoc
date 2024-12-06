@@ -1,6 +1,6 @@
-= Article 21
+== Article 21
 
-Conditions des contrats et tarifs
+=== Conditions des contrats et tarifs
 
 1.   Les États membres ne peuvent pas exiger l'approbation préalable ou la notification systématique des conditions générales et particulières des polices d'assurance, des tarifs, des bases techniques, utilisées notamment pour le calcul des tarifs et des provisions techniques, et des formulaires et autres imprimés que l'entreprise se propose d'utiliser dans ses relations avec les preneurs d'assurance ou avec les entreprises cédantes ou rétrocédantes.
 

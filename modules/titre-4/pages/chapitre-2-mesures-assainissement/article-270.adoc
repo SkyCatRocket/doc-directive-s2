@@ -1,6 +1,6 @@
-= Article 270
+== Article 270
 
-Information des autorités de contrôle
+=== Information des autorités de contrôle
 
 Les autorités compétentes de l'État membre d'origine informent d'urgence les autorités de contrôle de cet État membre de leurs décisions relatives à des mesures d'assainissement, si possible avant leur adoption ou, à défaut, immédiatement après.
 

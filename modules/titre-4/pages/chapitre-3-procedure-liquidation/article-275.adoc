@@ -1,6 +1,6 @@
-= Article 275
+== Article 275
 
-Sort des créances d'assurance
+=== Sort des créances d'assurance
 
 1.   Les États membres veillent à ce que les créances d'assurance soient prioritaires par rapport à d'autres créances sur l'entreprise d'assurance d'une ou de chacune des deux manières suivantes:
 

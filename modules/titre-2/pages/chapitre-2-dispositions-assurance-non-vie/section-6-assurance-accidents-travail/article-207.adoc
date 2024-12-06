@@ -1,6 +1,6 @@
-= Article 207
+== Article 207
 
-Assurance obligatoire des accidents du travail
+=== Assurance obligatoire des accidents du travail
 
 Les États membres peuvent exiger de toute entreprise d'assurance proposant, à ses propres risques, l'assurance obligatoire des accidents du travail sur leur territoire le respect des dispositions spécifiques prévues par leur droit national pour cette assurance, à l'exception des dispositions relatives à la surveillance financière, qui relèvent de la compétence exclusive de l'État membre d'origine.
 

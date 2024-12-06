@@ -1,6 +1,6 @@
-= Article 63
+== Article 63
 
-Droits de vote
+=== Droits de vote
 
 Aux fins de l'application de la présente section, les droits de vote visés aux articles 9 et 10 de la directive 2004/109/CE ainsi que les conditions régissant leur agrégation énoncées à l'article 12, paragraphes 4 et 5, de ladite directive sont pris en compte.
 

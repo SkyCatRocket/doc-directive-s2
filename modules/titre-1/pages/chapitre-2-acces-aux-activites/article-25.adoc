@@ -1,6 +1,6 @@
-= Article 25
+== Article 25
 
-Refus d'agrément
+=== Refus d'agrément
 
 Toute décision de refus d'agrément est dûment motivée et est notifiée à l'entreprise concernée.
 

@@ -1,6 +1,6 @@
-= Article 190
+== Article 190
 
-Opérations de coassurance communautaire
+=== Opérations de coassurance communautaire
 
 1.   La présente section s'applique aux opérations de coassurance communautaire qui concernent un ou plusieurs risques classés dans les branches 3 à 16 de la partie A de l'annexe I et qui répondent aux conditions suivantes:
 

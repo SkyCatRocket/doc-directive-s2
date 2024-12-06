@@ -1,5 +1,5 @@
-= Article 128
+== Article 128
 
-Dispositions générales
+=== Dispositions générales
 
 Les États membres exigent que les entreprises d'assurance et de réassurance détiennent des fonds propres de base éligibles couvrant le minimum de capital requis.

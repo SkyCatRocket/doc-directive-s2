@@ -1,6 +1,6 @@
-= Article 79
+== Article 79
 
-Valorisation des garanties financières et des options contractuelles incluses dans les contrats d'assurance et de réassurance
+=== Valorisation des garanties financières et des options contractuelles incluses dans les contrats d'assurance et de réassurance
 
 Lorsqu'elles calculent leurs provisions techniques, les entreprises d'assurance et de réassurance tiennent compte de la valeur des garanties financières et de toute option contractuelle incluses dans leurs contrats d'assurance et de réassurance.
 

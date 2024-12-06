@@ -1,6 +1,6 @@
-= Article 46
+== Article 46
 
-Contrôle interne
+=== Contrôle interne
 
 1.   Les entreprises d'assurance et de réassurance disposent d'un système de contrôle interne efficace.
 

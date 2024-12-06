@@ -1,6 +1,6 @@
-= Article 146
+== Article 146
 
-Communication des informations
+=== Communication des informations
 
 1.   À moins que les autorités de contrôle de l'État membre d'origine n'aient des raisons de douter, compte tenu de l'activité envisagée, de l'adéquation du système de gouvernance, de la situation financière de l'entreprise d'assurance ou de l'honorabilité ou de la compétence du mandataire général exigées conformément à l'article 42, elles communiquent les informations visées à l'article 145, paragraphe 2, dans les trois mois à compter de la réception de toutes ces informations, aux autorités de contrôle de l'État membre d'accueil et en avisent l'entreprise d'assurance concernée.
 

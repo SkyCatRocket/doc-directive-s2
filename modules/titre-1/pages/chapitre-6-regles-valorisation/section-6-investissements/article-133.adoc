@@ -1,6 +1,6 @@
-= Article 133
+== Article 133
 
-Liberté d'investissement
+=== Liberté d'investissement
 
 1.   Les États membres n'exigent pas des entreprises d'assurance et de réassurance qu'elles investissent dans des catégories d'actifs déterminées.
 

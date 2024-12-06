@@ -1,6 +1,6 @@
-= Article 159
+== Article 159
 
-Informations statistiques relatives aux activités transfrontalières
+=== Informations statistiques relatives aux activités transfrontalières
 
 Chaque entreprise d'assurance communique à l'autorité de contrôle compétente de son État membre d'origine, de manière distincte pour les opérations effectuées en vertu du droit d'établissement et pour celles effectuées dans le cadre de la libre prestation de services, le montant des primes, sinistres et commissions, sans déduction de la réassurance, par État membre et comme suit:
 

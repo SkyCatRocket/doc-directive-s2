@@ -1,6 +1,6 @@
-= Article 93
+== Article 93
 
-Caractéristiques et facteurs à utiliser pour classer les fonds propres par niveau
+=== Caractéristiques et facteurs à utiliser pour classer les fonds propres par niveau
 
 1.   Les éléments de fonds propres sont classés sur trois niveaux. Le classement de ces éléments est fonction de leur caractère de fonds propres de base ou de fonds propres auxiliaires et de la mesure dans laquelle ils présentent les caractéristiques suivantes:
 

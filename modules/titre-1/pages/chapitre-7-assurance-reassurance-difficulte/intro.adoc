@@ -1,2 +1,18 @@
-= Chapitre 7 - Assurance
+include::article-136.adoc[]
+
+include::article-137.adoc[]
+
+include::article-138.adoc[]
+
+include::article-139.adoc[]
+
+include::article-140.adoc[]
+
+include::article-141.adoc[]
+
+include::article-142.adoc[]
+
+include::article-143.adoc[]
+
+include::article-144.adoc[]
 

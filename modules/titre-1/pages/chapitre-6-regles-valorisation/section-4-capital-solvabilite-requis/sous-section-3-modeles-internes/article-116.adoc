@@ -1,6 +1,6 @@
-= Article 116
+== Article 116
 
-Responsabilité incombant à l'organe d'administration, de gestion ou de contrôle
+=== Responsabilité incombant à l'organe d'administration, de gestion ou de contrôle
 
 L'organe d'administration, de gestion ou de contrôle de l'entreprise d'assurance ou de réassurance avalise la demande d'approbation du modèle interne par les autorités de contrôle visée à l'article 112, ainsi que la demande d'approbation de toute modification majeure ultérieurement apportée à ce modèle.
 

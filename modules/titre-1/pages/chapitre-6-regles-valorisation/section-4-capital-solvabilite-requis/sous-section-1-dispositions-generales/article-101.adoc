@@ -1,6 +1,6 @@
-= Article 101
+== Article 101
 
-Calcul du capital de solvabilité requis
+=== Calcul du capital de solvabilité requis
 
 1.   Le capital de solvabilité requis est calculé conformément aux paragraphes 2 à 5.
 

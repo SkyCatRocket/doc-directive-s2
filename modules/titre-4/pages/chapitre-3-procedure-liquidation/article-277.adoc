@@ -1,5 +1,5 @@
-= Article 277
+== Article 277
 
-Subrogation d'un système de garantie
+=== Subrogation d'un système de garantie
 
 L'État membre d'origine peut prévoir que, lorsqu'un système de garantie établi dans cet État membre est subrogé dans les droits des créanciers d'assurance, les créances de ce système ne bénéficient pas des dispositions de l'article 275, paragraphe 1.

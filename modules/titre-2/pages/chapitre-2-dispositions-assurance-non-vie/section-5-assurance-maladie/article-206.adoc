@@ -1,6 +1,6 @@
-= Article 206
+== Article 206
 
-Assurance maladie remplaçant la sécurité sociale
+=== Assurance maladie remplaçant la sécurité sociale
 
 1.   Tout État membre dans lequel les contrats relatifs à la branche 2 de la partie A de l'annexe I peuvent se substituer partiellement ou entièrement à la couverture «maladie» fournie par le régime légal de sécurité sociale peut exiger:
 

@@ -1,5 +1,5 @@
-= Article 295
+== Article 295
 
-Secret professionnel
+=== Secret professionnel
 
 Toutes les personnes appelées à recevoir ou à donner des informations dans le cadre des procédures prévues aux articles 270, 273 et 296 sont liées par les dispositions relatives au secret professionnel, prévues aux articles 64 à 69, à l'exception des autorités judiciaires auxquelles s'appliquent les dispositions nationales en vigueur.

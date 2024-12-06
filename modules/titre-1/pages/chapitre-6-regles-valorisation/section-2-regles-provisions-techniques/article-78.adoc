@@ -1,6 +1,6 @@
-= Article 78
+== Article 78
 
-Autres éléments à prendre en considération dans le calcul des provisions techniques
+=== Autres éléments à prendre en considération dans le calcul des provisions techniques
 
 Outre les dispositions de l'article 77, les entreprises d'assurance et de réassurance tiennent compte des éléments suivants lorsqu'elles calculent leurs provisions techniques:
 

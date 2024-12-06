@@ -1,2 +1,2 @@
-= Section 1 - Responsabilite
+include::article-40.adoc[]
 

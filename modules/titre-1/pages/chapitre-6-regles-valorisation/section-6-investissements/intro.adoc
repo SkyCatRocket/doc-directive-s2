@@ -1,2 +1,8 @@
-= Section 6 - Investissements
+include::article-132.adoc[]
+
+include::article-133.adoc[]
+
+include::article-134.adoc[]
+
+include::article-135.adoc[]
 

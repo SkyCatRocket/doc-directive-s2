@@ -1,6 +1,6 @@
-= Article 105
+== Article 105
 
-Calcul du capital de solvabilité requis de base
+=== Calcul du capital de solvabilité requis de base
 
 1.   Le capital de solvabilité requis de base est calculé conformément aux paragraphes 2 à 6.
 

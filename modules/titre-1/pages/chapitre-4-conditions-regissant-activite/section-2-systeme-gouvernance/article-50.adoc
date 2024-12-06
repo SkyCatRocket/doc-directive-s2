@@ -1,6 +1,6 @@
-= Article 50
+== Article 50
 
-Mesures d'exécution
+=== Mesures d'exécution
 
 1.   La Commission arrête des mesures d'exécution visant à préciser:
 

@@ -1,6 +1,6 @@
-= Article 219
+== Article 219
 
-Fréquence du calcul
+=== Fréquence du calcul
 
 1.   Le contrôleur du groupe veille à ce que les calculs visés à l'article 218, paragraphes 2 et 3, soient réalisés au moins une fois par an, soit par l'entreprise d'assurance ou de réassurance participante, soit par la société holding d'assurance.
 

@@ -1,6 +1,6 @@
-= Article 18
+== Article 18
 
-Conditions d'agrément
+=== Conditions d'agrément
 
 1.   L'État membre d'origine exige que toutes les entreprises qui sollicitent l'agrément:
 

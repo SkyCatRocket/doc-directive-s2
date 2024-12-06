@@ -1,6 +1,6 @@
-= Article 293
+== Article 293
 
-Administrateurs et liquidateurs
+=== Administrateurs et liquidateurs
 
 1.   La désignation d'un administrateur ou d'un liquidateur est établie par la présentation d'une copie, certifiée conforme à l'original, de la décision qui le désigne ou par tout autre certificat établi par les autorités compétentes de l'État membre d'origine.
 

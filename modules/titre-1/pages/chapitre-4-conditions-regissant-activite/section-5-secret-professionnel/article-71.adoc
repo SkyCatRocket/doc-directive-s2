@@ -1,6 +1,6 @@
-= Article 71
+== Article 71
 
-Convergence du contrôle
+=== Convergence du contrôle
 
 1.   Les États membres veillent à ce que les mandats des autorités de contrôle intègrent de manière appropriée la dimension de l'Union européenne.
 

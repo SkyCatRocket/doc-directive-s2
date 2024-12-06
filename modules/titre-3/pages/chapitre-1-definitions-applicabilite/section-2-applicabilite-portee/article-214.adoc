@@ -1,6 +1,6 @@
-= Article 214
+== Article 214
 
-Portée du contrôle de groupe
+=== Portée du contrôle de groupe
 
 1.   L'exercice du contrôle du groupe conformément à l'article 213 n'implique pas que les autorités de contrôle sont tenues d'exercer un contrôle sur l'entreprise d'assurance d'un pays tiers, l'entreprise de réassurance d'un pays tiers, la société holding d'assurance ou la société holding mixte d'assurance considérées individuellement, sans préjudice de l'article 257 en ce qui concerne les sociétés holding d'assurance.
 

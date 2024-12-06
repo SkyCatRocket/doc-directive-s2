@@ -1,6 +1,6 @@
-= Article 271
+== Article 271
 
-Publication des décisions relatives aux mesures d'assainissement
+=== Publication des décisions relatives aux mesures d'assainissement
 
 1.   Lorsqu'un recours est possible dans l'État membre d'origine contre une mesure d'assainissement, les autorités compétentes de l'État membre d'origine, l'administrateur ou toute personne habilitée à cet effet dans l'État membre d'origine assurent la publication de la décision relative à une mesure d'assainissement conformément aux modalités prévues dans l'État membre d'origine en matière de publication et, en outre, publient dès que possible auJournal officiel de l'Union européenneun extrait du document établissant la mesure d'assainissement.
 

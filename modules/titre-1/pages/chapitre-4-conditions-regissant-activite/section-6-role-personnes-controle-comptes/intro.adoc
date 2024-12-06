@@ -1,2 +1,2 @@
-= Section 6 - Role
+include::article-72.adoc[]
 

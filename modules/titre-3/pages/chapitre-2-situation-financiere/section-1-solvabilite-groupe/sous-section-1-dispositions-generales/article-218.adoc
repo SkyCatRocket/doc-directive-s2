@@ -1,6 +1,6 @@
-= Article 218
+== Article 218
 
-Contrôle de la solvabilité du groupe
+=== Contrôle de la solvabilité du groupe
 
 1.   Le contrôle de la solvabilité du groupe est exercé conformément aux paragraphes 2 et 3 du présent article, à l'article 246 et au chapitre III.
 

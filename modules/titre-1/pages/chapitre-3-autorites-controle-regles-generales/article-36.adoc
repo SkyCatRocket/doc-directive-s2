@@ -1,6 +1,6 @@
-= Article 36
+== Article 36
 
-Processus de contrôle prudentiel
+=== Processus de contrôle prudentiel
 
 1.   Les États membres veillent à ce que les autorités de contrôle examinent et évaluent les stratégies, les processus et les procédures de communication d'informations établis par les entreprises d'assurance et de réassurance en vue de se conformer aux dispositions législatives, réglementaires et administratives adoptées en vertu de la présente directive.
 

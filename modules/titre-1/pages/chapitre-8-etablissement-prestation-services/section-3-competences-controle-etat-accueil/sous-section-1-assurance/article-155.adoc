@@ -1,6 +1,6 @@
-= Article 155
+== Article 155
 
-Entreprises d'assurance ne se conformant pas aux dispositions légales
+=== Entreprises d'assurance ne se conformant pas aux dispositions légales
 
 1.   Lorsque les autorités de contrôle d'un État membre d'accueil constatent qu'une entreprise d'assurance ayant une succursale ou opérant dans le cadre de la libre prestation de services sur son territoire ne respecte pas les dispositions légales de cet État membre qui lui sont applicables, elles exigent de l'entreprise d'assurance concernée qu'elle mette fin à cette irrégularité.
 

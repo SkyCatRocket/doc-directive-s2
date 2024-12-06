@@ -1,6 +1,6 @@
-= Article 258
+== Article 258
 
-Mesures visant au respect des dispositions applicables
+=== Mesures visant au respect des dispositions applicables
 
 1.   Lorsque les entreprises d'assurance ou de réassurance d'un groupe ne se conforment pas aux exigences visées aux articles 218 à 246, ou lorsque ces exigences sont respectées mais que la solvabilité risque malgré tout d'être compromise, ou lorsque les transactions intragroupe ou les concentrations de risques menacent la situation financière desdites entreprises d'assurance ou de réassurance, les mesures nécessaires pour remédier dès que possible à cette situation sont imposées par:
 

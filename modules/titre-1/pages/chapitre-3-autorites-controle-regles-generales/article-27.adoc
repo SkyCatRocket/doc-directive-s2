@@ -1,5 +1,5 @@
-= Article 27
+== Article 27
 
-Principal objectif du contrôle
+=== Principal objectif du contrôle
 
 Les États membres veillent à ce que les autorités de contrôle disposent des moyens nécessaires et possèdent l'expertise, la capacité et le mandat appropriés, pour atteindre le principal objectif assigné au contrôle, qui consiste à garantir la protection des preneurs et des bénéficiaires.

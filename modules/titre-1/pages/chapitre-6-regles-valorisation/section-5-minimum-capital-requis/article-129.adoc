@@ -1,6 +1,6 @@
-= Article 129
+== Article 129
 
-Calcul du minimum de capital requis
+=== Calcul du minimum de capital requis
 
 1.   Le minimum de capital requis est calculé conformément aux principes suivants:
 

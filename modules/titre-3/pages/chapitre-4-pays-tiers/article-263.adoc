@@ -1,6 +1,6 @@
-= Article 263
+== Article 263
 
-Entreprises mères ayant leur siège en dehors de la Communauté: niveaux
+=== Entreprises mères ayant leur siège en dehors de la Communauté: niveaux
 
 Lorsque l'entreprise mère visée à l'article 260 est elle-même filiale d'une société holding d'assurance ayant son siège social en dehors de la Communauté ou d'une entreprise d'assurance ou de réassurance d'un pays tiers, les États membres procèdent à la vérification prévue par l'article 260 uniquement au niveau de l'entreprise mère supérieure qui est une société holding d'assurance d'un pays tiers, une entreprise d'assurance d'un pays tiers ou une entreprise de réassurance d'un pays tiers.
 

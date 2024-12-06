@@ -1,6 +1,6 @@
-= Article 148
+== Article 148
 
-Notification par l'État membre d'origine
+=== Notification par l'État membre d'origine
 
 1.   Les autorités de contrôle de l'État membre d'origine communiquent, dans un délai d'un mois à compter de la notification prévue à l'article 147, les éléments suivants à l'État membre ou aux États membres sur le territoire duquel ou desquels l'entreprise d'assurance désire exercer des activités dans le cadre de la libre prestation de services:
 

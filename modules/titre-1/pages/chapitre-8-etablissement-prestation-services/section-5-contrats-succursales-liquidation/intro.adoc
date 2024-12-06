@@ -1,2 +1,4 @@
-= Section 5 - Contrats
+include::article-160.adoc[]
+
+include::article-161.adoc[]
 

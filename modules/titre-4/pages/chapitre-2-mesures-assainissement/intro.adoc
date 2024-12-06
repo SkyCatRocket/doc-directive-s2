@@ -1,2 +1,8 @@
-= Chapitre 2 - Mesures
+include::article-269.adoc[]
+
+include::article-270.adoc[]
+
+include::article-271.adoc[]
+
+include::article-272.adoc[]
 

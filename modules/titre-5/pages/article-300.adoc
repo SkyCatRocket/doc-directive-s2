@@ -1,6 +1,6 @@
-= Article 300
+== Article 300
 
-Révision des montants libellés en euros
+=== Révision des montants libellés en euros
 
 Les montants libellés en euros figurant dans la présente directive sont révisés tous les cinq ans, par application aux montants de base en euro de la variation en pourcentage des indices harmonisés des prix à la consommation de tous les États membres, publiés par Eurostat, du 31 octobre 2012 jusqu'à la date de la révision, en arrondissant au multiple de 100 000 EUR supérieur.
 

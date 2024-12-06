@@ -1,6 +1,6 @@
-= Article 282
+== Article 282
 
-Droit de produire des créances
+=== Droit de produire des créances
 
 1.   Tout créancier, y compris les autorités publiques des États membres, qui a sa résidence habituelle, son domicile ou son siège social dans un État membre autre que l'État membre d'origine, a le droit de produire ses créances ou de présenter par écrit des observations relatives à ses créances.
 

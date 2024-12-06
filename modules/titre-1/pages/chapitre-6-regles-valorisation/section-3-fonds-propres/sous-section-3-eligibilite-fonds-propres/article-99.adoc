@@ -1,6 +1,6 @@
-= Article 99
+== Article 99
 
-Mesures d'exécution
+=== Mesures d'exécution
 
 La Commission arrête des mesures d'exécution fixant:
 

@@ -1,6 +1,6 @@
-= Article 200
+== Article 200
 
-Gestion des sinistres
+=== Gestion des sinistres
 
 1.   L'État membre d'origine veille à ce que les entreprises d'assurance adoptent, suivant l'option choisie par l'État membre ou selon leur choix si l'État membre y consent, au moins l'une des méthodes de gestion des sinistres énoncées aux paragraphes 2, 3 et 4.
 

@@ -1,2 +1,20 @@
-= Section 2 - Systeme
+include::article-41.adoc[]
+
+include::article-42.adoc[]
+
+include::article-43.adoc[]
+
+include::article-44.adoc[]
+
+include::article-45.adoc[]
+
+include::article-46.adoc[]
+
+include::article-47.adoc[]
+
+include::article-48.adoc[]
+
+include::article-49.adoc[]
+
+include::article-50.adoc[]
 

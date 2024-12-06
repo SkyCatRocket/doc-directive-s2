@@ -1,6 +1,6 @@
-= Article 83
+== Article 83
 
-Comparaison avec les données tirées de l'expérience
+=== Comparaison avec les données tirées de l'expérience
 
 Les entreprises d'assurance et de réassurance mettent en place des processus et procédures en vue d'assurer une comparaison régulière de leurs meilleures estimations et des hypothèses sous-tendant le calcul de ces dernières avec les données tirées de l'expérience.
 

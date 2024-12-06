@@ -1,6 +1,6 @@
-= Article 111
+== Article 111
 
-Mesures d'exécution
+=== Mesures d'exécution
 
 1.   Afin de garantir l'application du même traitement à toutes les entreprises d'assurance et de réassurance qui calculent leur capital de solvabilité requis sur la base de la formule standard, ou afin de tenir compte des évolutions du marché, la Commission arrête des mesures d'exécution prévoyant ce qui suit:
 

@@ -1,6 +1,6 @@
-= Article 19
+== Article 19
 
-Liens étroits
+=== Liens étroits
 
 Lorsque des liens étroits existent entre l'entreprise d'assurance ou de réassurance et d'autres personnes physiques ou morales, les autorités de contrôle n'accordent l'agrément que si ces liens n'entravent pas le bon exercice de leur mission de contrôle.
 

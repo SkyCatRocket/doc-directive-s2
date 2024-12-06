@@ -1,2 +1,4 @@
-= Section 1 - Assurance
+include::article-305.adoc[]
+
+include::article-306.adoc[]
 

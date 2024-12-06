@@ -1,6 +1,6 @@
-= Article 267
+== Article 267
 
-Champ d'application du présent titre
+=== Champ d'application du présent titre
 
 Le présent titre s'applique aux mesures d'assainissement et aux procédures de liquidation concernant:
 

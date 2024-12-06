@@ -1,6 +1,6 @@
-= Article 210
+== Article 210
 
-Réassurance finite
+=== Réassurance finite
 
 1.   Les États membres veillent à ce que les entreprises d'assurance et de réassurance qui concluent des contrats de réassurance finite ou qui exercent des activités de réassurance finite soient en mesure de déceler, de mesurer, de surveiller, de gérer, de contrôler et de signaler de manière appropriée les risques découlant de ces contrats ou activités.
 

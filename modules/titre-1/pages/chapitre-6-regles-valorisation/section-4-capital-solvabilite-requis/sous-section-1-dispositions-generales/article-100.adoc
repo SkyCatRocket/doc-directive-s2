@@ -1,6 +1,6 @@
-= Article 100
+== Article 100
 
-Dispositions générales
+=== Dispositions générales
 
 Les États membres exigent que les entreprises d'assurance et de réassurance détiennent des fonds propres éligibles couvrant le capital de solvabilité requis.
 

@@ -1,6 +1,6 @@
-= Article 77
+== Article 77
 
-Calcul des provisions techniques
+=== Calcul des provisions techniques
 
 1.   La valeur des provisions techniques est égale à la somme de la meilleure estimation et de la marge de risque respectivement décrites aux paragraphes 2 et 3.
 

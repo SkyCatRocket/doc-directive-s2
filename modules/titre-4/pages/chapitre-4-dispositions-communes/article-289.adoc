@@ -1,6 +1,6 @@
-= Article 289
+== Article 289
 
-Marchés réglementés
+=== Marchés réglementés
 
 1.   Sans préjudice de l'article 286, les effets d'une mesure d'assainissement ou de l'ouverture d'une procédure de liquidation sur les droits et obligations des participants d'un marché réglementé sont régis exclusivement par le droit applicable audit marché.
 

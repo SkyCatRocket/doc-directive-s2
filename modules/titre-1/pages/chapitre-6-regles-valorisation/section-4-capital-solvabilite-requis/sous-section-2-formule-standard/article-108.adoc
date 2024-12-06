@@ -1,6 +1,6 @@
-= Article 108
+== Article 108
 
-Ajustement visant à tenir compte de la capacité d'absorption de pertes des provisions techniques et des impôts différés
+=== Ajustement visant à tenir compte de la capacité d'absorption de pertes des provisions techniques et des impôts différés
 
 L'ajustement visant à tenir compte de la capacité d'absorption des pertes des provisions techniques et des impôts différés, visé à l'article 103, point c), reflète la compensation potentielle de pertes non anticipées par une baisse simultanée soit des provisions techniques soit des impôts différés, ou une combinaison des deux.
 

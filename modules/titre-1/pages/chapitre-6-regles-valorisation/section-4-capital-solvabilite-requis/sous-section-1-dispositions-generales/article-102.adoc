@@ -1,6 +1,6 @@
-= Article 102
+== Article 102
 
-Fréquence du calcul
+=== Fréquence du calcul
 
 1.   Les entreprises d'assurance et de réassurance calculent leur capital de solvabilité requis au moins une fois par an et notifient le résultat de ce calcul aux autorités de contrôle.
 

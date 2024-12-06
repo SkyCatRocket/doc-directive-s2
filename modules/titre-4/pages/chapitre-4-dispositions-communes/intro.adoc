@@ -1,2 +1,24 @@
-= Chapitre 4 - Dispositions
+include::article-285.adoc[]
+
+include::article-286.adoc[]
+
+include::article-287.adoc[]
+
+include::article-288.adoc[]
+
+include::article-289.adoc[]
+
+include::article-290.adoc[]
+
+include::article-291.adoc[]
+
+include::article-292.adoc[]
+
+include::article-293.adoc[]
+
+include::article-294.adoc[]
+
+include::article-295.adoc[]
+
+include::article-296.adoc[]
 

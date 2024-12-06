@@ -1,6 +1,6 @@
-= Article 223
+== Article 223
 
-Élimination de la création intragroupe de capital
+=== Élimination de la création intragroupe de capital
 
 1.   Dans le calcul de la solvabilité du groupe, il n'est tenu compte d'aucun élément de fonds propres éligibles en couverture du capital de solvabilité requis qui proviendrait d'un financement réciproque entre l'entreprise d'assurance ou de réassurance participante et:
 

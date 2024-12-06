@@ -1,6 +1,6 @@
-= Article 228
+== Article 228
 
-Établissements de crédit, entreprises d'investissement et établissements financiers liés
+=== Établissements de crédit, entreprises d'investissement et établissements financiers liés
 
 Pour le calcul de la solvabilité du groupe d'une entreprise d'assurance ou de réassurance qui est une entreprise participante d'un établissement de crédit, d'une entreprise d'investissement ou d'un établissement financier, les États membres autorisent leurs entreprises d'assurance et de réassurance participantes à appliquermutatis mutandisla méthode no1 ou la méthode no2 énoncées à l'annexe I de la directive 2002/87/CE. Toutefois, la méthode no1 décrite dans cette annexe n'est appliquée que lorsque le contrôleur du groupe est satisfait du niveau de gestion intégrée et de contrôle interne des entités qui relèveraient de la consolidation. La méthode choisie est appliquée d'une manière constante dans le temps.
 

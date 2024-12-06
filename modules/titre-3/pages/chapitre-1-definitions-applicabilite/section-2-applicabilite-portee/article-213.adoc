@@ -1,6 +1,6 @@
-= Article 213
+== Article 213
 
-Applicabilité du contrôle de groupe
+=== Applicabilité du contrôle de groupe
 
 1.   Les États membres prévoient le contrôle, au niveau du groupe, des entreprises d'assurance et de réassurance qui font partie d'un groupe, conformément au présent titre.
 

@@ -1,6 +1,6 @@
-= Article 14
+== Article 14
 
-Principe d'agrément
+=== Principe d'agrément
 
 1.   L'accès aux activités d'assurance directe ou de réassurance relevant de la présente directive est subordonné à l'octroi d'un agrément préalable.
 

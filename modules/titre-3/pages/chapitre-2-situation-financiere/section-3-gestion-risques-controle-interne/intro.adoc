@@ -1,2 +1,2 @@
-= Section 3 - Gestion
+include::article-246.adoc[]
 

@@ -1,2 +1,2 @@
-= Section 3 - Assistance
+include::article-197.adoc[]
 

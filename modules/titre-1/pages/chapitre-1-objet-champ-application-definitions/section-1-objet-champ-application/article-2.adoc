@@ -1,6 +1,6 @@
-= Article 2
+== Article 2
 
-Champ d'application
+=== Champ d'application
 
 1.   La présente directive s'applique aux entreprises d'assurance directe vie et non-vie qui sont établies sur le territoire d'un État membre ou qui désirent s'y établir.
 

@@ -1,6 +1,6 @@
-= Article 115
+== Article 115
 
-Politique de modification des modèles internes intégraux et partiels
+=== Politique de modification des modèles internes intégraux et partiels
 
 Dans le cadre de la procédure d'approbation initiale d'un modèle interne, les autorités de contrôle approuvent la politique de modification du modèle de l'entreprise d'assurance ou de réassurance. Les entreprises d'assurance et de réassurance peuvent modifier leur modèle interne conformément à cette politique.
 

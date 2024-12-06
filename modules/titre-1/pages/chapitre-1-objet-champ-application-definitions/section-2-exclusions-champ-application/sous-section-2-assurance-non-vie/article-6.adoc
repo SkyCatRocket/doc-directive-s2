@@ -1,6 +1,6 @@
-= Article 6
+== Article 6
 
-Assistance
+=== Assistance
 
 1.   La présente directive ne s'applique pas à l'activité d'assistance pour autant qu'elle remplisse toutes les conditions suivantes:
 

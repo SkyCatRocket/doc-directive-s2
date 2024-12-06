@@ -1,6 +1,6 @@
-= Article 15
+== Article 15
 
-Champ d'application de l'agrément
+=== Champ d'application de l'agrément
 
 1.   Un agrément octroyé conformément à l'article 14 est valable dans l'ensemble de la Communauté. Il permet aux entreprises d'assurance et de réassurance d'y exercer des activités, l'agrément couvrant aussi le droit d'établissement et de libre prestation de services.
 

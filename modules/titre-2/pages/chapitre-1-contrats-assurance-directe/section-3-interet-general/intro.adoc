@@ -1,2 +1,2 @@
-= Section 3 - Interet
+include::article-180.adoc[]
 

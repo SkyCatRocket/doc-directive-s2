@@ -1,6 +1,6 @@
-= Article 124
+== Article 124
 
-Normes de validation
+=== Normes de validation
 
 Les entreprises d'assurance et de réassurance mettent en place un cycle régulier de validation de leur modèle, qui comprend un suivi du fonctionnement du modèle interne, un contrôle de l'adéquation permanente de ses spécifications et une confrontation des résultats qu'il produit aux données tirées de l'expérience.
 

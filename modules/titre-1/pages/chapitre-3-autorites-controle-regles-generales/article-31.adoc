@@ -1,6 +1,6 @@
-= Article 31
+== Article 31
 
-Transparence et obligation de rendre des comptes
+=== Transparence et obligation de rendre des comptes
 
 1.   Les autorités de contrôle exercent leurs fonctions d'une manière transparente et en rendant compte de leur action, tout en veillant dûment à la protection des informations confidentielles.
 

@@ -1,6 +1,6 @@
-= Article 250
+== Article 250
 
-Consultation entre autorités de contrôle
+=== Consultation entre autorités de contrôle
 
 1.   Sans préjudice de l'article 248, avant toute décision importante pour les tâches de contrôle des autres autorités de contrôle, les autorités de contrôle concernées se consultent, au sein du collège des contrôleurs, sur ce qui suit:
 

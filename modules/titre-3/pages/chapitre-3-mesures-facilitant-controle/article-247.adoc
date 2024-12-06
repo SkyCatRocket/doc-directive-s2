@@ -1,6 +1,6 @@
-= Article 247
+== Article 247
 
-Contrôleur du groupe
+=== Contrôleur du groupe
 
 1.   Un contrôleur unique, responsable de la coordination et de l'exercice du contrôle du groupe (dénommé «contrôleur du groupe»), est désigné parmi les autorités de contrôle des États membres concernées.
 

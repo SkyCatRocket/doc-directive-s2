@@ -1,6 +1,6 @@
-= Article 238
+== Article 238
 
-Filiales d'une entreprise d'assurance ou de réassurance: calcul du capital de solvabilité requis
+=== Filiales d'une entreprise d'assurance ou de réassurance: calcul du capital de solvabilité requis
 
 1.   Sans préjudice de l'article 231, le capital de solvabilité requis d'une filiale est calculé conformément aux paragraphes 2, 4 et 5 du présent article.
 

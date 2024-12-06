@@ -1,2 +1,12 @@
-= Section 3 - Informations
+include::article-51.adoc[]
+
+include::article-52.adoc[]
+
+include::article-53.adoc[]
+
+include::article-54.adoc[]
+
+include::article-55.adoc[]
+
+include::article-56.adoc[]
 

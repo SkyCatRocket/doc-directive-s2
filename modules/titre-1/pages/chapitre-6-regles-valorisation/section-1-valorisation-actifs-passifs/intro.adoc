@@ -1,2 +1,2 @@
-= Section 1 - Valorisation
+include::article-75.adoc[]
 

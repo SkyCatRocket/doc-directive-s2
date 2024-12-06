@@ -1,2 +1,14 @@
-= Section 4 - Participation
+include::article-57.adoc[]
+
+include::article-58.adoc[]
+
+include::article-59.adoc[]
+
+include::article-60.adoc[]
+
+include::article-61.adoc[]
+
+include::article-62.adoc[]
+
+include::article-63.adoc[]
 

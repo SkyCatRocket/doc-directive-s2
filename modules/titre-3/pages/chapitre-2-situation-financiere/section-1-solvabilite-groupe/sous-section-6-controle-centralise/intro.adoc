@@ -1,2 +1,16 @@
-= Sous section - 6
+include::article-236.adoc[]
+
+include::article-237.adoc[]
+
+include::article-238.adoc[]
+
+include::article-239.adoc[]
+
+include::article-240.adoc[]
+
+include::article-241.adoc[]
+
+include::article-242.adoc[]
+
+include::article-243.adoc[]
 

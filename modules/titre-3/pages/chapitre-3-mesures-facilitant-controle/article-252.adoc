@@ -1,6 +1,6 @@
-= Article 252
+== Article 252
 
-Coopération avec les autorités responsables des établissements de crédit et des entreprises d'investissement
+=== Coopération avec les autorités responsables des établissements de crédit et des entreprises d'investissement
 
 Lorsqu'une entreprise d'assurance ou de réassurance et soit un établissement de crédit au sens de la directive 2006/48/CE, soit une entreprise d'investissement au sens de la directive 2004/39/CE, soit les deux, sont directement ou indirectement liés ou ont une entreprise participante commune, les autorités de contrôle concernées et les autorités responsables du contrôle de ces autres entreprises coopèrent étroitement.
 

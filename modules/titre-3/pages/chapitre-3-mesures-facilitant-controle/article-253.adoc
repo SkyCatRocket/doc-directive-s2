@@ -1,6 +1,6 @@
-= Article 253
+== Article 253
 
-Secret professionnel et confidentialité
+=== Secret professionnel et confidentialité
 
 Les États membres autorisent leurs autorités de contrôle à échanger des informations, tant entre elles qu'avec d'autres autorités comme prévu aux articles 249 à 252.
 

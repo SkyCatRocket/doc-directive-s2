@@ -1,6 +1,6 @@
-= Article 125
+== Article 125
 
-Normes en matière de documentation
+=== Normes en matière de documentation
 
 Les entreprises d'assurance et de réassurance établissent une documentation décrivant les détails de la conception et du fonctionnement de leur modèle interne.
 

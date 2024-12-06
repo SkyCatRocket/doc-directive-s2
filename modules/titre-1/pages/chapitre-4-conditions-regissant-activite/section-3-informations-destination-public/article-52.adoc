@@ -1,6 +1,6 @@
-= Article 52
+== Article 52
 
-Informations communiquées au CECAPP et par lui
+=== Informations communiquées au CECAPP et par lui
 
 1.   Les États membres exigent des autorités de contrôle qu'elles fournissent annuellement les informations suivantes au CECAPP:
 

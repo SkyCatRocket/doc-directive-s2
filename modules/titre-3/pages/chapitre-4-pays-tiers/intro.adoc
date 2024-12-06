@@ -1,2 +1,10 @@
-= Chapitre 4 - Pays
+include::article-260.adoc[]
+
+include::article-261.adoc[]
+
+include::article-262.adoc[]
+
+include::article-263.adoc[]
+
+include::article-264.adoc[]
 

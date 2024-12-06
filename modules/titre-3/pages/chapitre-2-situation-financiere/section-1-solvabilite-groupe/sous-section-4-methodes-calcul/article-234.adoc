@@ -1,6 +1,6 @@
-= Article 234
+== Article 234
 
-Mesures d'exécution
+=== Mesures d'exécution
 
 En vue de garantir leur application uniforme dans la Communauté, la Commission arrête des mesures d'exécution précisant les principes techniques et les méthodes énoncés aux articles 220 à 229 ainsi que les modalités d'application des articles 230 à 233.
 

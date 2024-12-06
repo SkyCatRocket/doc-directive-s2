@@ -1,2 +1,6 @@
-= Sous section - 2
+include::article-150.adoc[]
+
+include::article-151.adoc[]
+
+include::article-152.adoc[]
 

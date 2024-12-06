@@ -1,5 +1,5 @@
-= Article 136
+== Article 136
 
-Identification et notification de la détérioration des conditions financières par les entreprises d'assurance et de réassurance
+=== Identification et notification de la détérioration des conditions financières par les entreprises d'assurance et de réassurance
 
 Les entreprises d'assurance et de réassurance mettent en place des procédures leur permettant de détecter une détérioration des conditions financières et d'informer immédiatement les autorités de contrôle lorsque celle-ci se produit.

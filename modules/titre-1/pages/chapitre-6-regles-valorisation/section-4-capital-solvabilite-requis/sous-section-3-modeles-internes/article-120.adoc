@@ -1,6 +1,6 @@
-= Article 120
+== Article 120
 
-Test relatif à l'utilisation du modèle
+=== Test relatif à l'utilisation du modèle
 
 Les entreprises d'assurance et de réassurance démontrent qu'elles utilisent largement leur modèle interne et que celui-ci joue un rôle important dans leur système de gouvernance visé aux articles 41 à 50, en particulier:
 

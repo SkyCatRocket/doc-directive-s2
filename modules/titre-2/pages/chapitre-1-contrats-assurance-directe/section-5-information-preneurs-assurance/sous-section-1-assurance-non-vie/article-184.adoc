@@ -1,6 +1,6 @@
-= Article 184
+== Article 184
 
-Information supplémentaire à fournir pour une assurance non-vie proposée en vertu du droit d'établissement ou de la libre prestation de services
+=== Information supplémentaire à fournir pour une assurance non-vie proposée en vertu du droit d'établissement ou de la libre prestation de services
 
 1.   Lorsqu'une assurance non-vie est proposée en vertu du droit d'établissement ou de la libre prestation de services, le preneur d'assurance doit être informé, avant la conclusion de tout engagement, du nom de l'État membre où est situé le siège social ou, le cas échéant, la succursale avec lequel ou laquelle le contrat sera conclu.
 

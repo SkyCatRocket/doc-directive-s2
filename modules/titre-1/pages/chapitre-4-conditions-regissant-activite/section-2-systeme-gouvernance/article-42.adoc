@@ -1,6 +1,6 @@
-= Article 42
+== Article 42
 
-Exigences de compétence et d'honorabilité applicables aux personnes qui dirigent effectivement l'entreprise ou qui occupent d'autres fonctions clés
+=== Exigences de compétence et d'honorabilité applicables aux personnes qui dirigent effectivement l'entreprise ou qui occupent d'autres fonctions clés
 
 1.   Les entreprises d'assurance et de réassurance veillent à ce que toutes les personnes qui dirigent effectivement l'entreprise ou qui occupent d'autres fonctions clés satisfassent en permanence aux exigences suivantes:
 

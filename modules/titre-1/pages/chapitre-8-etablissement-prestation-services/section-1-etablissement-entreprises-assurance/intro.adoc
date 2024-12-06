@@ -1,2 +1,4 @@
-= Section 1 - Etablissement
+include::article-145.adoc[]
+
+include::article-146.adoc[]
 

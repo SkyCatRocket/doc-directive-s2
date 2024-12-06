@@ -1,2 +1,26 @@
-= Chapitre 3 - Mesures
+include::article-247.adoc[]
+
+include::article-248.adoc[]
+
+include::article-249.adoc[]
+
+include::article-250.adoc[]
+
+include::article-251.adoc[]
+
+include::article-252.adoc[]
+
+include::article-253.adoc[]
+
+include::article-254.adoc[]
+
+include::article-255.adoc[]
+
+include::article-256.adoc[]
+
+include::article-257.adoc[]
+
+include::article-258.adoc[]
+
+include::article-259.adoc[]
 

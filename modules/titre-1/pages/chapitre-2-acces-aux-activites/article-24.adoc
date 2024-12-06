@@ -1,6 +1,6 @@
-= Article 24
+== Article 24
 
-Actionnaires et associés détenant une participation qualifiée
+=== Actionnaires et associés détenant une participation qualifiée
 
 1.   Les autorités de contrôle de l'État membre d'origine n'accordent pas à une entreprise l'agrément permettant l'accès à l'activité d'assurance ou de réassurance avant d'avoir obtenu communication de l'identité des actionnaires ou des associés, directs ou indirects, personnes physiques ou morales, qui y détiennent une participation qualifiée, et du montant de cette participation.
 

@@ -1,6 +1,6 @@
-= Article 72
+== Article 72
 
-Rôle des personnes chargées du contrôle des comptes
+=== Rôle des personnes chargées du contrôle des comptes
 
 1.   Les États membres prévoient au moins que les personnes agréées au sens de la huitième directive 84/253/CEE du Conseil du 10 avril 1984 fondée sur l'article 54, paragraphe 3, point g), du traité, concernant l'agrément des personnes chargées du contrôle légal des documents comptables(34), qui procèdent, au sein d'une entreprise d'assurance ou de réassurance, au contrôle légal des comptes visé à l'article 51 de la directive 78/660/CEE, à l'article 37 de la directive 83/349/CEE ou à l'article 31 de la directive 85/611/CEE ou à toute autre mission légale, ont l'obligation de signaler sans délai aux autorités de contrôle tout fait ou décision concernant cette entreprise, dont elles ont eu connaissance dans l'exercice de cette mission et qui est de nature à entraîner l'une des conséquences suivantes:
 

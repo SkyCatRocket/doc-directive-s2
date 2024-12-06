@@ -1,6 +1,6 @@
-= Article 232
+== Article 232
 
-Exigence de capital supplémentaire relative au groupe
+=== Exigence de capital supplémentaire relative au groupe
 
 Pour déterminer si le capital de solvabilité requis du groupe sur une base consolidée reflète de manière appropriée le profil de risque du groupe, le contrôleur du groupe accorde une attention particulière à tout cas où les circonstances visées à l'article 37, paragraphe 1, points a) à c), sont susceptibles de se présenter au niveau du groupe et notamment aux cas où:
 

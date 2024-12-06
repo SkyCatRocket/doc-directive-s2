@@ -1,6 +1,6 @@
-= Article 90
+== Article 90
 
-Approbation des fonds propres auxiliaires par les autorités de contrôle
+=== Approbation des fonds propres auxiliaires par les autorités de contrôle
 
 1.   Les montants des éléments des fonds propres auxiliaires à prendre en considération pour déterminer les fonds propres sont soumis à l'approbation préalable des autorités de contrôle.
 

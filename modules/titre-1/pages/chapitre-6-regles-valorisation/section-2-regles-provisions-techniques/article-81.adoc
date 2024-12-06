@@ -1,6 +1,6 @@
-= Article 81
+== Article 81
 
-Créances découlant des contrats de réassurance et des véhicules de titrisation
+=== Créances découlant des contrats de réassurance et des véhicules de titrisation
 
 Lorsqu'elles calculent les créances découlant des contrats de réassurance et des véhicules de titrisation, les entreprises d'assurance et de réassurance se conforment aux articles 76 à 80.
 

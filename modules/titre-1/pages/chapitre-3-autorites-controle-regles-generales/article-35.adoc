@@ -1,6 +1,6 @@
-= Article 35
+== Article 35
 
-Informations à fournir aux fins du contrôle
+=== Informations à fournir aux fins du contrôle
 
 1.   Les États membres exigent des entreprises d'assurance et de réassurance qu'elles fournissent aux autorités de contrôle les informations nécessaires aux fins du contrôle. Celles-ci comprennent au minimum les informations nécessaires à l'exécution des tâches suivantes, dans le cadre de la mise en œuvre du processus visé à l'article 36:
 

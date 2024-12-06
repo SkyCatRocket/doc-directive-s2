@@ -1,2 +1,14 @@
-= Section 2 - Coassurance
+include::article-190.adoc[]
+
+include::article-191.adoc[]
+
+include::article-192.adoc[]
+
+include::article-193.adoc[]
+
+include::article-194.adoc[]
+
+include::article-195.adoc[]
+
+include::article-196.adoc[]
 

@@ -1,6 +1,6 @@
-= Article 196
+== Article 196
 
-Collaboration en matière de mise en œuvre
+=== Collaboration en matière de mise en œuvre
 
 La Commission et les autorités de contrôle des États membres collaborent étroitement en vue d'examiner les difficultés qui pourraient surgir dans la mise en œuvre de la présente section.
 

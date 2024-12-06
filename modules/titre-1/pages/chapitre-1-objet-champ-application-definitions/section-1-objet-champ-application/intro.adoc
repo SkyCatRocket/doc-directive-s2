@@ -1,2 +1,4 @@
-= Section 1 - Objet
+include::article-1.adoc[]
+
+include::article-2.adoc[]
 

@@ -1,6 +1,6 @@
-= Article premier
+== Article premier
 
-Objet
+=== Objet
 
 La présente directive établit des règles concernant:
 

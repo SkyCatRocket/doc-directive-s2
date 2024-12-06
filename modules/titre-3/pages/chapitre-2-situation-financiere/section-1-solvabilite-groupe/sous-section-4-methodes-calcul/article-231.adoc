@@ -1,6 +1,6 @@
-= Article 231
+== Article 231
 
-Modèle interne du groupe
+=== Modèle interne du groupe
 
 1.   Dans le cas où une entreprise d'assurance ou de réassurance et ses entreprises liées, ou l'ensemble des entreprises liées d'une société holding d'assurance, demandent l'autorisation de calculer, sur la base d'un modèle interne, le capital de solvabilité requis du groupe sur une base consolidée et le capital de solvabilité requis des entreprises d'assurance et de réassurance du groupe, les autorités de contrôle concernées coopèrent pour décider d'accorder ou non cette autorisation et, le cas échéant, pour en définir les conditions.
 

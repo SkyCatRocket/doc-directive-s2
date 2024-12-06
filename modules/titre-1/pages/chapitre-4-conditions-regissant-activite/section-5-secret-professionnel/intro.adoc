@@ -1,2 +1,16 @@
-= Section 5 - Secret
+include::article-64.adoc[]
+
+include::article-65.adoc[]
+
+include::article-66.adoc[]
+
+include::article-67.adoc[]
+
+include::article-68.adoc[]
+
+include::article-69.adoc[]
+
+include::article-70.adoc[]
+
+include::article-71.adoc[]
 

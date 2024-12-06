@@ -1,6 +1,6 @@
-= Article 4
+== Article 4
 
-Exclusion du champ d'application en raison de la taille
+=== Exclusion du champ d'application en raison de la taille
 
 1.   Sans préjudice des articles 3 et 5 à 10, la présente directive ne s'applique pas à l'entreprise d'assurance qui remplit toutes les conditions suivantes:
 

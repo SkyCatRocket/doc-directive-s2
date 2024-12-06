@@ -1,5 +1,5 @@
-= Article 87
+== Article 87
 
-Fonds propres
+=== Fonds propres
 
 Les fonds propres correspondent à la somme des fonds propres de base visés à l'article 88 et des fonds propres auxiliaires visés à l'article 89.

@@ -1,6 +1,6 @@
-= Article 37
+== Article 37
 
-Exigence de capital supplémentaire
+=== Exigence de capital supplémentaire
 
 1.   À la suite du processus de contrôle prudentiel, les autorités de contrôle peuvent, dans des circonstances exceptionnelles et par décision motivée, imposer une exigence de capital supplémentaire à une entreprise d'assurance ou de réassurance. Cette possibilité n'existe que dans les cas suivants:
 

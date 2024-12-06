@@ -1,6 +1,6 @@
-= Article 294
+== Article 294
 
-Inscription dans un registre public
+=== Inscription dans un registre public
 
 1.   L'administrateur, le liquidateur ou toute autorité ou personne dûment habilitée dans l'État membre d'origine peut demander qu'une mesure d'assainissement ou la décision d'ouverture d'une procédure de liquidation soit inscrite dans tout registre public pertinent tenu dans les autres États membres.
 

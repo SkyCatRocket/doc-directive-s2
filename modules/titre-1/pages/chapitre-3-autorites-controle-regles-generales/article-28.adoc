@@ -1,6 +1,6 @@
-= Article 28
+== Article 28
 
-Stabilité financière et effets procycliques
+=== Stabilité financière et effets procycliques
 
 Sans préjudice de l'objectif principal du contrôle, énoncé à l'article 27, les États membres veillent à ce que les autorités de contrôle, dans l'exercice de leurs fonctions générales, prennent dûment en considération les possibles effets de leurs décisions sur la stabilité des systèmes financiers concernés de l'Union européenne, notamment dans les situations d'urgence, en tenant compte des informations disponibles à l'instant donné.
 

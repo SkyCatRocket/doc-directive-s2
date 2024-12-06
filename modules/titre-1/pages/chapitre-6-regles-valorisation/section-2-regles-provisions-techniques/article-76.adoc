@@ -1,6 +1,6 @@
-= Article 76
+== Article 76
 
-Dispositions générales
+=== Dispositions générales
 
 1.   Les États membres veillent à ce que les entreprises d'assurance et de réassurance établissent des provisions techniques pour tous leurs engagements d'assurance et de réassurance vis-à-vis des preneurs et des bénéficiaires des contrats d'assurance ou de réassurance.
 

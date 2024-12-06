@@ -1,6 +1,6 @@
-= Article 186
+== Article 186
 
-Délai de renonciation
+=== Délai de renonciation
 
 1.   Les États membres prévoient que les preneurs d'un contrat d'assurance vie individuelle disposent d'un délai compris entre quatorze et trente jours, à compter du moment où ils sont informés que le contrat est conclu, pour renoncer aux effets de ce contrat.
 

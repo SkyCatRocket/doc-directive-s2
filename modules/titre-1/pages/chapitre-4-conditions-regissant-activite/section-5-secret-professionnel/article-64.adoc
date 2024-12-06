@@ -1,6 +1,6 @@
-= Article 64
+== Article 64
 
-Secret professionnel
+=== Secret professionnel
 
 Les États membres prévoient que toutes les personnes exerçant ou ayant exercé une activité pour le compte des autorités de contrôle ainsi que les personnes chargées du contrôle légal des comptes ou les experts mandatés par ces autorités sont liés par l'obligation de secret professionnel.
 

@@ -1,6 +1,6 @@
-= Article 157
+== Article 157
 
-Taxes sur les primes
+=== Taxes sur les primes
 
 1.   Sans préjudice d'une harmonisation ultérieure, tout contrat d'assurance est exclusivement soumis aux impôts indirects et taxes parafiscales sur les primes d'assurance dans l'État membre où le risque est situé ou l'État membre de l'engagement.
 

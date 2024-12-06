@@ -1,6 +1,6 @@
-= Article 134
+== Article 134
 
-Localisation des actifs et interdiction du nantissement d'actifs
+=== Localisation des actifs et interdiction du nantissement d'actifs
 
 1.   Pour ce qui concerne les risques d'assurance situés dans la Communauté, les États membres n'exigent pas que les actifs détenus pour couvrir les provisions techniques afférentes à ces risques soient situés dans la Communauté ou dans un État membre déterminé.
 

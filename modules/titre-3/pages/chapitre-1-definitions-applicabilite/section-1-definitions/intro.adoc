@@ -1,2 +1,2 @@
-= Section 1 - Definitions
+include::article-212.adoc[]
 

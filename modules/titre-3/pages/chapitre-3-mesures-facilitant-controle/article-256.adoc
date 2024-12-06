@@ -1,6 +1,6 @@
-= Article 256
+== Article 256
 
-Rapport sur la solvabilité et la situation financière du groupe
+=== Rapport sur la solvabilité et la situation financière du groupe
 
 1.   Les États membres requièrent des entreprises d'assurance et de réassurance participantes ou des sociétés holding d'assurance qu'elles publient annuellement un rapport sur la solvabilité et la situation financière au niveau du groupe. Les articles 51 et 53 à 55 s'appliquentmutatis mutandis.
 

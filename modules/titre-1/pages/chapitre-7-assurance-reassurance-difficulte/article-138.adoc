@@ -1,6 +1,6 @@
-= Article 138
+== Article 138
 
-Non-conformité du capital de solvabilité requis
+=== Non-conformité du capital de solvabilité requis
 
 1.   Les entreprises d'assurance et de réassurance informent immédiatement l'autorité de contrôle lorsqu'elles constatent que le capital de solvabilité requis n'est plus conforme, ou qu'il risque de ne plus l'être dans les trois prochains mois.
 

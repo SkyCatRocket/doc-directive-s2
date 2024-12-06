@@ -1,5 +1,5 @@
-= Article 278
+== Article 278
 
-Représentation des créances privilégiées par des actifs
+=== Représentation des créances privilégiées par des actifs
 
 Les États membres qui choisissent l'option prévue à l'article 275, paragraphe 1, point b), imposent à chaque entreprise d'assurance de veiller à ce que les créances qui peuvent être prioritaires par rapport aux créances d'assurance conformément à l'article 275, paragraphe 1, point b), et qui sont inscrites dans la comptabilité de l'entreprise d'assurance soient représentées, à tout moment et indépendamment d'une éventuelle liquidation, par des actifs.

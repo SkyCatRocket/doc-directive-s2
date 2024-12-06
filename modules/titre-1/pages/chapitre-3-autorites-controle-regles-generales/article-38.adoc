@@ -1,6 +1,6 @@
-= Article 38
+== Article 38
 
-Suivi des activités et des fonctions données en sous-traitance
+=== Suivi des activités et des fonctions données en sous-traitance
 
 1.   Sans préjudice de l'article 49, les États membres veillent à ce que les entreprises d'assurance et de réassurance qui donnent une fonction ou une activité d'assurance ou de réassurance en sous-traitance prennent les mesures nécessaires pour faire en sorte de réunir les conditions suivantes:
 

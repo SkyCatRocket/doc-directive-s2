@@ -1,6 +1,6 @@
-= Article 287
+== Article 287
 
-Réserve de propriété
+=== Réserve de propriété
 
 1.   L'adoption de mesures d'assainissement ou l'ouverture d'une procédure de liquidation à l'encontre d'une entreprise d'assurance achetant un actif n'affecte pas les droits du vendeur fondés sur une réserve de propriété, lorsque cet actif se trouve, au moment de l'adoption de telles mesures ou de l'ouverture d'une telle procédure, sur le territoire d'un État membre autre que l'État membre dans lequel de telles mesures ont été adoptées ou une telle procédure a été ouverte.
 

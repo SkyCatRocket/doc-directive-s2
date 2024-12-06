@@ -1,2 +1,2 @@
-= Section 2 - Assurance
+include::article-179.adoc[]
 

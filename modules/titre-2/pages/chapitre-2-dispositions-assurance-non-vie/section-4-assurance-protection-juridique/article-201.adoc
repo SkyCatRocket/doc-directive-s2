@@ -1,6 +1,6 @@
-= Article 201
+== Article 201
 
-Libre choix de l'avocat
+=== Libre choix de l'avocat
 
 1.   Tout contrat d'assurance protection juridique prévoit explicitement:
 

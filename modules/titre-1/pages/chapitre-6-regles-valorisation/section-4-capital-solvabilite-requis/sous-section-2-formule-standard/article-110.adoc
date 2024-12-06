@@ -1,5 +1,5 @@
-= Article 110
+== Article 110
 
-Écarts sensibles par rapport aux hypothèses qui sous-tendent le calcul selon la formule standard
+=== Écarts sensibles par rapport aux hypothèses qui sous-tendent le calcul selon la formule standard
 
 Lorsqu'il n'est pas approprié de calculer le capital de solvabilité requis conformément à la formule standard, comme exposé à la sous-section 2, parce que le profil de risque de l'entreprise d'assurance ou de réassurance concernée s'écarte significativement des hypothèses qui sous-tendent le calcul selon cette formule, les autorités de contrôle peuvent, par décision motivée, exiger de l'entreprise concernée qu'elle remplace un sous-ensemble de paramètres utilisés dans le calcul selon la formule standard par des paramètres particuliers à cette entreprise au moment de calculer, conformément à l'article 104, paragraphe 7, les modules «risque de souscription en vie», «risque de souscription en non-vie» et «risque de souscription en santé». Ces paramètres particuliers sont calculés de façon à garantir que l'entreprise se conforme à l'article 101, paragraphe 3.

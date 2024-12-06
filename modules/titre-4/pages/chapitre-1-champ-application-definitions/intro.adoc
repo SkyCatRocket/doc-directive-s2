@@ -1,2 +1,4 @@
-= Chapitre 1 - Champ
+include::article-267.adoc[]
+
+include::article-268.adoc[]
 

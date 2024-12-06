@@ -1,6 +1,6 @@
-= Article 251
+== Article 251
 
-Demandes du contrôleur du groupe adressées aux autres autorités de contrôle
+=== Demandes du contrôleur du groupe adressées aux autres autorités de contrôle
 
 Lorsque les autorités de contrôle de l'État membre où une entreprise mère a son siège social n'exercent pas elles-mêmes le contrôle du groupe conformément à l'article 247, le contrôleur du groupe peut inviter ces autorités à demander à l'entreprise mère toutes les informations utiles à l'exercice de ses droits et obligations de coordination, tels que définis à l'article 248, et à lui communiquer lesdites informations.
 

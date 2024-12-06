@@ -1,6 +1,6 @@
-= Article 312
+== Article 312
 
-Destinataires
+=== Destinataires
 
 Les États membres sont destinataires de la présente directive.
 

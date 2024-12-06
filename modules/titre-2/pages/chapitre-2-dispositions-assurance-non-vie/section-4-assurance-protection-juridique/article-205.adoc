@@ -1,6 +1,6 @@
-= Article 205
+== Article 205
 
-Suppression de la spécialisation en assurance-protection juridique
+=== Suppression de la spécialisation en assurance-protection juridique
 
 Les États membres suppriment toute disposition interdisant à une entreprise d'assurance d'exercer sur leur territoire simultanément l'activité d'assurance-protection juridique et des activités relevant d'autres branches d'assurance.
 

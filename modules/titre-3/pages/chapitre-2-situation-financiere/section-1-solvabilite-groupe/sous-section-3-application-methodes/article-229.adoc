@@ -1,6 +1,6 @@
-= Article 229
+== Article 229
 
-Indisponibilité des informations nécessaires
+=== Indisponibilité des informations nécessaires
 
 Lorsque les autorités de contrôle concernées ne disposent pas des informations nécessaires au calcul de la solvabilité du groupe d'une entreprise d'assurance ou de réassurance relativement à une entreprise liée ayant son siège social dans un État membre ou un pays tiers, la valeur comptable de cette entreprise dans l'entreprise d'assurance ou de réassurance participante est déduite des fonds propres éligibles à la couverture de la solvabilité du groupe.
 

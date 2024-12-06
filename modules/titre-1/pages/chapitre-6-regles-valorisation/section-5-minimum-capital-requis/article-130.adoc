@@ -1,6 +1,6 @@
-= Article 130
+== Article 130
 
-Mesures d'exécution
+=== Mesures d'exécution
 
 La Commission arrête des mesures d'exécution précisant le mode de calcul du minimum de capital requis visé aux articles 128 et 129.
 

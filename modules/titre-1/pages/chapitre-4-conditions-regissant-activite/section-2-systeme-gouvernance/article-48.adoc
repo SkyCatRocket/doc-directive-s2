@@ -1,6 +1,6 @@
-= Article 48
+== Article 48
 
-Fonction actuarielle
+=== Fonction actuarielle
 
 1.   Les entreprises d'assurance et de réassurance mettent en place une fonction actuarielle efficace afin de:
 

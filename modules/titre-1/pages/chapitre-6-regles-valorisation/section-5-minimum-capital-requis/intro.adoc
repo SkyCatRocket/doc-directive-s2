@@ -1,2 +1,8 @@
-= Section 5 - Minimum
+include::article-128.adoc[]
+
+include::article-129.adoc[]
+
+include::article-130.adoc[]
+
+include::article-131.adoc[]
 

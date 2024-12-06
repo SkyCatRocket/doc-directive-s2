@@ -1,6 +1,6 @@
-= Article 288
+== Article 288
 
-Compensation
+=== Compensation
 
 1.   L'adoption de mesures d'assainissement ou l'ouverture d'une procédure de liquidation n'affecte pas le droit d'un créancier d'invoquer la compensation de sa créance avec la créance de l'entreprise d'assurance, lorsque cette compensation est permise par le droit applicable à la créance de l'entreprise d'assurance.
 

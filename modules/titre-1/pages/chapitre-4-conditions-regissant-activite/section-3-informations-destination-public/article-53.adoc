@@ -1,6 +1,6 @@
-= Article 53
+== Article 53
 
-Rapport sur la solvabilité et la situation financière: principes applicables
+=== Rapport sur la solvabilité et la situation financière: principes applicables
 
 1.   Les entreprises d'assurance et de réassurance sont autorisées par les autorités de contrôle à ne pas publier une information dans les cas suivants:
 

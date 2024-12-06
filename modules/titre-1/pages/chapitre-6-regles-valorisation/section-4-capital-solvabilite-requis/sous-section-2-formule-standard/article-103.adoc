@@ -1,6 +1,6 @@
-= Article 103
+== Article 103
 
-Structure de la formule standard
+=== Structure de la formule standard
 
 Le capital de solvabilité requis calculé selon la formule standard est la somme des éléments suivants:
 

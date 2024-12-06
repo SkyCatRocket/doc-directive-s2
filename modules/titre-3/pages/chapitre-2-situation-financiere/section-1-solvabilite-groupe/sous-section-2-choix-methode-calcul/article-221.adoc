@@ -1,6 +1,6 @@
-= Article 221
+== Article 221
 
-Inclusion de la part proportionnelle
+=== Inclusion de la part proportionnelle
 
 1.   Le calcul de la solvabilité du groupe tient compte de la part proportionnelle détenue par l'entreprise participante dans ses entreprises liées.
 

@@ -1,6 +1,6 @@
-= Article 246
+== Article 246
 
-Contrôle du système de gouvernance
+=== Contrôle du système de gouvernance
 
 1.   Les exigences prévues au titre I, chapitre IV, section 2, s'appliquentmutatis mutandisau niveau du groupe.
 

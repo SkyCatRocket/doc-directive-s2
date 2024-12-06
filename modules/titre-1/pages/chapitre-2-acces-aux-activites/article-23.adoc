@@ -1,6 +1,6 @@
-= Article 23
+== Article 23
 
-Programme d'activité
+=== Programme d'activité
 
 1.   Le programme d'activité visé à l'article 18, paragraphe 1, point c), comprend les indications ou justifications concernant les éléments suivants:
 

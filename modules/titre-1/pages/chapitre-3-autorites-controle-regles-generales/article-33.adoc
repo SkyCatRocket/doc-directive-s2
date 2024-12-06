@@ -1,6 +1,6 @@
-= Article 33
+== Article 33
 
-Contrôle des succursales établies dans un autre État membre
+=== Contrôle des succursales établies dans un autre État membre
 
 Les États membres prévoient que, lorsqu'une entreprise d'assurance ou de réassurance agréée dans un autre État membre exerce son activité via une succursale, les autorités de contrôle de l'État membre d'origine peuvent, après en avoir informé les autorités de contrôle de l'État membre d'accueil concerné, procéder elles-mêmes, ou par l'intermédiaire de personnes mandatées à cet effet, à des vérifications sur place des informations nécessaires pour assurer le contrôle financier de l'entreprise.
 

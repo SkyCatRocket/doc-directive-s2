@@ -1,2 +1,2 @@
-= Section 1 - Droit
+include::article-178.adoc[]
 

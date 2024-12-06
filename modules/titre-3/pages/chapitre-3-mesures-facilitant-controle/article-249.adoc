@@ -1,6 +1,6 @@
-= Article 249
+== Article 249
 
-Coopération et échange d'informations entre les autorités de contrôle
+=== Coopération et échange d'informations entre les autorités de contrôle
 
 1.   Les autorités responsables du contrôle des diverses entreprises d'assurance et de réassurance appartenant à un groupe et le contrôleur de ce groupe coopèrent étroitement, en particulier dans les cas ou une entreprise d'assurance ou de réassurance connaît des difficultés financières.
 

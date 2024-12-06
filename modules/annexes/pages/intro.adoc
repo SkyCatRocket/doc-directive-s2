@@ -1,2 +1,12 @@
-= Pages
+include::annexe-1.adoc[]
+
+include::annexe-2.adoc[]
+
+include::annexe-3.adoc[]
+
+include::annexe-4.adoc[]
+
+include::annexe-5.adoc[]
+
+include::annexe-6.adoc[]
 

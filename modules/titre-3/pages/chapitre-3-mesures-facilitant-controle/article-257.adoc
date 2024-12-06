@@ -1,6 +1,6 @@
-= Article 257
+== Article 257
 
-Organe d'administration, de gestion ou de contrôle des sociétés holding d'assurance
+=== Organe d'administration, de gestion ou de contrôle des sociétés holding d'assurance
 
 Les État membres exigent que toute personne qui gère effectivement la société holding d'assurance possède les compétences et l'honorabilité requises à cette fin.
 

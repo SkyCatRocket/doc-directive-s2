@@ -1,6 +1,6 @@
-= Article 225
+== Article 225
 
-Entreprises d'assurance et de réassurance liées
+=== Entreprises d'assurance et de réassurance liées
 
 Lorsque l'entreprise d'assurance ou de réassurance possède plusieurs entreprises d'assurance ou de réassurance liées, il est tenu compte de chacune d'elles dans le calcul de la solvabilité du groupe.
 

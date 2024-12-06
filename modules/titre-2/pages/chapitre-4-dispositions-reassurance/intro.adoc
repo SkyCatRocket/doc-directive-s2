@@ -1,2 +1,4 @@
-= Chapitre 4 - Dispositions
+include::article-210.adoc[]
+
+include::article-211.adoc[]
 

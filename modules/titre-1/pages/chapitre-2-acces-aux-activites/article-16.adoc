@@ -1,6 +1,6 @@
-= Article 16
+== Article 16
 
-Risques accessoires
+=== Risques accessoires
 
 1.   Une entreprise d'assurance qui a obtenu l'agrément pour un risque principal appartenant à une branche ou à un groupe de branches tels que mentionnés à l'annexe I peut également garantir des risques compris dans une autre branche sans avoir besoin d'obtenir l'agrément pour ces risques, dès lors que ceux-ci remplissent toutes les conditions suivantes:
 

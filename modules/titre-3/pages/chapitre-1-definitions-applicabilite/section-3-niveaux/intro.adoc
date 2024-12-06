@@ -1,2 +1,6 @@
-= Section 3 - Niveaux
+include::article-215.adoc[]
+
+include::article-216.adoc[]
+
+include::article-217.adoc[]
 

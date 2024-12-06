@@ -1,6 +1,6 @@
-= Article 281
+== Article 281
 
-Information des créanciers connus
+=== Information des créanciers connus
 
 1.   Lorsqu'une procédure de liquidation est ouverte, les autorités compétentes de l'État membre d'origine, le liquidateur ou toute personne désignée à cet effet par les autorités compétentes informent sans délai et individuellement par une note écrite chaque créancier connu qui a sa résidence habituelle, son domicile ou son siège social dans un autre État membre.
 

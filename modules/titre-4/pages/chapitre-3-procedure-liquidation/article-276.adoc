@@ -1,6 +1,6 @@
-= Article 276
+== Article 276
 
-Registre spécial
+=== Registre spécial
 
 1.   Toute entreprise d'assurance tient, à son siège social, un registre spécial des actifs représentant les provisions techniques calculées et placées conformément au droit de l'État membre d'origine.
 

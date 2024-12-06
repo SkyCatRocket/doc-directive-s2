@@ -1,2 +1,4 @@
-= Section 2 - Concentration
+include::article-244.adoc[]
+
+include::article-245.adoc[]
 

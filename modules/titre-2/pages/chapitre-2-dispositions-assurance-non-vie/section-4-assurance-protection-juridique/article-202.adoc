@@ -1,6 +1,6 @@
-= Article 202
+== Article 202
 
-Exception à la liberté de choix de l'avocat
+=== Exception à la liberté de choix de l'avocat
 
 1.   Les États membres peuvent exempter des dispositions de l'article 201, paragraphe 1, pour l'assurance-protection juridique si toutes les conditions suivantes sont remplies:
 

@@ -1,6 +1,6 @@
-= Article 127
+== Article 127
 
-Mesures d'exécution
+=== Mesures d'exécution
 
 Afin de garantir une approche harmonisée de l'utilisation des modèles internes dans toute la Communauté et de favoriser une meilleure évaluation du profil de risque des entreprises d'assurance et de réassurance ainsi que de la gestion de leurs activités, la Commission arrête des mesures d'exécution des articles 120 à 126.
 

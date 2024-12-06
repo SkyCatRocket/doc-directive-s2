@@ -1,6 +1,6 @@
-= Article 74
+== Article 74
 
-Gestion distincte des activités d'assurance vie et non-vie
+=== Gestion distincte des activités d'assurance vie et non-vie
 
 1.   La gestion distincte mentionnée à l'article 73 est organisée de telle sorte que l'activité d'assurance vie et l'activité d'assurance non-vie soient séparées.
 

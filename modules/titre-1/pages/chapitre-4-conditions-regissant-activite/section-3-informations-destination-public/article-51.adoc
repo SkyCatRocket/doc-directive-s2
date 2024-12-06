@@ -1,6 +1,6 @@
-= Article 51
+== Article 51
 
-Rapport sur la solvabilité et la situation financière: contenu
+=== Rapport sur la solvabilité et la situation financière: contenu
 
 1.   Les États membres exigent des entreprises d'assurance et de réassurance qu'elles publient annuellement, en tenant compte des informations requises à l'article 35, paragraphe 3, et des principes énoncés à l'article 35, paragraphe 4, un rapport sur leur solvabilité et leur situation financière.
 

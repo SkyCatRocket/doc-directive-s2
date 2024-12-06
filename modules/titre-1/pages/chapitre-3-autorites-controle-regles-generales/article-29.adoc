@@ -1,6 +1,6 @@
-= Article 29
+== Article 29
 
-Principes généraux du contrôle
+=== Principes généraux du contrôle
 
 1.   Le contrôle repose sur une approche prospective et fondée sur les risques. Il inclut la vérification continue du bon fonctionnement de l'activité d'assurance ou de réassurance, ainsi que du respect, par les entreprises d'assurance et de réassurance, des dispositions applicables en matière de contrôle.
 

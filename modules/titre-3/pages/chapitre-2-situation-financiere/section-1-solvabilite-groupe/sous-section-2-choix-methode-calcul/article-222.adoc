@@ -1,6 +1,6 @@
-= Article 222
+== Article 222
 
-Élimination du double emploi des fonds propres éligibles
+=== Élimination du double emploi des fonds propres éligibles
 
 1.   Le double emploi des fonds propres éligibles en couverture du capital de solvabilité requis des différentes entreprises d'assurance ou de réassurance prises en compte dans le calcul est interdit.
 

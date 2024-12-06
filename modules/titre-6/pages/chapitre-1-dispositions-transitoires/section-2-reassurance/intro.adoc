@@ -1,2 +1,4 @@
-= Section 2 - Reassurance
+include::article-307.adoc[]
+
+include::article-308.adoc[]
 

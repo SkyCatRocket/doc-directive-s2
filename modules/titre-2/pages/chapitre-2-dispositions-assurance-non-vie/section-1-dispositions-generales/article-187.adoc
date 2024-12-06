@@ -1,5 +1,5 @@
-= Article 187
+== Article 187
 
-Conditions des polices d'assurance
+=== Conditions des polices d'assurance
 
 Les conditions générales et particulières des polices ne comprennent pas de conditions destinées à répondre dans un cas déterminé aux circonstances particulières du risque à couvrir.

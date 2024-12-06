@@ -1,6 +1,6 @@
-= Article 296
+== Article 296
 
-Traitement des succursales d'entreprises d'assurance de pays tiers
+=== Traitement des succursales d'entreprises d'assurance de pays tiers
 
 Lorsqu'une entreprise d'assurance d'un pays tiers possède des succursales établies dans plus d'un État membre, chaque succursale fait l'objet d'un traitement indépendant pour ce qui concerne l'application du présent titre.
 

@@ -1,6 +1,6 @@
-= Article 89
+== Article 89
 
-Fonds propres auxiliaires
+=== Fonds propres auxiliaires
 
 1.   Les fonds propres auxiliaires se composent d'éléments, autres que les fonds propres de base, qui peuvent être appelés pour absorber des pertes.
 

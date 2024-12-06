@@ -1,6 +1,6 @@
-= Article 283
+== Article 283
 
-Langues et formulaire
+=== Langues et formulaire
 
 1.   Les informations figurant dans la note visée à l'article 281, paragraphe 1, sont fournies dans la langue officielle de l'État membre d'origine ou l'une des langues officielles de cet État.
 

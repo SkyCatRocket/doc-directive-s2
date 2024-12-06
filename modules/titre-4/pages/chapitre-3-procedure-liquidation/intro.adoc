@@ -1,2 +1,24 @@
-= Chapitre 3 - Procedure
+include::article-273.adoc[]
+
+include::article-274.adoc[]
+
+include::article-275.adoc[]
+
+include::article-276.adoc[]
+
+include::article-277.adoc[]
+
+include::article-278.adoc[]
+
+include::article-279.adoc[]
+
+include::article-280.adoc[]
+
+include::article-281.adoc[]
+
+include::article-282.adoc[]
+
+include::article-283.adoc[]
+
+include::article-284.adoc[]
 

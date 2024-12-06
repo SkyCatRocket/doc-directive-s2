@@ -1,2 +1,2 @@
-= Section 3 - Definitions
+include::article-13.adoc[]
 

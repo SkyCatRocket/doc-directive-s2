@@ -1,6 +1,6 @@
-= Article 233
+== Article 233
 
-Seconde méthode (méthode de remplacement): méthode fondée sur la déduction et l'agrégation
+=== Seconde méthode (méthode de remplacement): méthode fondée sur la déduction et l'agrégation
 
 1.   La solvabilité du groupe de l'entreprise d'assurance ou de réassurance participante est égale à la différence entre:
 

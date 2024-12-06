@@ -1,6 +1,6 @@
-= Article 141
+== Article 141
 
-Pouvoirs de contrôle en cas de détérioration des conditions financières
+=== Pouvoirs de contrôle en cas de détérioration des conditions financières
 
 Nonobstant les articles 138 et 139, lorsque la solvabilité de l'entreprise continue à se détériorer, les autorités de contrôle ont le pouvoir de prendre toute mesure nécessaire pour sauvegarder les intérêts des preneurs dans le cas des contrats d'assurance, ou assurer l'exécution des obligations découlant de contrats de réassurance.
 

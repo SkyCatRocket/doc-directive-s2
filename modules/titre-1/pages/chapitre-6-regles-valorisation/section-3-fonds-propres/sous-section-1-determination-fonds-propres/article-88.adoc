@@ -1,6 +1,6 @@
-= Article 88
+== Article 88
 
-Fonds propres de base
+=== Fonds propres de base
 
 Les fonds propres de base se composent des éléments suivants:
 

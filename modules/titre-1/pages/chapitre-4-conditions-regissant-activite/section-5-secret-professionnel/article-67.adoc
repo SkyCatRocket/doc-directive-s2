@@ -1,6 +1,6 @@
-= Article 67
+== Article 67
 
-Utilisation des informations confidentielles
+=== Utilisation des informations confidentielles
 
 Les autorités de contrôle qui, au titre des articles 64 ou 65, reçoivent des informations confidentielles ne peuvent les utiliser que dans l'exercice de leurs fonctions et aux fins suivantes:
 

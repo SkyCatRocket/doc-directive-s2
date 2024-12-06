@@ -1,6 +1,6 @@
-= Article 56
+== Article 56
 
-Rapport sur la solvabilité et la situation financière: mesures d'exécution
+=== Rapport sur la solvabilité et la situation financière: mesures d'exécution
 
 La Commission arrête des mesures d'exécution précisant quelles informations doivent être publiées et par quels moyens.
 

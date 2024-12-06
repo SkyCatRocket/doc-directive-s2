@@ -1,6 +1,6 @@
-= Article 286
+== Article 286
 
-Droits réels des tiers
+=== Droits réels des tiers
 
 1.   L'adoption de mesures d'assainissement ou l'ouverture d'une procédure de liquidation n'affecte pas les droits réels d'un créancier ou d'un tiers sur des actifs corporels ou incorporels, meubles ou immeubles – tant des actifs déterminés que des ensembles d'actifs indéterminés dont la composition est sujette à modification – appartenant à l'entreprise d'assurance et qui se trouvent, au moment de l'adoption de telles mesures ou de l'ouverture d'une telle procédure, sur le territoire d'un autre État membre.
 

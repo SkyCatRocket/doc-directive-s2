@@ -1,2 +1,26 @@
-= Chapitre 3 - Autorites
+include::article-27.adoc[]
+
+include::article-28.adoc[]
+
+include::article-29.adoc[]
+
+include::article-30.adoc[]
+
+include::article-31.adoc[]
+
+include::article-32.adoc[]
+
+include::article-33.adoc[]
+
+include::article-34.adoc[]
+
+include::article-35.adoc[]
+
+include::article-36.adoc[]
+
+include::article-37.adoc[]
+
+include::article-38.adoc[]
+
+include::article-39.adoc[]
 

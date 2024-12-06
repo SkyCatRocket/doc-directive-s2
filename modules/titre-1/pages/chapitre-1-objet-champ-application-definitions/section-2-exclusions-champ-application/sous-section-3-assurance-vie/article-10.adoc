@@ -1,6 +1,6 @@
-= Article 10
+== Article 10
 
-Organisations, entreprises et organismes
+=== Organisations, entreprises et organismes
 
 Pour ce qui concerne l'assurance vie, la présente directive ne s'applique pas aux organisations, entreprises et organismes suivants:
 

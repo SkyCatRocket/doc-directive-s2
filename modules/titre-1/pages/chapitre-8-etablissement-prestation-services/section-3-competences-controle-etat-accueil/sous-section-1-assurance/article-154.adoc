@@ -1,6 +1,6 @@
-= Article 154
+== Article 154
 
-Notification et approbation préalables
+=== Notification et approbation préalables
 
 1.   L'État membre d'accueil n'arrête pas de dispositions exigeant l'approbation préalable ou la notification systématique des conditions générales et particulières des polices d'assurance, des tarifs ou, dans le cas de l'assurance vie, des bases techniques utilisées notamment pour le calcul des tarifs et des provisions techniques, et des formulaires et autres documents que l'entreprise d'assurance se propose d'utiliser dans ses relations avec les preneurs d'assurance.
 

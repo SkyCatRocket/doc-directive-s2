@@ -1,6 +1,6 @@
-= Article 40
+== Article 40
 
-Responsabilité de l'organe d'administration, de gestion ou de contrôle
+=== Responsabilité de l'organe d'administration, de gestion ou de contrôle
 
 Les États membres veillent à ce que l'organe d'administration, de gestion ou de contrôle de l'entreprise d'assurance ou de réassurance assume la responsabilité finale du respect, par l'entreprise concernée, des dispositions législatives, réglementaires et administratives adoptées en vertu de la présente directive.
 

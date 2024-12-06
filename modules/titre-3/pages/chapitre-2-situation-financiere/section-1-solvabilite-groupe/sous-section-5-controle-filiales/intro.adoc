@@ -1,2 +1,2 @@
-= Sous section - 5
+include::article-235.adoc[]
 

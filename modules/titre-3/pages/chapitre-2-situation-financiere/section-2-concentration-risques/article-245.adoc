@@ -1,6 +1,6 @@
-= Article 245
+== Article 245
 
-Contrôle des transactions intragroupe
+=== Contrôle des transactions intragroupe
 
 1.   Le contrôle des transactions intragroupe est exercé conformément aux paragraphes 2 et 3 du présent article, à l'article 246 et au chapitre III.
 

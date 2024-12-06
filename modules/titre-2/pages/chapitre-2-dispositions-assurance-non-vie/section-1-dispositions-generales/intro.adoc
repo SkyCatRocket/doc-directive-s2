@@ -1,2 +1,6 @@
-= Section 1 - Dispositions
+include::article-187.adoc[]
+
+include::article-188.adoc[]
+
+include::article-189.adoc[]
 

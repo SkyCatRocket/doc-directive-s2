@@ -1,6 +1,6 @@
-= Article 13
+== Article 13
 
-Définitions
+=== Définitions
 
 Aux fins de la présente directive, on entend par:
 

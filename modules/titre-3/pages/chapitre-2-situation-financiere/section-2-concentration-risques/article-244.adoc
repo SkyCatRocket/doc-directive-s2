@@ -1,6 +1,6 @@
-= Article 244
+== Article 244
 
-Contrôle de la concentration de risques
+=== Contrôle de la concentration de risques
 
 1.   Le contrôle de la concentration de risques au niveau des groupes est exercé conformément aux paragraphes 2 et 3 du présent article, à l'article 246 et au chapitre III.
 

@@ -1,6 +1,6 @@
-= Article 230
+== Article 230
 
-Première méthode (méthode par défaut): Méthode fondée sur la consolidation comptable
+=== Première méthode (méthode par défaut): Méthode fondée sur la consolidation comptable
 
 1.   Le calcul de la solvabilité du groupe de l'entreprise d'assurance ou de réassurance participante est effectué sur la base des comptes consolidés.
 

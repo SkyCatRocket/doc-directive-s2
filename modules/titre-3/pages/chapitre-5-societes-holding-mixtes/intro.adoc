@@ -1,2 +1,4 @@
-= Chapitre 5 - Societes
+include::article-265.adoc[]
+
+include::article-266.adoc[]
 

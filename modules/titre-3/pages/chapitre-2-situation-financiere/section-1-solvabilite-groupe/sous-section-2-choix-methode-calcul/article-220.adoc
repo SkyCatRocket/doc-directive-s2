@@ -1,6 +1,6 @@
-= Article 220
+== Article 220
 
-Choix de la méthode
+=== Choix de la méthode
 
 1.   Le calcul de la solvabilité au niveau du groupe des entreprises d'assurance et de réassurance visées à l'article 213, paragraphe 2, point a), est effectué conformément aux principes techniques et à l'une des méthodes énoncés aux articles 221 à 233.
 

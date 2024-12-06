@@ -1,5 +1,5 @@
-= Article 299
+== Article 299
 
-Euro
+=== Euro
 
 Lorsque la présente directive fait référence à l'euro, la contrevaleur en monnaie nationale à prendre en considération à partir du 31 décembre de chaque année est celle du dernier jour du mois d'octobre précédent pour lequel sont disponibles les contrevaleurs de l'euro dans toutes les monnaies de la Communauté.

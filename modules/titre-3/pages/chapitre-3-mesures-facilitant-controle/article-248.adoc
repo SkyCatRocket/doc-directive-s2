@@ -1,6 +1,6 @@
-= Article 248
+== Article 248
 
-Droits et obligations du contrôleur du groupe et des autres contrôleurs – Collège des contrôleurs
+=== Droits et obligations du contrôleur du groupe et des autres contrôleurs – Collège des contrôleurs
 
 1.   Les droits et obligations du contrôleur du groupe en matière de contrôle du groupe comportent ce qui suit:
 

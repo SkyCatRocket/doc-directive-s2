@@ -1,6 +1,6 @@
-= Article 242
+== Article 242
 
-Réexamen
+=== Réexamen
 
 1.   Au plus tard le 31 octobre 2014, la Commission procède à l'évaluation de l'application du titre III, notamment en ce qui concerne la coopération des autorités de contrôle au sein du collège des contrôleurs, et le bon fonctionnement de ce collège, le statut juridique du CECAPP et les pratiques de contrôle pour le recours aux exigences de capital supplémentaire, et elle présente au Parlement européen et au Conseil un rapport, accompagné, s'il y a lieu, de propositions de modification de la présente directive.
 

@@ -1,6 +1,6 @@
-= Article 139
+== Article 139
 
-Non-conformité du minimum de capital requis
+=== Non-conformité du minimum de capital requis
 
 1.   Les entreprises d'assurance et de réassurance informent immédiatement l'autorité de contrôle lorsqu'elles constatent que le minimum de capital requis n'est plus conforme, ou qu'il risque de ne plus l'être dans les trois prochains mois.
 

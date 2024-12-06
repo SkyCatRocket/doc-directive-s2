@@ -1,6 +1,6 @@
-= Article 226
+== Article 226
 
-Sociétés holding d'assurance intermédiaires
+=== Sociétés holding d'assurance intermédiaires
 
 1.   Pour le calcul de la solvabilité du groupe d'une entreprise d'assurance ou de réassurance qui détient, par l'intermédiaire d'une société holding d'assurance, une participation dans une entreprise d'assurance ou de réassurance liée ou dans une entreprise d'assurance ou de réassurance d'un pays tiers, la situation de cette société holding d'assurance est prise en compte.
 

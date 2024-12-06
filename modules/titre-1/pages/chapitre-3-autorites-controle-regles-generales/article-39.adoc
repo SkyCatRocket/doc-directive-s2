@@ -1,6 +1,6 @@
-= Article 39
+== Article 39
 
-Transfert de portefeuille
+=== Transfert de portefeuille
 
 1.   Dans les conditions prévues par le droit national, les États membres autorisent les entreprises d'assurance et de réassurance dont le siège social est situé sur leur territoire à transférer tout ou partie de leur portefeuille de contrats, qu'il ait été souscrit en vertu du droit d'établissement ou de la libre prestation de services, à une entreprise cessionnaire établie dans la Communauté.
 

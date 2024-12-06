@@ -1,6 +1,6 @@
-= Article 209
+== Article 209
 
-Primes pour affaires nouvelles
+=== Primes pour affaires nouvelles
 
 Les primes pour les affaires nouvelles doivent être suffisantes, selon des hypothèses actuarielles raisonnables, pour permettre à l'entreprise d'assurance vie de satisfaire à l'ensemble de ses engagements, et notamment de constituer les provisions techniques adéquates.
 

@@ -1,6 +1,6 @@
-= Article 113
+== Article 113
 
-Dispositions spécifiques régissant l'approbation des modèles internes partiels
+=== Dispositions spécifiques régissant l'approbation des modèles internes partiels
 
 1.   Un modèle interne partiel n'est approuvé par les autorités de contrôle que lorsqu'il satisfait aux exigences énoncées à l'article 112 et aux conditions additionnelles suivantes:
 

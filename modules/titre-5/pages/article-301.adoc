@@ -1,6 +1,6 @@
-= Article 301
+== Article 301
 
-Comité
+=== Comité
 
 1.   La Commission est assistée du comité européen des assurances et des pensions professionnelles.
 

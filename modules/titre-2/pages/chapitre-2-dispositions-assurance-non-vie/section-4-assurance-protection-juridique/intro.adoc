@@ -1,2 +1,16 @@
-= Section 4 - Assurance
+include::article-198.adoc[]
+
+include::article-199.adoc[]
+
+include::article-200.adoc[]
+
+include::article-201.adoc[]
+
+include::article-202.adoc[]
+
+include::article-203.adoc[]
+
+include::article-204.adoc[]
+
+include::article-205.adoc[]
 

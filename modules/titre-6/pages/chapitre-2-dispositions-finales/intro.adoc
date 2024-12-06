@@ -1,2 +1,8 @@
-= Chapitre 2 - Dispositions
+include::article-309.adoc[]
+
+include::article-310.adoc[]
+
+include::article-311.adoc[]
+
+include::article-312.adoc[]
 

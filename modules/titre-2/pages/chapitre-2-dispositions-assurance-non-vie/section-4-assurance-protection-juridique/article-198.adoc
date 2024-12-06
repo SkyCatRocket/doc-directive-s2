@@ -1,6 +1,6 @@
-= Article 198
+== Article 198
 
-Champ d'application de la présente section
+=== Champ d'application de la présente section
 
 1.   La présente section s'applique à l'assurance-protection juridique visée à la branche 17 de la partie A de l'annexe I, par laquelle une entreprise d'assurance s'engage, moyennant le paiement d'une prime, à prendre en charge des frais de procédure judiciaire et à fournir d'autres services directement liés à la couverture d'assurance, notamment en vue:
 

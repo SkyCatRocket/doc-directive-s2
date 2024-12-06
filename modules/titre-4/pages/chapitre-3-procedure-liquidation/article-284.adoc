@@ -1,6 +1,6 @@
-= Article 284
+== Article 284
 
-Information régulière des créanciers
+=== Information régulière des créanciers
 
 1.   Les liquidateurs informent régulièrement les créanciers, d'une manière appropriée, sur l'évolution de la liquidation.
 

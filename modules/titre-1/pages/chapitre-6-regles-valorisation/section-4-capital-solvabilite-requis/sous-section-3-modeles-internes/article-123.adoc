@@ -1,6 +1,6 @@
-= Article 123
+== Article 123
 
-Attribution des profits et des pertes
+=== Attribution des profits et des pertes
 
 Les entreprises d'assurance et de réassurance examinent, au moins une fois par an, les origines et les causes des profits et pertes enregistrés par chacune de leurs unités opérationnelles majeures.
 

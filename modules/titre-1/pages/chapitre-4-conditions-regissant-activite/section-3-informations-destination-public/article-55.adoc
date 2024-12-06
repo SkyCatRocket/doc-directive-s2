@@ -1,6 +1,6 @@
-= Article 55
+== Article 55
 
-Rapport sur la solvabilité et la situation financière: politique à suivre et approbation
+=== Rapport sur la solvabilité et la situation financière: politique à suivre et approbation
 
 1.   Les États membres exigent des entreprises d'assurance et de réassurance qu'elles mettent en place des structures et systèmes appropriés pour satisfaire aux exigences énoncées aux articles 51 et 53 et à l'article 54, paragraphe 1, ainsi qu'une politique écrite visant à garantir l'adéquation permanente de toute information publiée conformément aux articles 51, 53 et 54.
 

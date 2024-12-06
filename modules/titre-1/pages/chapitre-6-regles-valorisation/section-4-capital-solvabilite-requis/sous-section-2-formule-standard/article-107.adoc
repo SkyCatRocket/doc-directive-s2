@@ -1,6 +1,6 @@
-= Article 107
+== Article 107
 
-Exigence de capital pour risque opérationnel
+=== Exigence de capital pour risque opérationnel
 
 1.   L'exigence de capital pour risque opérationnel reflète les risques opérationnels, dans la mesure où ceux-ci ne sont pas déjà pris en considération dans les modules de risque visés à l'article 104. Cette exigence est calibrée conformément à l'article 101, paragraphe 3.
 

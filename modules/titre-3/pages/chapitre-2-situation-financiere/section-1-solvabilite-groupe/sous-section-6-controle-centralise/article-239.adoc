@@ -1,6 +1,6 @@
-= Article 239
+== Article 239
 
-Filiales d'une entreprise d'assurance ou de réassurance: non-conformité au capital de solvabilité requis et au minimum de capital requis
+=== Filiales d'une entreprise d'assurance ou de réassurance: non-conformité au capital de solvabilité requis et au minimum de capital requis
 
 1.   En cas de non-conformité au capital de solvabilité requis et sans préjudice de l'article 138, l'autorité de contrôle ayant agréé la filiale communique sans délai au collège des contrôleurs le programme de rétablissement soumis par la filiale en vue, dans un délai de six mois après la constatation de sa non-conformité au capital de solvabilité requis, de rétablir le niveau de fonds propres éligibles ou de réduire son profil de risque afin d'assurer sa conformité au capital de solvabilité requis.
 

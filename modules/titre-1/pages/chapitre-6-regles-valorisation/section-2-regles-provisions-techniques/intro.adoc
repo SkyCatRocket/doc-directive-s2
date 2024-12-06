@@ -1,2 +1,22 @@
-= Section 2 - Regles
+include::article-76.adoc[]
+
+include::article-77.adoc[]
+
+include::article-78.adoc[]
+
+include::article-79.adoc[]
+
+include::article-80.adoc[]
+
+include::article-81.adoc[]
+
+include::article-82.adoc[]
+
+include::article-83.adoc[]
+
+include::article-84.adoc[]
+
+include::article-85.adoc[]
+
+include::article-86.adoc[]
 

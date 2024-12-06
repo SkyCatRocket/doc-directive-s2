@@ -1,5 +1,5 @@
-= Article 195
+== Article 195
 
-Échange d'informations entre autorités de contrôle
+=== Échange d'informations entre autorités de contrôle
 
 Aux fins de la mise en œuvre de la présente section, les autorités de contrôle des États membres se communiquent, dans le cadre de la collaboration visée au titre I, chapitre IV, section 5, toutes les informations nécessaires.

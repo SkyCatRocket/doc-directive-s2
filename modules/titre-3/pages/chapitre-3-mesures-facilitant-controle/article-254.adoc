@@ -1,6 +1,6 @@
-= Article 254
+== Article 254
 
-Accès aux informations
+=== Accès aux informations
 
 1.   Les États membres veillent à ce que les personnes physiques et morales incluses dans le champ du contrôle des groupes ainsi que leurs entreprises liées et participantes puissent échanger toute information pouvant présenter un intérêt aux fins du contrôle des groupes.
 

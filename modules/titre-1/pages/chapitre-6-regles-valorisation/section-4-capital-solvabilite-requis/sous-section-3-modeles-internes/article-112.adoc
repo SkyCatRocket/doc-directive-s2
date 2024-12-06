@@ -1,6 +1,6 @@
-= Article 112
+== Article 112
 
-Dispositions générales régissant l'approbation des modèles internes intégraux et partiels
+=== Dispositions générales régissant l'approbation des modèles internes intégraux et partiels
 
 1.   Les États membres veillent à ce que les entreprises d'assurance et de réassurance puissent calculer leur capital de solvabilité requis à l'aide d'un modèle interne intégral ou partiel approuvé par les autorités de contrôle.
 

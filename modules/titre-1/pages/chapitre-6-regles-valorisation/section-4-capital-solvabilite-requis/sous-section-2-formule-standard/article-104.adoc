@@ -1,6 +1,6 @@
-= Article 104
+== Article 104
 
-Conception du capital de solvabilité requis de base
+=== Conception du capital de solvabilité requis de base
 
 1.   Le capital de solvabilité requis de base se compose de modules de risque individuels qui sont agrégés conformément au point 1 de l'annexe IV.
 

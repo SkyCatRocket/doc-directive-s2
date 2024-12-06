@@ -1,6 +1,6 @@
-= Article 179
+== Article 179
 
-Obligations connexes
+=== Obligations connexes
 
 1.   Les entreprises d'assurance non-vie peuvent offrir et conclure des contrats d'assurance obligatoire dans les conditions énoncées au présent article.
 

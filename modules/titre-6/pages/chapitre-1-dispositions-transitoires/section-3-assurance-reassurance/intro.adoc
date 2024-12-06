@@ -1,2 +1,4 @@
-= Section 3 - Assurance
+include::article-308bis.adoc[]
+
+include::article-308sexies.adoc[]
 

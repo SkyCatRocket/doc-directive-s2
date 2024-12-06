@@ -1,6 +1,6 @@
-= Article 75
+== Article 75
 
-Valorisation des actifs et des passifs
+=== Valorisation des actifs et des passifs
 
 1.   Les États membres veillent à ce que, sauf indication contraire, les entreprises d'assurance et de réassurance valorisent leurs actifs et leurs passifs comme suit:
 

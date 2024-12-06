@@ -1,6 +1,6 @@
-= Article 143
+== Article 143
 
-Mesures d'exécution
+=== Mesures d'exécution
 
 La Commission arrête des mesures d'exécution précisant les facteurs à prendre en compte aux fins de l'application de l'article 138, paragraphe 4, notamment la durée appropriée maximale, exprimée en mois, qui doivent être les mêmes pour toutes les entreprises d'assurance et de réassurance, telles que visées au premier alinéa dudit paragraphe.
 
